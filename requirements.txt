@@ -1,0 +1,43 @@
+# Python dependencies for the viral phenotype prediction pipeline.
+#
+# Canonical environment: conda env "viral-phenotype" on the University of
+# Liverpool Barkla HPC cluster (Python 3.11). Versions are left unpinned
+# because the analyses are not version-sensitive beyond the majors below;
+# all randomised components use random_state=42 for reproducibility.
+#
+#   conda create -n viral-phenotype python=3.11
+#   conda activate viral-phenotype
+#   pip install -r requirements.txt
+#
+# External (non-pip) tools also required:
+#   cd-hit      -- CD-HIT-EST, for sequence deduplication (scripts/dedup_sequences.py)
+#   blast+      -- blastn, for the nearest-neighbour baseline (scripts/blast_baseline.py)
+#
+# The Vir2vec model itself is NOT vendored here; it is downloaded from
+# HuggingFace: https://huggingface.co/pabloarozarenad/Vir2vec
+
+# --- core numerical / ML ---
+numpy
+pandas
+scipy
+scikit-learn          # imported as sklearn
+
+# --- deep learning (Tier 2 / Tier 3 fine-tuning) ---
+torch
+transformers          # HuggingFace, loads Vir2vec
+peft                  # LoRA adapters (Tier 3)
+
+# --- bioinformatics ---
+biopython             # imported as Bio; NCBI Entrez access, FASTA parsing
+
+# --- plotting / visualisation ---
+matplotlib
+seaborn
+plotly                # 3D network figures
+umap-learn            # imported as umap; embedding-space projection
+networkx              # network construction / Gephi export
+
+# --- utilities ---
+tqdm
+openpyxl              # reading the .xlsx label workbooks
+requests
