@@ -1,0 +1,122 @@
+{
+  "human_to_human": {
+    "Random (Baseline)": {
+      "AUROC": 0.5069,
+      "AUPRC": 0.7137,
+      "MCC": 0.0137,
+      "F1_macro": 0.5068,
+      "F1_weighted": 0.5933,
+      "Brier": 0.4079
+    },
+    "Logistic Regression": {
+      "AUROC": 0.8224,
+      "AUPRC": 0.9083,
+      "MCC": 0.5164,
+      "F1_macro": 0.7571,
+      "F1_weighted": 0.797,
+      "Brier": 0.1813
+    },
+    "Random Forest": {
+      "AUROC": 0.864,
+      "AUPRC": 0.9359,
+      "MCC": 0.5295,
+      "F1_macro": 0.7623,
+      "F1_weighted": 0.8092,
+      "Brier": 0.1428
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.8711,
+      "AUPRC": 0.9391,
+      "MCC": 0.555,
+      "F1_macro": 0.7691,
+      "F1_weighted": 0.818,
+      "Brier": 0.1292
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.8824,
+      "AUPRC": 0.944,
+      "MCC": 0.5705,
+      "F1_macro": 0.7843,
+      "F1_weighted": 0.8253,
+      "Brier": 0.1205
+    }
+  },
+  "zoonotic": {
+    "Random (Baseline)": {
+      "AUROC": 0.5022,
+      "AUPRC": 0.3083,
+      "MCC": 0.0044,
+      "F1_macro": 0.5022,
+      "F1_weighted": 0.5742,
+      "Brier": 0.4275
+    },
+    "Logistic Regression": {
+      "AUROC": 0.77,
+      "AUPRC": 0.5764,
+      "MCC": 0.3919,
+      "F1_macro": 0.6948,
+      "F1_weighted": 0.7359,
+      "Brier": 0.2206
+    },
+    "Random Forest": {
+      "AUROC": 0.8374,
+      "AUPRC": 0.7011,
+      "MCC": 0.4738,
+      "F1_macro": 0.7363,
+      "F1_weighted": 0.778,
+      "Brier": 0.1594
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.8297,
+      "AUPRC": 0.6768,
+      "MCC": 0.4487,
+      "F1_macro": 0.7161,
+      "F1_weighted": 0.7677,
+      "Brier": 0.153
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.8479,
+      "AUPRC": 0.7097,
+      "MCC": 0.521,
+      "F1_macro": 0.7587,
+      "F1_weighted": 0.7983,
+      "Brier": 0.1408
+    }
+  },
+  "holdout_h2h": {
+    "Logistic Regression": {
+      "AUROC": 0.9152,
+      "AUPRC": 0.6437
+    },
+    "Random Forest": {
+      "AUROC": 0.8862,
+      "AUPRC": 0.5184
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.8973,
+      "AUPRC": 0.5376
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.9732,
+      "AUPRC": 0.8844
+    }
+  },
+  "holdout_zoonotic": {
+    "Logistic Regression": {
+      "AUROC": 0.3243,
+      "AUPRC": 0.9438
+    },
+    "Random Forest": {
+      "AUROC": 0.4595,
+      "AUPRC": 0.953
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.1892,
+      "AUPRC": 0.9204
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.2432,
+      "AUPRC": 0.9316
+    }
+  }
+}

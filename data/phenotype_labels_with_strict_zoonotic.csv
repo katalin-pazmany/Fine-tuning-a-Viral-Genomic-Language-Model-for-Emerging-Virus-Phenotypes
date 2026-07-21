@@ -1,0 +1,1380 @@
+virus_taxid,virus,virus_family,virus_genus,human_to_human,zoonotic_relaxed,zoonotic_strict
+1172985,jingmen tick virus,Flaviviridae,Jingmenvirus,0,1,1
+2269360,alongshan virus,Flaviviridae,,0,1,1
+172148,alkhumra hemorrhagic fever virus,Flaviviridae,Orthoflavivirus,0,1,1
+64280,apoi virus,Flaviviridae,Orthoflavivirus,0,1,1
+64303,aroa virus,Flaviviridae,Orthoflavivirus,0,1,1
+64290,bagaza virus,Flaviviridae,Orthoflavivirus,0,1,1
+64305,cacipacore virus,Flaviviridae,Orthoflavivirus,0,1,1
+12637,dengue virus,Flaviviridae,Orthoflavivirus,1,1,1
+11053,dengue virus type 1,Flaviviridae,Orthoflavivirus,1,1,1
+11060,dengue virus type 2,Flaviviridae,Orthoflavivirus,1,1,1
+11069,dengue virus type 3,Flaviviridae,Orthoflavivirus,1,1,1
+11070,dengue virus type 4,Flaviviridae,Orthoflavivirus,1,1,1
+59563,ilheus virus,Flaviviridae,Orthoflavivirus,0,1,1
+11072,japanese encephalitis virus,Flaviviridae,Orthoflavivirus,0,1,1
+64311,kedougou virus,Flaviviridae,Orthoflavivirus,0,0,0
+44024,kokobera virus,Flaviviridae,Orthoflavivirus,0,1,1
+44025,koutango virus,Flaviviridae,Orthoflavivirus,0,1,1
+11077,kunjin virus,Flaviviridae,Orthoflavivirus,0,1,1
+33743,kyasanur forest disease virus,Flaviviridae,Orthoflavivirus,0,1,1
+11085,langat virus,Flaviviridae,Orthoflavivirus,0,1,1
+11086,louping ill virus,Flaviviridae,Orthoflavivirus,0,1,1
+64300,modoc virus,Flaviviridae,Orthoflavivirus,0,1,1
+64312,montana myotis leukoencephalitis virus,Flaviviridae,Orthoflavivirus,0,1,1
+11079,murray valley encephalitis virus,Flaviviridae,Orthoflavivirus,0,1,1
+64292,ntaya virus,Flaviviridae,Orthoflavivirus,0,0,0
+12542,omsk hemorrhagic fever virus,Flaviviridae,Orthoflavivirus,0,1,1
+11083,powassan virus,Flaviviridae,Orthoflavivirus,0,1,1
+64285,rio bravo virus,Flaviviridae,Orthoflavivirus,0,1,1
+64315,rocio virus,Flaviviridae,Orthoflavivirus,0,1,1
+44026,sepik virus,Flaviviridae,Orthoflavivirus,0,1,1
+64318,spondweni virus,Flaviviridae,Orthoflavivirus,0,1,1
+11080,st. louis encephalitis virus,Flaviviridae,Orthoflavivirus,0,1,1
+64293,tembusu virus,Flaviviridae,Orthoflavivirus,0,1,1
+11084,tick-borne encephalitis virus,Flaviviridae,Orthoflavivirus,0,1,1
+64286,usutu virus,Flaviviridae,Orthoflavivirus,0,1,1
+164416,wesselsbron virus,Flaviviridae,Orthoflavivirus,0,1,1
+11082,west nile virus,Flaviviridae,Orthoflavivirus,0,1,1
+11089,yellow fever virus,Flaviviridae,Orthoflavivirus,1,1,1
+64320,zika virus,Flaviviridae,Orthoflavivirus,1,1,1
+41856,hepatitis c virus genotype 1,Hepaciviridae,Orthohepacivirus,1,1,1
+40271,hepatitis c virus genotype 2,Hepaciviridae,Orthohepacivirus,1,0,0
+356114,hepatitis c virus genotype 3,Hepaciviridae,Orthohepacivirus,1,1,1
+33745,hepatitis c virus genotype 4,Hepaciviridae,Orthohepacivirus,1,0,0
+33746,hepatitis c virus genotype 5,Hepaciviridae,Orthohepacivirus,1,0,0
+42182,hepatitis c virus genotype 6,Hepaciviridae,Orthohepacivirus,1,0,0
+1544901,hepatitis c virus genotype 7,Hepaciviridae,Orthohepacivirus,1,0,0
+3052230,orthohepacivirus hominis,Hepaciviridae,Orthohepacivirus,1,1,1
+3052236,orthohepacivirus platyrrhini,Hepaciviridae,Orthohepacivirus,0,1,1
+54290,gb virus c,Hepaciviridae,Pegivirus,0,1,1
+1704090,human hepegivirus,Hepaciviridae,Pegivirus,1,0,0
+1758225,human pegivirus,Hepaciviridae,Pegivirus,1,0,0
+2594177,human pegivirus genotype 1,Hepaciviridae,Pegivirus,1,0,0
+11099,bovine viral diarrhea virus 1,Pestiviridae,Orthopestivirus,0,1,1
+54315,bovine viral diarrhea virus 2,Pestiviridae,Orthopestivirus,0,1,1
+352770,h10n3 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+102801,h10n7 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+114727,h1n1 subtype,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+114728,h1n2 subtype,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+114729,h2n2 subtype,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+157802,h3n1 subtype,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+119210,h3n2 subtype,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+215851,h3n3 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+102800,h4n6 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+102793,h5n1 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+329376,h5n6 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+119214,h7n2 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+119215,h7n3 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+325678,h7n4 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+119218,h7n7 subtype,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+333278,h7n9 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+102796,h9n2 subtype,Orthomyxoviridae,Alphainfluenzavirus,0,1,1
+11320,influenza a virus,Orthomyxoviridae,Alphainfluenzavirus,1,1,1
+11520,influenza b virus,Orthomyxoviridae,Betainfluenzavirus,1,1,1
+1618189,bourbon virus,Orthomyxoviridae,Thogotovirus,0,0,0
+2137161,oz virus,Orthomyxoviridae,Thogotovirus,0,1,1
+11318,thogotovirus dhoriense,Orthomyxoviridae,Thogotovirus,0,1,1
+11569,thogotovirus thogotoense,Orthomyxoviridae,Thogotovirus,0,1,1
+10407,hepatitis b virus,Hepadnaviridae,Orthohepadnavirus,1,1,1
+489455,hepatitis b virus genotype a,Hepadnaviridae,Orthohepadnavirus,1,0,0
+489460,hepatitis b virus genotype b,Hepadnaviridae,Orthohepadnavirus,1,1,1
+2764122,hepatitis b virus genotype c,Hepadnaviridae,Orthohepadnavirus,1,0,0
+2847137,hepatitis b virus genotype d,Hepadnaviridae,Orthohepadnavirus,1,1,1
+2847138,hepatitis b virus genotype e,Hepadnaviridae,Orthohepadnavirus,1,0,0
+2847139,hepatitis b virus genotype f,Hepadnaviridae,Orthohepadnavirus,1,0,0
+2847140,hepatitis b virus genotype g,Hepadnaviridae,Orthohepadnavirus,1,0,0
+2847141,hepatitis b virus genotype h,Hepadnaviridae,Orthohepadnavirus,1,0,0
+106820,hepatitis b virus subtype adr,Hepadnaviridae,Orthohepadnavirus,1,0,0
+106821,hepatitis b virus subtype adw,Hepadnaviridae,Orthohepadnavirus,1,0,0
+621278,recombinant hepatitis b virus,Hepadnaviridae,Orthohepadnavirus,1,0,0
+2025360,ny_014 poxvirus,Poxviridae,Centapoxvirus,0,0,0
+10279,molluscum contagiosum virus,Poxviridae,Molluscipoxvirus,1,1,1
+32605,buffalopox virus,Poxviridae,Orthopoxvirus,0,1,1
+28873,camelpox virus,Poxviridae,Orthopoxvirus,0,1,1
+10243,cowpox virus,Poxviridae,Orthopoxvirus,0,1,1
+12643,ectromelia virus,Poxviridae,Orthopoxvirus,0,1,1
+397342,horsepox virus,Poxviridae,Orthopoxvirus,0,1,1
+10244,monkeypox virus,Poxviridae,Orthopoxvirus,1,1,1
+2200830,orthopoxvirus akhmetapox,Poxviridae,Orthopoxvirus,0,1,1
+10245,orthopoxvirus vaccinia,Poxviridae,Orthopoxvirus,0,1,1
+12870,variola major virus,Poxviridae,Orthopoxvirus,1,0,0
+53258,variola minor virus,Poxviridae,Orthopoxvirus,1,0,0
+10255,variola virus,Poxviridae,Orthopoxvirus,1,1,1
+129727,bovine papular stomatitis virus,Poxviridae,Parapoxvirus,0,1,1
+10258,orf virus,Poxviridae,Parapoxvirus,0,1,1
+129726,pseudocowpox virus,Poxviridae,Parapoxvirus,0,1,1
+187984,seal parapoxvirus,Poxviridae,Parapoxvirus,0,1,1
+99000,tanapox virus,Poxviridae,Yatapoxvirus,0,1,1
+38804,yaba monkey tumor virus,Poxviridae,Yatapoxvirus,0,1,1
+132475,yaba-like disease virus,Poxviridae,Yatapoxvirus,0,1,1
+3052121,circovirus eniyan,Circoviridae,Circovirus,1,0,0
+133704,porcine circovirus 1,Circoviridae,Circovirus,0,1,1
+85708,porcine circovirus 2,Circoviridae,Circovirus,0,1,1
+1572667,cyclovirus ni-204,Circoviridae,Cyclovirus,0,0,0
+742919,cyclovirus pk6197,Circoviridae,Cyclovirus,0,0,0
+742925,cyclovirus tn18,Circoviridae,Cyclovirus,1,0,0
+742924,cyclovirus tn25,Circoviridae,Cyclovirus,1,0,0
+1348500,cyclovirus vn,Circoviridae,Cyclovirus,1,1,1
+2038719,human associated cyclovirus 1,Circoviridae,Cyclovirus,1,0,0
+2038728,human associated cyclovirus 10,Circoviridae,Cyclovirus,1,0,0
+1987745,human associated cyclovirus 11,Circoviridae,Cyclovirus,1,0,0
+2169855,human associated cyclovirus 12,Circoviridae,Cyclovirus,1,0,0
+2038720,human associated cyclovirus 2,Circoviridae,Cyclovirus,1,0,0
+2038721,human associated cyclovirus 3,Circoviridae,Cyclovirus,1,0,0
+2038723,human associated cyclovirus 5,Circoviridae,Cyclovirus,1,0,0
+2038724,human associated cyclovirus 6,Circoviridae,Cyclovirus,1,0,0
+2038725,human associated cyclovirus 7,Circoviridae,Cyclovirus,1,0,0
+2038727,human associated cyclovirus 9,Circoviridae,Cyclovirus,1,0,0
+1573584,human cyclovirus vn-like,Circoviridae,Cyclovirus,1,0,0
+2017081,human fecal virus jorvi2,Circoviridae,,1,0,0
+2017082,human fecal virus jorvi3,Circoviridae,,1,0,0
+2017083,human fecal virus jorvi4,Circoviridae,,1,0,0
+2017080,human fecal virus tarto,Circoviridae,,1,0,0
+1965018,human poscv5-like circular virus,Circoviridae,,1,0,0
+2714898,human respiratory circovirus-like 1,Circoviridae,,1,0,0
+2714899,human respiratory circovirus-like 2,Circoviridae,,1,0,0
+2057509,human respiratory circular dna virus,Circoviridae,,1,0,0
+2169934,human associated huchismacovirus 1,Smacoviridae,Huchismacovirus,1,0,0
+2169935,human associated huchismacovirus 2,Smacoviridae,Huchismacovirus,1,0,0
+2169936,human associated huchismacovirus 3,Smacoviridae,Huchismacovirus,1,0,0
+1595998,human smacovirus 1,Smacoviridae,Huchismacovirus,1,0,0
+2530494,human associated porprismacovirus,Smacoviridae,Inpeasmacovirus,1,0,0
+2170113,human associated porprismacovirus 1,Smacoviridae,Porprismacovirus,1,0,0
+2170114,human associated porprismacovirus 2,Smacoviridae,Porprismacovirus,1,0,0
+2496633,human associated porprismacovirus 3,Smacoviridae,Porprismacovirus,1,0,0
+1820159,human feces smacovirus 3,Smacoviridae,Porprismacovirus,1,0,0
+1914415,human feces-associated smacovirus,Smacoviridae,Porprismacovirus,1,0,0
+145856,human picobirnavirus,Picobirnaviridae,Orthopicobirnavirus,1,1,1
+86782,amur virus,Hantaviridae,Orthohantavirus,0,1,1
+93830,hantavirus z10,Hantaviridae,Orthohantavirus,0,0,0
+2259728,monongahela hantavirus,Hantaviridae,Orthohantavirus,0,1,1
+1980456,orthohantavirus andesense,Hantaviridae,Orthohantavirus,1,1,1
+3052474,orthohantavirus chocloense,Hantaviridae,Orthohantavirus,0,1,1
+3052477,orthohantavirus dobravaense,Hantaviridae,Orthohantavirus,0,1,1
+3052480,orthohantavirus hantanense,Hantaviridae,Orthohantavirus,0,1,1
+3052493,orthohantavirus puumalaense,Hantaviridae,Orthohantavirus,1,1,1
+3052498,orthohantavirus seoulense,Hantaviridae,Orthohantavirus,0,1,1
+3052499,orthohantavirus sinnombreense,Hantaviridae,Orthohantavirus,0,1,1
+3052503,orthohantavirus tulaense,Hantaviridae,Orthohantavirus,0,1,1
+3052789,thottimvirus thottapalayamense,Hantaviridae,Thottimvirus,0,1,1
+2609450,cristoli virus,,,0,0,0
+2748253,bangui virus,Peribunyaviridae,,0,0,0
+2748252,wanowrie virus,Peribunyaviridae,,0,0,0
+2170060,zegla orthobunyavirus,Peribunyaviridae,,0,1,1
+611708,boraceia virus,Peribunyaviridae,Orthobunyavirus,0,1,1
+1501396,ebinur lake virus,Peribunyaviridae,Orthobunyavirus,0,1,1
+1764076,gan gan virus,Peribunyaviridae,Orthobunyavirus,0,1,1
+507486,khatanga virus,Peribunyaviridae,Orthobunyavirus,0,0,0
+1678227,lukuni virus,Peribunyaviridae,Orthobunyavirus,0,0,0
+348008,murutucu virus,Peribunyaviridae,Orthobunyavirus,0,1,1
+273357,ngari virus,Peribunyaviridae,Orthobunyavirus,0,1,1
+2748254,okola virus,Peribunyaviridae,Orthobunyavirus,0,0,0
+3052370,orthobunyavirus bakauense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052371,orthobunyavirus bataiense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052381,orthobunyavirus bunyamweraense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052385,orthobunyavirus cacheense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052387,orthobunyavirus caraparuense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052390,orthobunyavirus encephalitidis,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052391,orthobunyavirus enseadaense,Peribunyaviridae,Orthobunyavirus,0,0,0
+3052397,orthobunyavirus guaroaense,Peribunyaviridae,Orthobunyavirus,0,1,1
+1933180,orthobunyavirus horizonteense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052399,orthobunyavirus ileshaense,Peribunyaviridae,Orthobunyavirus,0,0,0
+3052401,orthobunyavirus insulae,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052402,orthobunyavirus jamestownense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052404,orthobunyavirus kaengkhoiense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052406,orthobunyavirus keystoneense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052407,orthobunyavirus khatangaense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052409,orthobunyavirus lacrosseense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052413,orthobunyavirus madridense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052414,orthobunyavirus maguariense,Peribunyaviridae,Orthobunyavirus,0,0,0
+3052418,orthobunyavirus maritubaense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052420,orthobunyavirus melajoense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052424,orthobunyavirus mpokoense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052428,orthobunyavirus oribocaense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052429,orthobunyavirus oropoucheense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052431,orthobunyavirus patoisense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052439,orthobunyavirus shermanense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052440,orthobunyavirus shuniense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052444,orthobunyavirus tacaiumaense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052445,orthobunyavirus tahynaense,Peribunyaviridae,Orthobunyavirus,0,1,1
+3052446,orthobunyavirus tataguineense,Peribunyaviridae,Orthobunyavirus,0,0,0
+3052456,orthobunyavirus wyeomyiae,Peribunyaviridae,Orthobunyavirus,0,1,1
+181003,oya virus,Peribunyaviridae,Orthobunyavirus,0,0,0
+348011,restan virus,Peribunyaviridae,Orthobunyavirus,0,0,0
+1678230,trubanaman virus,Peribunyaviridae,Orthobunyavirus,0,1,1
+273348,xingu virus,Peribunyaviridae,Orthobunyavirus,0,0,0
+2583509,gemycircularvirus cn-gz1,Genomoviridae,Gemycircularvirus,0,0,0
+1862824,gemycircularvirus hv-gcv1,Genomoviridae,Gemycircularvirus,0,0,0
+1488574,human genital-associated circular dna virus-1,Genomoviridae,Gemygorvirus,1,0,0
+1588761,gemycircularvirus bz1,Genomoviridae,Gemykibivirus,0,0,0
+1588762,gemycircularvirus bz2,Genomoviridae,Gemykibivirus,0,0,0
+1673681,gemycircularvirus c1c,Genomoviridae,Gemykibivirus,0,0,0
+1588764,gemycircularvirus sl1,Genomoviridae,Gemykibivirus,0,0,0
+1588765,gemycircularvirus sl2,Genomoviridae,Gemykibivirus,0,0,0
+1588766,gemycircularvirus sl3,Genomoviridae,Gemykibivirus,0,0,0
+2004487,human associated gemykibivirus 1,Genomoviridae,Gemykibivirus,1,0,0
+2004957,human associated gemykibivirus 2,Genomoviridae,Gemykibivirus,1,1,1
+2004961,human associated gemykibivirus 4,Genomoviridae,Gemykibivirus,1,0,0
+2004962,human associated gemykibivirus 5,Genomoviridae,Gemykibivirus,1,0,0
+1516081,mssi2.225 virus,Genomoviridae,Gemykibivirus,0,0,0
+1985415,human associated gemyvongvirus 1,Genomoviridae,Gemyvongvirus,1,0,0
+2853105,genomovirus az4_17,Genomoviridae,,0,0,0
+3052299,mammarenavirus brazilense,Arenaviridae,Mammarenavirus,1,0,0
+3052300,mammarenavirus caliense,Arenaviridae,Mammarenavirus,0,1,1
+3052302,mammarenavirus chapareense,Arenaviridae,Mammarenavirus,0,0,0
+3052303,mammarenavirus choriomeningitidis,Arenaviridae,Mammarenavirus,0,1,1
+3052305,mammarenavirus flexalense,Arenaviridae,Mammarenavirus,0,1,1
+3052307,mammarenavirus guanaritoense,Arenaviridae,Mammarenavirus,0,1,1
+2169991,mammarenavirus juninense,Arenaviridae,Mammarenavirus,0,1,1
+3052310,mammarenavirus lassaense,Arenaviridae,Mammarenavirus,1,1,1
+3052314,mammarenavirus lujoense,Arenaviridae,Mammarenavirus,1,1,1
+3052317,mammarenavirus machupoense,Arenaviridae,Mammarenavirus,1,1,1
+3052328,mammarenavirus tacaribeense,Arenaviridae,Mammarenavirus,0,1,1
+3052329,mammarenavirus tamiamiense,Arenaviridae,Mammarenavirus,0,1,1
+3052330,mammarenavirus wenzhouense,Arenaviridae,Mammarenavirus,0,1,1
+3052331,mammarenavirus whitewaterense,Arenaviridae,Mammarenavirus,0,1,1
+248062,erve virus,Nairoviridae,Orthonairovirus,0,1,1
+1453408,issyk-kul virus,Nairoviridae,Orthonairovirus,0,1,1
+3052510,orthonairovirus bushkeyense,Nairoviridae,Orthonairovirus,0,0,0
+3052514,orthonairovirus dugbeense,Nairoviridae,Orthonairovirus,0,1,1
+3052518,orthonairovirus haemorrhagiae,Nairoviridae,Orthonairovirus,1,1,1
+3052523,orthonairovirus kasokeroense,Nairoviridae,Orthonairovirus,0,1,1
+3052525,orthonairovirus khani,Nairoviridae,Orthonairovirus,0,1,1
+3051989,bandavirus bhanjanagarense,Phenuiviridae,Bandavirus,0,1,1
+2748958,bandavirus dabieense,Phenuiviridae,Bandavirus,0,1,1
+3051992,bandavirus heartlandense,Phenuiviridae,Bandavirus,0,1,1
+1001303,huaiyangshan virus,Phenuiviridae,Bandavirus,0,0,0
+1933190,sfts phlebovirus,Phenuiviridae,Bandavirus,0,1,1
+1000647,morumbi virus,Phenuiviridae,Phlebovirus,0,0,0
+2734436,phlebovirus alenquerense,Phenuiviridae,Phlebovirus,0,0,0
+3052637,phlebovirus bujaruense,Phenuiviridae,Phlebovirus,0,1,1
+3052640,phlebovirus candiruense,Phenuiviridae,Phlebovirus,0,0,0
+3052641,phlebovirus chagresense,Phenuiviridae,Phlebovirus,0,0,0
+3052647,phlebovirus echarateense,Phenuiviridae,Phlebovirus,0,0,0
+3052660,phlebovirus maldonadoense,Phenuiviridae,Phlebovirus,0,0,0
+3052665,phlebovirus mungubaense,Phenuiviridae,Phlebovirus,0,0,0
+3052676,phlebovirus riftense,Phenuiviridae,Phlebovirus,0,1,1
+1848960,phlebovirus sdyy104/china/2011,Phenuiviridae,Phlebovirus,0,0,0
+3052684,phlebovirus toroense,Phenuiviridae,Phlebovirus,0,1,1
+3052686,phlebovirus toscanaense,Phenuiviridae,Phlebovirus,0,1,1
+1048856,sand fever naples-like virus,Phenuiviridae,Phlebovirus,0,0,0
+688699,sandfly fever turkey virus,Phenuiviridae,Phlebovirus,0,0,0
+1000649,serra norte virus,Phenuiviridae,Phlebovirus,0,0,0
+2576944,dar es salaam virus tz-189,Phenuiviridae,Tanzavirus,1,0,0
+3052801,uukuvirus kabutoense,Phenuiviridae,Uukuvirus,0,1,1
+3052811,uukuvirus uukuniemiense,Phenuiviridae,Uukuvirus,0,1,1
+291484,hepatitis e virus,Hepeviridae,,1,1,1
+185579,hepatitis e virus type 1,Hepeviridae,Paslahepevirus,1,1,1
+509628,hepatitis e virus type 3,Hepeviridae,Paslahepevirus,0,1,1
+185580,hepatitis e virus type 4,Hepeviridae,Paslahepevirus,0,1,1
+1678143,paslahepevirus balayani,Hepeviridae,Paslahepevirus,0,1,1
+1678145,rocahepevirus ratti,Hepeviridae,Rocahepevirus,0,1,1
+11041,rubella virus,Matonaviridae,Rubivirus,1,0,0
+1812175,rubella virus genotype 1a,Matonaviridae,Rubivirus,1,0,0
+1136260,rubella virus genotype 2b,Matonaviridae,Rubivirus,1,0,0
+50292,cercopithecine betaherpesvirus 5,Orthoherpesviridae,Cytomegalovirus,0,1,1
+10359,human betaherpesvirus 5,Orthoherpesviridae,Cytomegalovirus,1,1,1
+10376,human gammaherpesvirus 4,Orthoherpesviridae,Lymphocryptovirus,1,1,1
+37296,human gammaherpesvirus 8,Orthoherpesviridae,Rhadinovirus,1,1,1
+10381,saimiriine gammaherpesvirus 2,Orthoherpesviridae,Rhadinovirus,0,1,1
+32603,human betaherpesvirus 6a,Orthoherpesviridae,Roseolovirus,1,1,1
+32604,human betaherpesvirus 6b,Orthoherpesviridae,Roseolovirus,1,0,0
+10372,human betaherpesvirus 7,Orthoherpesviridae,Roseolovirus,1,1,1
+10298,human alphaherpesvirus 1,Orthoherpesviridae,Simplexvirus,1,1,1
+10310,human alphaherpesvirus 2,Orthoherpesviridae,Simplexvirus,1,1,1
+10325,macacine alphaherpesvirus 1,Orthoherpesviridae,Simplexvirus,0,1,1
+10353,saimiriine alphaherpesvirus 1,Orthoherpesviridae,Simplexvirus,0,1,1
+10335,human alphaherpesvirus 3,Orthoherpesviridae,Varicellovirus,1,1,1
+10345,suid alphaherpesvirus 1,Orthoherpesviridae,Varicellovirus,0,1,1
+1341019,parvovirus nih-cqv,Oomyviridae,Nicoomyvirus,0,1,1
+44158,aura virus,Togaviridae,Alphavirus,0,1,1
+48540,babanki virus,Togaviridae,Alphavirus,0,0,0
+11020,barmah forest virus,Togaviridae,Alphavirus,0,1,1
+59305,bebaru virus,Togaviridae,Alphavirus,0,0,0
+37124,chikungunya virus,Togaviridae,Alphavirus,1,1,1
+11021,eastern equine encephalitis virus,Togaviridae,Alphavirus,0,1,1
+2083198,everglades virus,Togaviridae,Alphavirus,0,1,1
+59300,getah virus,Togaviridae,Alphavirus,0,1,1
+11024,highlands j virus,Togaviridae,Alphavirus,0,1,1
+79899,igbo ora virus,Togaviridae,Alphavirus,0,0,0
+48542,kyzylagach virus,Togaviridae,Alphavirus,0,0,0
+1440170,madariaga virus,Togaviridae,Alphavirus,0,1,1
+59301,mayaro virus,Togaviridae,Alphavirus,0,1,1
+11023,middelburg virus,Togaviridae,Alphavirus,0,1,1
+2083199,mosso das pedras virus,Togaviridae,Alphavirus,0,0,0
+60875,mucambo virus,Togaviridae,Alphavirus,0,1,1
+59302,ndumu virus,Togaviridae,Alphavirus,0,1,1
+31699,ockelbo virus,Togaviridae,Alphavirus,0,1,1
+2169701,onyong-nyong virus,Togaviridae,Alphavirus,0,1,1
+60876,pixuna virus,Togaviridae,Alphavirus,0,1,1
+332097,rio negro virus,Togaviridae,Alphavirus,0,1,1
+11029,ross river virus,Togaviridae,Alphavirus,1,1,1
+59303,sagiyama virus,Togaviridae,Alphavirus,0,1,1
+11033,semliki forest virus,Togaviridae,Alphavirus,0,1,1
+11034,sindbis virus,Togaviridae,Alphavirus,0,1,1
+84272,sindbis-like virus yn87448,Togaviridae,Alphavirus,0,0,0
+60877,tonate virus,Togaviridae,Alphavirus,0,1,1
+11036,venezuelan equine encephalitis virus,Togaviridae,Alphavirus,0,1,1
+11039,western equine encephalitis virus,Togaviridae,Alphavirus,0,1,1
+48543,whataroa virus,Togaviridae,Alphavirus,0,1,1
+1714621,borna disease virus 1,Bornaviridae,Orthobornavirus,0,1,1
+1714619,orthobornavirus bornaense,Bornaviridae,Orthobornavirus,0,0,0
+1897087,orthobornavirus sciuri,Bornaviridae,Orthobornavirus,0,1,1
+3052181,dianlovirus menglaense,Filoviridae,Dianlovirus,0,1,1
+565995,bundibugyo virus,Filoviridae,Orthoebolavirus,1,1,1
+186539,reston ebolavirus,Filoviridae,Orthoebolavirus,0,1,1
+186540,sudan ebolavirus,Filoviridae,Orthoebolavirus,1,1,1
+186541,tai forest ebolavirus,Filoviridae,Orthoebolavirus,1,1,1
+186538,zaire ebolavirus,Filoviridae,Orthoebolavirus,1,1,1
+3052505,orthomarburgvirus marburgense,Filoviridae,Orthomarburgvirus,0,1,1
+3052221,henipavirus cedarense,Paramyxoviridae,Henipavirus,0,1,1
+3052223,henipavirus hendraense,Paramyxoviridae,Henipavirus,0,1,1
+3052225,henipavirus nipahense,Paramyxoviridae,Henipavirus,1,1,1
+11234,measles morbillivirus,Paramyxoviridae,Morbillivirus,1,1,1
+658048,measles virus genotype b3,Paramyxoviridae,Morbillivirus,1,1,1
+1511733,measles virus genotype d11,Paramyxoviridae,Morbillivirus,1,0,0
+170525,measles virus genotype d4,Paramyxoviridae,Morbillivirus,1,0,0
+170528,measles virus genotype d8,Paramyxoviridae,Morbillivirus,1,0,0
+1056491,measles virus genotype d9,Paramyxoviridae,Morbillivirus,1,0,0
+1056492,measles virus genotype g3,Paramyxoviridae,Morbillivirus,1,0,0
+763792,measles virus genotype h1,Paramyxoviridae,Morbillivirus,1,0,0
+132484,measles virus strain moraten,Paramyxoviridae,Morbillivirus,1,0,0
+3052342,morbillivirus canis,Paramyxoviridae,Morbillivirus,0,1,1
+2560319,avian paramyxovirus 1,Paramyxoviridae,Orthoavulavirus,0,1,1
+2560321,avian paramyxovirus 13,Paramyxoviridae,Orthoavulavirus,0,1,1
+159079,pigeon paramyxovirus 1,Paramyxoviridae,Orthoavulavirus,0,1,1
+2560525,human orthorubulavirus 2,Paramyxoviridae,Orthorubulavirus,1,1,1
+2560526,human orthorubulavirus 4,Paramyxoviridae,Orthorubulavirus,1,0,0
+11224,human parainfluenza virus 4a,Paramyxoviridae,Orthorubulavirus,1,0,0
+11226,human parainfluenza virus 4b,Paramyxoviridae,Orthorubulavirus,1,0,0
+2560580,mammalian orthorubulavirus 5,Paramyxoviridae,Orthorubulavirus,0,1,1
+2560602,mumps orthorubulavirus,Paramyxoviridae,Orthorubulavirus,1,1,1
+1395181,mumps virus genotype a,Paramyxoviridae,Orthorubulavirus,1,0,0
+1395182,mumps virus genotype b,Paramyxoviridae,Orthorubulavirus,1,0,0
+1428458,mumps virus genotype c,Paramyxoviridae,Orthorubulavirus,1,0,0
+1395179,mumps virus genotype d,Paramyxoviridae,Orthorubulavirus,1,0,0
+1384673,mumps virus genotype f,Paramyxoviridae,Orthorubulavirus,1,0,0
+1384672,mumps virus genotype g,Paramyxoviridae,Orthorubulavirus,1,0,0
+1395180,mumps virus genotype h,Paramyxoviridae,Orthorubulavirus,1,0,0
+1578041,mumps virus genotype i,Paramyxoviridae,Orthorubulavirus,1,0,0
+1395183,mumps virus genotype n,Paramyxoviridae,Orthorubulavirus,1,0,0
+3052561,orthorubulavirus simiae,Paramyxoviridae,Orthorubulavirus,0,1,1
+3052224,parahenipavirus mojiangense,Paramyxoviridae,Parahenipavirus,0,1,1
+3052599,pararubulavirus menangleense,Paramyxoviridae,Pararubulavirus,0,1,1
+3052600,pararubulavirus sosugaense,Paramyxoviridae,Pararubulavirus,0,1,1
+3052602,pararubulavirus tiomanense,Paramyxoviridae,Pararubulavirus,0,1,1
+12730,human respirovirus 1,Paramyxoviridae,Respirovirus,1,1,1
+11216,human respirovirus 3,Paramyxoviridae,Respirovirus,1,1,1
+162145,human metapneumovirus,Pneumoviridae,Metapneumovirus,1,1,1
+11250,human respiratory syncytial virus,Pneumoviridae,Orthopneumovirus,1,1,1
+208893,human respiratory syncytial virus a,Pneumoviridae,Orthopneumovirus,1,0,0
+208895,human respiratory syncytial virus b,Pneumoviridae,Orthopneumovirus,1,0,0
+11263,murine pneumonia virus,Pneumoviridae,Orthopneumovirus,0,1,1
+12814,respiratory syncytial virus,Pneumoviridae,Orthopneumovirus,1,1,1
+1972587,ephemerovirus kotonkan,Rhabdoviridae,Ephemerovirus,0,1,1
+1978540,ledantevirus ledantec,Rhabdoviridae,Ledantevirus,0,0,0
+57482,european bat lyssavirus 1,Rhabdoviridae,Lyssavirus,0,1,1
+57483,european bat lyssavirus 2,Rhabdoviridae,Lyssavirus,0,1,1
+90961,lyssavirus australis,Rhabdoviridae,Lyssavirus,0,1,1
+38767,lyssavirus duvenhage,Rhabdoviridae,Lyssavirus,0,1,1
+38766,lyssavirus lagos,Rhabdoviridae,Lyssavirus,0,1,1
+12538,lyssavirus mokola,Rhabdoviridae,Lyssavirus,0,1,1
+642022,lyssavirus ozernoe,Rhabdoviridae,Lyssavirus,0,0,0
+11292,lyssavirus rabies,Rhabdoviridae,Lyssavirus,0,1,1
+11276,vesicular stomatitis virus,Rhabdoviridae,Vesiculovirus,0,1,1
+1972579,vesiculovirus alagoas,Rhabdoviridae,Vesiculovirus,0,1,1
+1972576,vesiculovirus chandipura,Rhabdoviridae,Vesiculovirus,0,1,1
+1972577,vesiculovirus indiana,Rhabdoviridae,Vesiculovirus,0,1,1
+1972568,vesiculovirus jurona,Rhabdoviridae,Vesiculovirus,0,1,1
+1972574,vesiculovirus maraba,Rhabdoviridae,Vesiculovirus,0,1,1
+1972578,vesiculovirus newjersey,Rhabdoviridae,Vesiculovirus,0,1,1
+1972575,vesiculovirus piry,Rhabdoviridae,Vesiculovirus,0,1,1
+749224,human circular dsdna virus associated with alcoholic cirrhosis,,,1,0,0
+11153,canine coronavirus,Coronaviridae,Alphacoronavirus,0,1,1
+11137,human coronavirus 229e,Coronaviridae,Alphacoronavirus,1,1,1
+277944,human coronavirus nl63,Coronaviridae,Alphacoronavirus,1,0,0
+270642,human group 1 coronavirus associated with pneumonia,Coronaviridae,Alphacoronavirus,1,0,0
+694003,betacoronavirus 1,Coronaviridae,Betacoronavirus,0,1,1
+1263720,betacoronavirus england 1,Coronaviridae,Betacoronavirus,0,0,0
+1235996,human betacoronavirus 2c emc/2012,Coronaviridae,Betacoronavirus,1,0,0
+1298362,human betacoronavirus 2c england-qatar/2012,Coronaviridae,Betacoronavirus,1,0,0
+1306931,human betacoronavirus 2c jordan-n3/2012,Coronaviridae,Betacoronavirus,1,0,0
+290028,human coronavirus hku1,Coronaviridae,Betacoronavirus,1,0,0
+31631,human coronavirus oc43,Coronaviridae,Betacoronavirus,1,1,1
+166124,human enteric coronavirus 4408,Coronaviridae,Betacoronavirus,1,0,0
+1335626,middle east respiratory syndrome-related coronavirus,Coronaviridae,Betacoronavirus,1,1,1
+11138,murine hepatitis virus,Coronaviridae,Betacoronavirus,0,1,1
+228407,sars coronavirus bj01,Coronaviridae,Betacoronavirus,0,0,0
+321147,sars coronavirus bj162,Coronaviridae,Betacoronavirus,0,0,0
+511429,sars coronavirus bj182-12,Coronaviridae,Betacoronavirus,0,0,0
+511430,sars coronavirus bj182-4,Coronaviridae,Betacoronavirus,0,0,0
+511431,sars coronavirus bj182-8,Coronaviridae,Betacoronavirus,0,0,0
+511432,sars coronavirus bj182a,Coronaviridae,Betacoronavirus,0,0,0
+511433,sars coronavirus bj182b,Coronaviridae,Betacoronavirus,0,0,0
+321149,sars coronavirus bj202,Coronaviridae,Betacoronavirus,0,0,0
+228415,sars coronavirus cuhk-w1,Coronaviridae,Betacoronavirus,0,0,0
+388737,sars coronavirus gdh-bjh01,Coronaviridae,Betacoronavirus,0,0,0
+228404,sars coronavirus hku-39849,Coronaviridae,Betacoronavirus,0,1,1
+627442,sars coronavirus p2,Coronaviridae,Betacoronavirus,0,0,0
+253433,sars coronavirus pumc01,Coronaviridae,Betacoronavirus,0,1,1
+253434,sars coronavirus pumc02,Coronaviridae,Betacoronavirus,0,0,0
+253435,sars coronavirus pumc03,Coronaviridae,Betacoronavirus,0,0,0
+228330,sars coronavirus urbani,Coronaviridae,Betacoronavirus,0,0,0
+247149,sars coronavirus whu,Coronaviridae,Betacoronavirus,0,0,0
+353145,sars coronavirus zj02,Coronaviridae,Betacoronavirus,0,0,0
+2697049,severe acute respiratory syndrome coronavirus 2,Coronaviridae,Betacoronavirus,1,1,1
+694009,severe acute respiratory syndrome-related coronavirus,Coronaviridae,Betacoronavirus,1,1,1
+1965089,coronavirus hku15,Coronaviridae,Deltacoronavirus,0,1,1
+694014,avian coronavirus,Coronaviridae,Gammacoronavirus,0,1,1
+11120,infectious bronchitis virus,Coronaviridae,Gammacoronavirus,0,1,1
+2749448,coronavirus cya-betacov/2019,Coronaviridae,,0,0,0
+2749449,coronavirus cyb-betacov/2019,Coronaviridae,,0,0,0
+2749450,coronavirus cyc-betacov/2019,Coronaviridae,,0,0,0
+11855,mason-pfizer monkey virus,Retroviridae,Betaretrovirus,0,1,1
+11757,mouse mammary tumor virus,Retroviridae,Betaretrovirus,0,1,1
+11901,bovine leukemia virus,Retroviridae,Deltaretrovirus,0,1,1
+11908,human t-cell leukemia virus type i,Retroviridae,Deltaretrovirus,1,1,1
+11909,human t-lymphotropic virus 2,Retroviridae,Deltaretrovirus,1,1,1
+28332,human t-lymphotropic virus 3,Retroviridae,Deltaretrovirus,1,0,0
+318279,human t-lymphotropic virus 4,Retroviridae,Deltaretrovirus,1,0,0
+188539,amphotropic murine leukemia virus,Retroviridae,Gammaretrovirus,0,1,1
+114654,dg-75 murine leukemia virus,Retroviridae,Gammaretrovirus,0,0,0
+11840,gibbon ape leukemia virus,Retroviridae,Gammaretrovirus,0,1,1
+11786,murine leukemia virus,Retroviridae,Gammaretrovirus,0,1,1
+933438,murine leukemia virus n417,Retroviridae,Gammaretrovirus,0,0,0
+11970,woolly monkey sarcoma virus,Retroviridae,Gammaretrovirus,0,1,1
+438045,xenotropic mulv-related virus,Retroviridae,Gammaretrovirus,0,1,1
+11837,xenotropic murine leukemia virus,Retroviridae,Gammaretrovirus,0,1,1
+433832,hiv-like human cancer virus,Retroviridae,Lentivirus,1,0,0
+12721,human immunodeficiency virus,Retroviridae,Lentivirus,1,0,0
+11676,human immunodeficiency virus 1,Retroviridae,Lentivirus,1,1,1
+11709,human immunodeficiency virus 2,Retroviridae,Lentivirus,1,1,1
+11723,simian immunodeficiency virus,Retroviridae,Lentivirus,0,1,1
+57667,simian-human immunodeficiency virus,Retroviridae,Lentivirus,1,1,1
+11827,human endogenous retrovirus,Retroviridae,,1,0,0
+45617,human endogenous retrovirus k,Retroviridae,,1,0,0
+11963,human spumaretrovirus,Retroviridae,,1,1,1
+11642,simian foamy virus,Retroviridae,,0,1,1
+338079,african green monkey simian foamy virus,Retroviridae,Simiispumavirus,0,1,1
+2170195,eastern chimpanzee simian foamy virus,Retroviridae,Simiispumavirus,0,0,0
+2170197,guenon simian foamy virus,Retroviridae,Simiispumavirus,0,0,0
+3051624,amdoparvovirus carnivoran1,Parvoviridae,Amdoparvovirus,0,1,1
+3052040,bocaparvovirus primate1,Parvoviridae,Bocaparvovirus,0,1,1
+329641,human bocavirus,Parvoviridae,Bocaparvovirus,1,1,1
+689403,human bocavirus 1,Parvoviridae,Bocaparvovirus,1,0,0
+573977,human bocavirus 2,Parvoviridae,Bocaparvovirus,1,1,1
+1511880,human bocavirus 2a tu,Parvoviridae,Bocaparvovirus,1,0,0
+1511881,human bocavirus 2b ni,Parvoviridae,Bocaparvovirus,1,0,0
+2773471,human bocavirus 2c,Parvoviridae,Bocaparvovirus,1,0,0
+1511882,human bocavirus 2c pk,Parvoviridae,Bocaparvovirus,1,0,0
+638313,human bocavirus 3,Parvoviridae,Bocaparvovirus,1,1,1
+1511883,human bocavirus 4 ni,Parvoviridae,Bocaparvovirus,1,0,0
+1108925,human bocavirus isolate sh1,Parvoviridae,Bocaparvovirus,1,0,0
+1108926,human bocavirus isolate sh2,Parvoviridae,Bocaparvovirus,1,0,0
+394504,human bocavirus wll-1,Parvoviridae,Bocaparvovirus,1,0,0
+430048,human bocavirus wll-2,Parvoviridae,Bocaparvovirus,1,0,0
+444473,human bocavirus wll-3,Parvoviridae,Bocaparvovirus,1,0,0
+272636,adeno-associated virus,Parvoviridae,Dependoparvovirus,1,1,1
+85106,adeno-associated virus - 1,Parvoviridae,Dependoparvovirus,1,1,1
+46350,adeno-associated virus - 3,Parvoviridae,Dependoparvovirus,1,0,0
+57579,adeno-associated virus - 4,Parvoviridae,Dependoparvovirus,1,1,1
+68558,adeno-associated virus - 6,Parvoviridae,Dependoparvovirus,1,0,0
+10804,adeno-associated virus 2,Parvoviridae,Dependoparvovirus,1,1,1
+82300,adeno-associated virus 5,Parvoviridae,Dependoparvovirus,1,0,0
+1511894,dependoparvovirus avian1,Parvoviridae,Dependoparvovirus,0,1,1
+3052189,erythroparvovirus primate1,Parvoviridae,Erythroparvovirus,1,1,1
+72197,human erythrovirus v9,Parvoviridae,Erythroparvovirus,1,0,0
+289365,human parvovirus 4,Parvoviridae,Tetraparvovirus,1,1,1
+1511919,human parvovirus 4 g1,Parvoviridae,Tetraparvovirus,1,0,0
+99565,chiba virus,Caliciviridae,Norovirus,1,0,0
+270370,human calicivirus hu/nlv/oxford/b5s22/2003/uk,Caliciviridae,Norovirus,1,0,0
+258453,human calicivirus nlv/gii/langen1061/2002/de,Caliciviridae,Norovirus,1,0,0
+122928,norovirus gi,Caliciviridae,Norovirus,1,1,1
+122929,norovirus gii,Caliciviridae,Norovirus,1,1,1
+340017,norovirus giii,Caliciviridae,Norovirus,1,1,1
+262897,norovirus giv,Caliciviridae,Norovirus,1,1,1
+2594528,norovirus gix,Caliciviridae,Norovirus,1,0,0
+336619,norovirus hu/chiba/04-1050/2005/jp,Caliciviridae,Norovirus,1,0,0
+290280,norovirus hu/gi/otofuke/1979/jp,Caliciviridae,Norovirus,1,0,0
+370037,norovirus hu/guangzhou/nvgz01/chn,Caliciviridae,Norovirus,1,0,0
+379081,norovirus hu/mk04/2004/jp,Caliciviridae,Norovirus,1,0,0
+296145,norovirus hu/nlv/dresden174/pus-norii/1997/ge,Caliciviridae,Norovirus,1,0,0
+272576,norovirus hu/nlv/oxford/b2s16/2002/uk,Caliciviridae,Norovirus,1,0,0
+272575,norovirus hu/nlv/oxford/b4s1/2002/uk,Caliciviridae,Norovirus,1,0,0
+272570,norovirus hu/nlv/oxford/b4s2/2002/uk,Caliciviridae,Norovirus,1,0,0
+272573,norovirus hu/nlv/oxford/b4s4/2002/uk,Caliciviridae,Norovirus,1,0,0
+272571,norovirus hu/nlv/oxford/b4s5/2002/uk,Caliciviridae,Norovirus,1,0,0
+272572,norovirus hu/nlv/oxford/b4s6/2002/uk,Caliciviridae,Norovirus,1,0,0
+272574,norovirus hu/nlv/oxford/b4s7/2002/uk,Caliciviridae,Norovirus,1,0,0
+1261195,norovirus hu/norwalk/10034/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261196,norovirus hu/norwalk/10051/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261197,norovirus hu/norwalk/10054/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261198,norovirus hu/norwalk/10062/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261199,norovirus hu/norwalk/10074/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261200,norovirus hu/norwalk/10075/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261201,norovirus hu/norwalk/10078/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261202,norovirus hu/norwalk/10079/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261203,norovirus hu/norwalk/10110/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261204,norovirus hu/norwalk/10114/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261205,norovirus hu/norwalk/10116/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261206,norovirus hu/norwalk/10129/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261207,norovirus hu/norwalk/10136/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261208,norovirus hu/norwalk/10137/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261209,norovirus hu/norwalk/10145/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261210,norovirus hu/norwalk/10148/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261211,norovirus hu/norwalk/10158/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261212,norovirus hu/norwalk/10160/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261213,norovirus hu/norwalk/10162/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261214,norovirus hu/norwalk/10163/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261215,norovirus hu/norwalk/10169/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261216,norovirus hu/norwalk/10173/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261217,norovirus hu/norwalk/10176/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261218,norovirus hu/norwalk/10177/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261219,norovirus hu/norwalk/10179/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261220,norovirus hu/norwalk/10182/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261221,norovirus hu/norwalk/10183/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261222,norovirus hu/norwalk/10194/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261223,norovirus hu/norwalk/10199/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261224,norovirus hu/norwalk/10203/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261225,norovirus hu/norwalk/10204/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261226,norovirus hu/norwalk/10222/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261227,norovirus hu/norwalk/10223/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261228,norovirus hu/norwalk/10235/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261229,norovirus hu/norwalk/10236/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261230,norovirus hu/norwalk/10238/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261231,norovirus hu/norwalk/10247/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261232,norovirus hu/norwalk/10255/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261233,norovirus hu/norwalk/10285/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261234,norovirus hu/norwalk/10296/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261235,norovirus hu/norwalk/10313/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261236,norovirus hu/norwalk/10325/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261237,norovirus hu/norwalk/10328/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261238,norovirus hu/norwalk/10368/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261239,norovirus hu/norwalk/10378/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261240,norovirus hu/norwalk/10386/2010/vnm,Caliciviridae,Norovirus,1,0,0
+1261241,norovirus hu/norwalk/20008/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261242,norovirus hu/norwalk/20010/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261243,norovirus hu/norwalk/20014/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261244,norovirus hu/norwalk/20016/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261245,norovirus hu/norwalk/20019/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261246,norovirus hu/norwalk/20033/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261247,norovirus hu/norwalk/20035/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261248,norovirus hu/norwalk/20044/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261249,norovirus hu/norwalk/20047/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261250,norovirus hu/norwalk/20066/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261251,norovirus hu/norwalk/20067/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261252,norovirus hu/norwalk/20069/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261253,norovirus hu/norwalk/20092/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261254,norovirus hu/norwalk/20093/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261255,norovirus hu/norwalk/20094/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261256,norovirus hu/norwalk/20118/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261257,norovirus hu/norwalk/20122/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261258,norovirus hu/norwalk/20123/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261259,norovirus hu/norwalk/20128/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261260,norovirus hu/norwalk/20135/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261261,norovirus hu/norwalk/20139/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261262,norovirus hu/norwalk/20140/2009/vnm,Caliciviridae,Norovirus,1,0,0
+1261263,norovirus hu/norwalk/20142/2009/vnm,Caliciviridae,Norovirus,1,0,0
+756497,norovirus hu/shanghai/sh312/2009/chn,Caliciviridae,Norovirus,1,0,0
+756496,norovirus hu/shanghai/sh5/2009/chn,Caliciviridae,Norovirus,1,0,0
+479952,norovirus hu/texas/tch04-577/2004/us,Caliciviridae,Norovirus,1,0,0
+1507813,norovirus jb031230049/nanshan/ob/12/2012/sz/chn,Caliciviridae,Norovirus,1,0,0
+1507812,norovirus jb031230054/luohu/ob/12/2012/sz/chn,Caliciviridae,Norovirus,1,0,0
+11983,norwalk virus,Caliciviridae,Norovirus,1,1,1
+95340,norwalk-like virus,Caliciviridae,Norovirus,1,1,1
+2779846,sapporo-hk299 virus,Caliciviridae,Norovirus,1,0,0
+2849733,ehime virus,Caliciviridae,Sapovirus,1,0,0
+674093,sapovirus d1737-a/jun2008/jpn,Caliciviridae,Sapovirus,1,0,0
+515176,sapovirus gi,Caliciviridae,Sapovirus,1,1,1
+515177,sapovirus gii,Caliciviridae,Sapovirus,1,0,0
+515179,sapovirus giv,Caliciviridae,Sapovirus,1,0,0
+515180,sapovirus gv,Caliciviridae,Sapovirus,1,1,1
+1031410,sapovirus hu/20082029/2008/jp,Caliciviridae,Sapovirus,1,0,0
+674086,sapovirus hu/d1714-b/2008/jpn,Caliciviridae,Sapovirus,1,0,0
+291175,sapovirus hu/dresden/pjg-sap01/de,Caliciviridae,Sapovirus,1,0,0
+556755,sapovirus hu/kushiro5/2007/jp,Caliciviridae,Sapovirus,1,0,0
+1280920,sapovirus hu/nagoya/ngy-1/2012/jpn,Caliciviridae,Sapovirus,1,0,0
+1003429,sapovirus hu/oh08021/2008/jp,Caliciviridae,Sapovirus,1,0,0
+234603,sapovirus mc114,Caliciviridae,Sapovirus,1,0,0
+95342,sapporo virus,Caliciviridae,Sapovirus,1,1,1
+1960046,hom-1 vesivirus,Caliciviridae,Vesivirus,1,0,0
+35612,vesicular exanthema of swine virus,Caliciviridae,Vesivirus,0,1,1
+2575370,dicistroviridae tz-1,Dicistroviridae,,0,0,0
+2575371,dicistroviridae tz-2,Dicistroviridae,,0,0,0
+2575372,dicistroviridae tz-3,Dicistroviridae,,0,0,0
+47000,equine rhinitis a virus,Picornaviridae,Aphthovirus,0,1,1
+12116,foot and mouth disease virus c,Picornaviridae,Aphthovirus,0,1,1
+12111,foot-and-mouth disease virus a,Picornaviridae,Aphthovirus,0,1,1
+12118,foot-and-mouth disease virus o,Picornaviridae,Aphthovirus,0,1,1
+1821750,cardiovirus b,Picornaviridae,Cardiovirus,1,1,1
+2779847,cardiovirus d1,Picornaviridae,Cardiovirus,1,1,1
+12104,encephalomyocarditis virus,Picornaviridae,Cardiovirus,0,1,1
+511755,human tmev-like cardiovirus,Picornaviridae,Cardiovirus,1,0,0
+434309,saffold virus,Picornaviridae,Cardiovirus,0,0,0
+1425211,saffold virus 2,Picornaviridae,Cardiovirus,1,0,0
+1982742,saffold virus 3,Picornaviridae,Cardiovirus,1,0,0
+2003649,cosavirus b,Picornaviridae,Cosavirus,1,0,0
+2003650,cosavirus d,Picornaviridae,Cosavirus,1,0,0
+2003651,cosavirus e,Picornaviridae,Cosavirus,1,0,0
+2003652,cosavirus f,Picornaviridae,Cosavirus,1,1,1
+1582094,cosavirus jmy-2014,Picornaviridae,Cosavirus,0,0,0
+1233383,human cosavirus,Picornaviridae,Cosavirus,1,0,0
+42779,coxsackievirus a1,Picornaviridae,Enterovirus,1,0,0
+42769,coxsackievirus a10,Picornaviridae,Enterovirus,1,0,0
+42770,coxsackievirus a11,Picornaviridae,Enterovirus,1,0,0
+42771,coxsackievirus a12,Picornaviridae,Enterovirus,1,0,0
+42772,coxsackievirus a13,Picornaviridae,Enterovirus,1,1,1
+42773,coxsackievirus a14,Picornaviridae,Enterovirus,1,0,0
+42774,coxsackievirus a15,Picornaviridae,Enterovirus,1,0,0
+31704,coxsackievirus a16,Picornaviridae,Enterovirus,1,1,1
+42775,coxsackievirus a17,Picornaviridae,Enterovirus,1,0,0
+42776,coxsackievirus a18,Picornaviridae,Enterovirus,1,0,0
+42778,coxsackievirus a19,Picornaviridae,Enterovirus,1,0,0
+33757,coxsackievirus a2,Picornaviridae,Enterovirus,1,0,0
+42782,coxsackievirus a20,Picornaviridae,Enterovirus,1,1,1
+12069,coxsackievirus a21,Picornaviridae,Enterovirus,1,1,1
+42783,coxsackievirus a22,Picornaviridae,Enterovirus,1,0,0
+12089,coxsackievirus a24,Picornaviridae,Enterovirus,1,1,1
+42784,coxsackievirus a3,Picornaviridae,Enterovirus,1,0,0
+42785,coxsackievirus a4,Picornaviridae,Enterovirus,1,0,0
+42786,coxsackievirus a5,Picornaviridae,Enterovirus,1,0,0
+86107,coxsackievirus a6,Picornaviridae,Enterovirus,1,0,0
+42787,coxsackievirus a7,Picornaviridae,Enterovirus,1,0,0
+42788,coxsackievirus a8,Picornaviridae,Enterovirus,1,0,0
+12067,coxsackievirus a9,Picornaviridae,Enterovirus,1,1,1
+12071,coxsackievirus b1,Picornaviridae,Enterovirus,1,1,1
+82639,coxsackievirus b2,Picornaviridae,Enterovirus,1,0,0
+12072,coxsackievirus b3,Picornaviridae,Enterovirus,1,1,1
+12073,coxsackievirus b4,Picornaviridae,Enterovirus,1,1,1
+12074,coxsackievirus b5,Picornaviridae,Enterovirus,1,1,1
+74561,coxsackievirus b6,Picornaviridae,Enterovirus,1,0,0
+12078,echovirus e11,Picornaviridae,Enterovirus,1,0,0
+35293,echovirus e12,Picornaviridae,Enterovirus,1,0,0
+47501,echovirus e13,Picornaviridae,Enterovirus,1,0,0
+47502,echovirus e14,Picornaviridae,Enterovirus,1,0,0
+47503,echovirus e15,Picornaviridae,Enterovirus,1,1,1
+47504,echovirus e16,Picornaviridae,Enterovirus,1,0,0
+47505,echovirus e17,Picornaviridae,Enterovirus,1,0,0
+47506,echovirus e18,Picornaviridae,Enterovirus,1,0,0
+47507,echovirus e19,Picornaviridae,Enterovirus,1,0,0
+35294,echovirus e2,Picornaviridae,Enterovirus,1,0,0
+47508,echovirus e20,Picornaviridae,Enterovirus,1,0,0
+47509,echovirus e21,Picornaviridae,Enterovirus,1,0,0
+47510,echovirus e24,Picornaviridae,Enterovirus,1,0,0
+45101,echovirus e25,Picornaviridae,Enterovirus,1,0,0
+47511,echovirus e26,Picornaviridae,Enterovirus,1,0,0
+45999,echovirus e27,Picornaviridae,Enterovirus,1,0,0
+47512,echovirus e29,Picornaviridae,Enterovirus,1,1,1
+47516,echovirus e3,Picornaviridae,Enterovirus,1,0,0
+41846,echovirus e30,Picornaviridae,Enterovirus,1,1,1
+47513,echovirus e31,Picornaviridae,Enterovirus,1,0,0
+47514,echovirus e32,Picornaviridae,Enterovirus,1,0,0
+47515,echovirus e33,Picornaviridae,Enterovirus,1,0,0
+35295,echovirus e4,Picornaviridae,Enterovirus,1,0,0
+40280,echovirus e5,Picornaviridae,Enterovirus,1,0,0
+12062,echovirus e6,Picornaviridae,Enterovirus,1,0,0
+46018,echovirus e7,Picornaviridae,Enterovirus,1,0,0
+12060,echovirus e9,Picornaviridae,Enterovirus,1,0,0
+138948,enterovirus a,Picornaviridae,Enterovirus,1,1,1
+1435148,enterovirus a120,Picornaviridae,Enterovirus,1,0,0
+39054,enterovirus a71,Picornaviridae,Enterovirus,1,1,1
+306588,enterovirus a76,Picornaviridae,Enterovirus,1,1,1
+306586,enterovirus a89,Picornaviridae,Enterovirus,1,0,0
+297248,enterovirus a90,Picornaviridae,Enterovirus,1,1,1
+138949,enterovirus b,Picornaviridae,Enterovirus,1,1,1
+325447,enterovirus b100,Picornaviridae,Enterovirus,1,0,0
+408681,enterovirus b101,Picornaviridae,Enterovirus,1,0,0
+1248136,enterovirus b106,Picornaviridae,Enterovirus,1,0,0
+2487725,enterovirus b107,Picornaviridae,Enterovirus,1,1,1
+1442164,enterovirus b111,Picornaviridae,Enterovirus,1,0,0
+171720,enterovirus b69,Picornaviridae,Enterovirus,1,0,0
+200154,enterovirus b73,Picornaviridae,Enterovirus,1,0,0
+222889,enterovirus b74,Picornaviridae,Enterovirus,1,0,0
+282345,enterovirus b75,Picornaviridae,Enterovirus,1,0,0
+222887,enterovirus b77,Picornaviridae,Enterovirus,1,0,0
+2760813,enterovirus b79,Picornaviridae,Enterovirus,1,1,1
+318563,enterovirus b80,Picornaviridae,Enterovirus,1,0,0
+318564,enterovirus b81,Picornaviridae,Enterovirus,1,0,0
+318565,enterovirus b82,Picornaviridae,Enterovirus,1,1,1
+318566,enterovirus b83,Picornaviridae,Enterovirus,1,0,0
+318567,enterovirus b84,Picornaviridae,Enterovirus,1,0,0
+318568,enterovirus b85,Picornaviridae,Enterovirus,1,0,0
+318569,enterovirus b86,Picornaviridae,Enterovirus,1,0,0
+318570,enterovirus b87,Picornaviridae,Enterovirus,1,0,0
+318571,enterovirus b88,Picornaviridae,Enterovirus,1,0,0
+991902,enterovirus b93,Picornaviridae,Enterovirus,1,0,0
+325446,enterovirus b97,Picornaviridae,Enterovirus,1,0,0
+582384,enterovirus b98,Picornaviridae,Enterovirus,1,0,0
+138950,enterovirus c,Picornaviridae,Enterovirus,1,1,1
+2760818,enterovirus c102,Picornaviridae,Enterovirus,1,0,0
+2650411,enterovirus c104,Picornaviridae,Enterovirus,1,0,0
+2749421,enterovirus c105,Picornaviridae,Enterovirus,1,0,0
+861519,enterovirus c109,Picornaviridae,Enterovirus,1,0,0
+2760819,enterovirus c117,Picornaviridae,Enterovirus,1,0,0
+2760820,enterovirus c118,Picornaviridae,Enterovirus,1,0,0
+325445,enterovirus c96,Picornaviridae,Enterovirus,1,0,0
+1295563,enterovirus c99,Picornaviridae,Enterovirus,1,1,1
+138951,enterovirus d,Picornaviridae,Enterovirus,1,1,1
+1141754,enterovirus d111,Picornaviridae,Enterovirus,1,0,0
+42789,enterovirus d68,Picornaviridae,Enterovirus,1,1,1
+12090,enterovirus d70,Picornaviridae,Enterovirus,1,1,1
+2015550,enterovirus d94,Picornaviridae,Enterovirus,1,0,0
+106966,enterovirus g,Picornaviridae,Enterovirus,0,1,1
+310907,enterovirus h,Picornaviridae,Enterovirus,0,1,1
+123738,enterovirus yanbian 96-83csf,Picornaviridae,Enterovirus,1,0,0
+185942,human rhinovirus a95,Picornaviridae,Enterovirus,1,0,0
+433730,human rhinovirus ams323,Picornaviridae,Enterovirus,1,0,0
+12080,poliovirus 1,Picornaviridae,Enterovirus,1,1,1
+12083,poliovirus 2,Picornaviridae,Enterovirus,1,0,0
+12086,poliovirus 3,Picornaviridae,Enterovirus,1,0,0
+64141,porcine enterovirus 9,Picornaviridae,Enterovirus,0,1,1
+147711,rhinovirus a,Picornaviridae,Enterovirus,1,0,0
+573824,rhinovirus a1,Picornaviridae,Enterovirus,1,1,1
+185892,rhinovirus a10,Picornaviridae,Enterovirus,1,0,0
+185946,rhinovirus a100,Picornaviridae,Enterovirus,1,0,0
+1219381,rhinovirus a101,Picornaviridae,Enterovirus,1,0,0
+1033850,rhinovirus a103,Picornaviridae,Enterovirus,1,0,0
+39767,rhinovirus a11,Picornaviridae,Enterovirus,1,0,0
+147684,rhinovirus a12,Picornaviridae,Enterovirus,1,0,0
+185893,rhinovirus a13,Picornaviridae,Enterovirus,1,0,0
+185894,rhinovirus a15,Picornaviridae,Enterovirus,1,0,0
+31708,rhinovirus a16,Picornaviridae,Enterovirus,1,1,1
+147674,rhinovirus a18,Picornaviridae,Enterovirus,1,0,0
+185895,rhinovirus a19,Picornaviridae,Enterovirus,1,0,0
+2777147,rhinovirus a1b,Picornaviridae,Enterovirus,1,0,0
+12130,rhinovirus a2,Picornaviridae,Enterovirus,1,0,0
+147675,rhinovirus a20,Picornaviridae,Enterovirus,1,0,0
+44128,rhinovirus a21,Picornaviridae,Enterovirus,1,0,0
+185896,rhinovirus a22,Picornaviridae,Enterovirus,1,0,0
+12135,rhinovirus a23,Picornaviridae,Enterovirus,1,0,0
+185897,rhinovirus a24,Picornaviridae,Enterovirus,1,0,0
+185898,rhinovirus a25,Picornaviridae,Enterovirus,1,0,0
+147672,rhinovirus a28,Picornaviridae,Enterovirus,1,0,0
+44129,rhinovirus a29,Picornaviridae,Enterovirus,1,0,0
+185901,rhinovirus a30,Picornaviridae,Enterovirus,1,0,0
+185902,rhinovirus a31,Picornaviridae,Enterovirus,1,0,0
+185903,rhinovirus a32,Picornaviridae,Enterovirus,1,0,0
+185904,rhinovirus a33,Picornaviridae,Enterovirus,1,0,0
+185905,rhinovirus a34,Picornaviridae,Enterovirus,1,0,0
+147673,rhinovirus a36,Picornaviridae,Enterovirus,1,0,0
+185906,rhinovirus a38,Picornaviridae,Enterovirus,1,0,0
+185907,rhinovirus a39,Picornaviridae,Enterovirus,1,0,0
+185908,rhinovirus a40,Picornaviridae,Enterovirus,1,0,0
+185909,rhinovirus a41,Picornaviridae,Enterovirus,1,0,0
+167321,rhinovirus a43,Picornaviridae,Enterovirus,1,0,0
+185910,rhinovirus a44,Picornaviridae,Enterovirus,1,0,0
+147676,rhinovirus a45,Picornaviridae,Enterovirus,1,0,0
+167324,rhinovirus a46,Picornaviridae,Enterovirus,1,0,0
+185911,rhinovirus a47,Picornaviridae,Enterovirus,1,0,0
+44131,rhinovirus a49,Picornaviridae,Enterovirus,1,0,0
+44132,rhinovirus a50,Picornaviridae,Enterovirus,1,0,0
+185912,rhinovirus a51,Picornaviridae,Enterovirus,1,0,0
+185913,rhinovirus a53,Picornaviridae,Enterovirus,1,0,0
+185914,rhinovirus a54,Picornaviridae,Enterovirus,1,0,0
+185915,rhinovirus a55,Picornaviridae,Enterovirus,1,0,0
+185916,rhinovirus a56,Picornaviridae,Enterovirus,1,0,0
+185917,rhinovirus a57,Picornaviridae,Enterovirus,1,0,0
+44133,rhinovirus a58,Picornaviridae,Enterovirus,1,0,0
+185918,rhinovirus a59,Picornaviridae,Enterovirus,1,0,0
+185919,rhinovirus a60,Picornaviridae,Enterovirus,1,0,0
+185920,rhinovirus a61,Picornaviridae,Enterovirus,1,0,0
+44134,rhinovirus a62,Picornaviridae,Enterovirus,1,0,0
+185921,rhinovirus a63,Picornaviridae,Enterovirus,1,0,0
+185922,rhinovirus a64,Picornaviridae,Enterovirus,1,0,0
+44135,rhinovirus a65,Picornaviridae,Enterovirus,1,0,0
+185923,rhinovirus a66,Picornaviridae,Enterovirus,1,0,0
+185924,rhinovirus a67,Picornaviridae,Enterovirus,1,0,0
+185925,rhinovirus a68,Picornaviridae,Enterovirus,1,0,0
+44136,rhinovirus a7,Picornaviridae,Enterovirus,1,0,0
+185927,rhinovirus a71,Picornaviridae,Enterovirus,1,0,0
+185928,rhinovirus a73,Picornaviridae,Enterovirus,1,0,0
+185929,rhinovirus a74,Picornaviridae,Enterovirus,1,0,0
+185930,rhinovirus a75,Picornaviridae,Enterovirus,1,0,0
+185931,rhinovirus a76,Picornaviridae,Enterovirus,1,0,0
+185932,rhinovirus a77,Picornaviridae,Enterovirus,1,0,0
+147685,rhinovirus a78,Picornaviridae,Enterovirus,1,0,0
+185890,rhinovirus a8,Picornaviridae,Enterovirus,1,0,0
+185934,rhinovirus a80,Picornaviridae,Enterovirus,1,0,0
+185935,rhinovirus a81,Picornaviridae,Enterovirus,1,0,0
+167322,rhinovirus a82,Picornaviridae,Enterovirus,1,0,0
+185937,rhinovirus a85,Picornaviridae,Enterovirus,1,0,0
+185939,rhinovirus a88,Picornaviridae,Enterovirus,1,0,0
+12132,rhinovirus a89,Picornaviridae,Enterovirus,1,0,0
+185891,rhinovirus a9,Picornaviridae,Enterovirus,1,0,0
+185940,rhinovirus a90,Picornaviridae,Enterovirus,1,0,0
+185941,rhinovirus a94,Picornaviridae,Enterovirus,1,0,0
+185943,rhinovirus a96,Picornaviridae,Enterovirus,1,0,0
+185944,rhinovirus a98,Picornaviridae,Enterovirus,1,0,0
+147712,rhinovirus b,Picornaviridae,Enterovirus,1,0,0
+12131,rhinovirus b14,Picornaviridae,Enterovirus,1,0,0
+150904,rhinovirus b17,Picornaviridae,Enterovirus,1,0,0
+185899,rhinovirus b26,Picornaviridae,Enterovirus,1,0,0
+185900,rhinovirus b27,Picornaviridae,Enterovirus,1,0,0
+44130,rhinovirus b3,Picornaviridae,Enterovirus,1,0,0
+167329,rhinovirus b35,Picornaviridae,Enterovirus,1,0,0
+147680,rhinovirus b37,Picornaviridae,Enterovirus,1,0,0
+185889,rhinovirus b4,Picornaviridae,Enterovirus,1,0,0
+147683,rhinovirus b42,Picornaviridae,Enterovirus,1,0,0
+147679,rhinovirus b48,Picornaviridae,Enterovirus,1,0,0
+147714,rhinovirus b5,Picornaviridae,Enterovirus,1,0,0
+147677,rhinovirus b52,Picornaviridae,Enterovirus,1,0,0
+147681,rhinovirus b6,Picornaviridae,Enterovirus,1,0,0
+147678,rhinovirus b69,Picornaviridae,Enterovirus,1,0,0
+185926,rhinovirus b70,Picornaviridae,Enterovirus,1,0,0
+44137,rhinovirus b72,Picornaviridae,Enterovirus,1,0,0
+185933,rhinovirus b79,Picornaviridae,Enterovirus,1,0,0
+185936,rhinovirus b83,Picornaviridae,Enterovirus,1,0,0
+167328,rhinovirus b84,Picornaviridae,Enterovirus,1,0,0
+185938,rhinovirus b86,Picornaviridae,Enterovirus,1,0,0
+167325,rhinovirus b91,Picornaviridae,Enterovirus,1,0,0
+167326,rhinovirus b92,Picornaviridae,Enterovirus,1,0,0
+167327,rhinovirus b93,Picornaviridae,Enterovirus,1,0,0
+167330,rhinovirus b97,Picornaviridae,Enterovirus,1,0,0
+185945,rhinovirus b99,Picornaviridae,Enterovirus,1,0,0
+463676,rhinovirus c,Picornaviridae,Enterovirus,1,1,1
+1219416,rhinovirus c1,Picornaviridae,Enterovirus,1,0,0
+1219419,rhinovirus c10,Picornaviridae,Enterovirus,1,0,0
+1240004,rhinovirus c11,Picornaviridae,Enterovirus,1,0,0
+1418064,rhinovirus c12,Picornaviridae,Enterovirus,1,0,0
+1418033,rhinovirus c15,Picornaviridae,Enterovirus,1,0,0
+1219404,rhinovirus c17,Picornaviridae,Enterovirus,1,0,0
+1219376,rhinovirus c2,Picornaviridae,Enterovirus,1,0,0
+2045067,rhinovirus c23,Picornaviridae,Enterovirus,1,0,0
+1219377,rhinovirus c3,Picornaviridae,Enterovirus,1,0,0
+2045073,rhinovirus c31,Picornaviridae,Enterovirus,1,0,0
+1219405,rhinovirus c32,Picornaviridae,Enterovirus,1,0,0
+2045075,rhinovirus c34,Picornaviridae,Enterovirus,1,0,0
+1077430,rhinovirus c35,Picornaviridae,Enterovirus,1,0,0
+1418041,rhinovirus c36,Picornaviridae,Enterovirus,1,0,0
+1418035,rhinovirus c39,Picornaviridae,Enterovirus,1,0,0
+1219406,rhinovirus c40,Picornaviridae,Enterovirus,1,0,0
+2045078,rhinovirus c41,Picornaviridae,Enterovirus,1,0,0
+1219407,rhinovirus c42,Picornaviridae,Enterovirus,1,0,0
+1219413,rhinovirus c43,Picornaviridae,Enterovirus,1,0,0
+2035045,rhinovirus c47,Picornaviridae,Enterovirus,1,0,0
+2777134,rhinovirus c48,Picornaviridae,Enterovirus,1,0,0
+2777131,rhinovirus c51,Picornaviridae,Enterovirus,1,0,0
+2032983,rhinovirus c53,Picornaviridae,Enterovirus,1,0,0
+2094116,rhinovirus c56,Picornaviridae,Enterovirus,1,0,0
+1219378,rhinovirus c6,Picornaviridae,Enterovirus,1,0,0
+1219380,rhinovirus c8,Picornaviridae,Enterovirus,1,0,0
+1220265,rhinovirus c9,Picornaviridae,Enterovirus,1,0,0
+12075,swine vesicular disease virus,Picornaviridae,Enterovirus,0,1,1
+12092,hepatovirus a,Picornaviridae,Hepatovirus,1,1,1
+208726,human hepatitis a virus,Picornaviridae,Hepatovirus,1,1,1
+1313215,aichivirus a1,Picornaviridae,Kobuvirus,0,0,0
+72149,kobuvirus aichi,Picornaviridae,Kobuvirus,1,1,1
+194965,kobuvirus bejaponia,Picornaviridae,Kobuvirus,0,1,1
+1224522,kobuvirus sewage kathmandu,Picornaviridae,Kobuvirus,0,0,0
+1906354,human parechovirus 17,Picornaviridae,Parechovirus,1,0,0
+1906355,human parechovirus 18,Picornaviridae,Parechovirus,1,0,0
+1906356,human parechovirus 19,Picornaviridae,Parechovirus,1,0,0
+39085,human parechovirus 2,Picornaviridae,Parechovirus,1,0,0
+195055,human parechovirus 3,Picornaviridae,Parechovirus,1,0,0
+362784,human parechovirus 4,Picornaviridae,Parechovirus,1,0,0
+376148,human parechovirus 5,Picornaviridae,Parechovirus,1,0,0
+411152,human parechovirus 6,Picornaviridae,Parechovirus,1,0,0
+533185,human parechovirus 7,Picornaviridae,Parechovirus,1,0,0
+602074,human parechovirus 8,Picornaviridae,Parechovirus,1,0,0
+172314,ljungan virus,Picornaviridae,Parechovirus,0,1,1
+1803956,parechovirus a,Picornaviridae,Parechovirus,0,0,0
+12063,parechovirus a1,Picornaviridae,Parechovirus,1,0,0
+1511807,rosavirus a2,Picornaviridae,Rosavirus,0,1,1
+1330524,salivirus a,Picornaviridae,Salivirus,0,1,1
+1547495,salivirus fhb,Picornaviridae,Salivirus,0,0,0
+651733,salivirus ng-j1,Picornaviridae,Salivirus,0,0,0
+180170,infectious spleen and kidney necrosis virus,Iridoviridae,Megalocytivirus,0,0,0
+2571073,human gut-associated brisavirus vw,Redondoviridae,Torbevirus,1,0,0
+2571074,human gut-associated vientovirus mw,Redondoviridae,Torbevirus,1,0,0
+2571075,human lung-associated brisavirus aa,Redondoviridae,Torbevirus,1,0,0
+2571076,human lung-associated brisavirus ii,Redondoviridae,Torbevirus,1,0,0
+2571077,human lung-associated brisavirus md,Redondoviridae,Torbevirus,1,0,0
+2571078,human lung-associated brisavirus rc,Redondoviridae,Torbevirus,1,0,0
+2571079,human lung-associated vientovirus al,Redondoviridae,Torbevirus,1,0,0
+2571080,human lung-associated vientovirus dc,Redondoviridae,Torbevirus,1,0,0
+2571081,human lung-associated vientovirus es,Redondoviridae,Torbevirus,1,0,0
+2571082,human lung-associated vientovirus fb,Redondoviridae,Torbevirus,1,0,0
+2571083,human lung-associated vientovirus jb,Redondoviridae,Torbevirus,1,0,0
+2571084,human lung-associated vientovirus jy,Redondoviridae,Torbevirus,1,0,0
+2571085,human lung-associated vientovirus lt,Redondoviridae,Torbevirus,1,0,0
+2571086,human oral-associated brisavirus yh,Redondoviridae,Torbevirus,1,0,0
+2571087,human oral-associated vientovirus av,Redondoviridae,Torbevirus,1,0,0
+2571088,human oral-associated vientovirus ec,Redondoviridae,Torbevirus,1,0,0
+2571089,human oral-associated vientovirus lz,Redondoviridae,Torbevirus,1,0,0
+2571090,human oral-associated vientovirus mc,Redondoviridae,Torbevirus,1,0,0
+2571091,human oral-associated vientovirus xm,Redondoviridae,Torbevirus,1,0,0
+40052,changuinola virus,Sedoreoviridae,Orbivirus,0,1,1
+40053,corriparta virus,Sedoreoviridae,Orbivirus,0,1,1
+40064,kemerovo virus,Sedoreoviridae,Orbivirus,0,1,1
+40057,lebombo virus,Sedoreoviridae,Orbivirus,0,1,1
+1597962,muko virus,Sedoreoviridae,Orbivirus,0,1,1
+40058,orungo virus,Sedoreoviridae,Orbivirus,0,1,1
+40059,palyam virus,Sedoreoviridae,Orbivirus,0,1,1
+10941,human rotavirus a,Sedoreoviridae,Rotavirus,1,1,1
+10943,human rotavirus c,Sedoreoviridae,Rotavirus,1,1,1
+28875,rotavirus a,Sedoreoviridae,Rotavirus,1,1,1
+28876,rotavirus b,Sedoreoviridae,Rotavirus,1,1,1
+36427,rotavirus c,Sedoreoviridae,Rotavirus,0,1,1
+73034,rotavirus g2,Sedoreoviridae,Rotavirus,0,1,1
+73036,rotavirus g3,Sedoreoviridae,Rotavirus,0,1,1
+42567,rotavirus g9,Sedoreoviridae,Rotavirus,0,1,1
+1348384,rotavirus h,Sedoreoviridae,Rotavirus,0,1,1
+77763,banna virus,Sedoreoviridae,Seadornavirus,0,1,1
+104580,kadipiro virus,Sedoreoviridae,Seadornavirus,0,1,1
+2748762,colorado tick fever coltivirus,Spinareoviridae,Coltivirus,0,1,1
+2747210,eyach coltivirus,Spinareoviridae,Coltivirus,0,1,1
+351073,mammalian orthoreovirus,Spinareoviridae,Orthoreovirus,1,1,1
+538121,mammalian orthoreovirus 2,Spinareoviridae,Orthoreovirus,0,1,1
+538123,mammalian orthoreovirus 3,Spinareoviridae,Orthoreovirus,0,1,1
+118027,nelson bay orthoreovirus,Spinareoviridae,Orthoreovirus,0,1,1
+1459003,pteropine orthoreovirus,Spinareoviridae,Orthoreovirus,0,1,1
+1525173,human circovirus vs6600022,Pecoviridae,Amaruvirus,1,0,0
+1788432,bat mastadenovirus wiv10,Adenoviridae,Mastadenovirus,0,1,1
+1788433,bat mastadenovirus wiv11,Adenoviridae,Mastadenovirus,0,1,1
+10533,human adenovirus 1,Adenoviridae,Mastadenovirus,1,1,1
+10541,human adenovirus 11,Adenoviridae,Mastadenovirus,1,0,0
+1461395,human adenovirus 11+34,Adenoviridae,Mastadenovirus,1,0,0
+28282,human adenovirus 12,Adenoviridae,Mastadenovirus,1,1,1
+10521,human adenovirus 14,Adenoviridae,Mastadenovirus,1,0,0
+28276,human adenovirus 15,Adenoviridae,Mastadenovirus,1,0,0
+31544,human adenovirus 16,Adenoviridae,Mastadenovirus,1,0,0
+46922,human adenovirus 17,Adenoviridae,Mastadenovirus,1,0,0
+10528,human adenovirus 18,Adenoviridae,Mastadenovirus,1,0,0
+28278,human adenovirus 19,Adenoviridae,Mastadenovirus,1,0,0
+88059,human adenovirus 19a,Adenoviridae,Mastadenovirus,1,0,0
+10515,human adenovirus 2,Adenoviridae,Mastadenovirus,1,0,0
+46923,human adenovirus 20,Adenoviridae,Mastadenovirus,1,0,0
+32608,human adenovirus 21,Adenoviridae,Mastadenovirus,1,0,0
+46924,human adenovirus 22,Adenoviridae,Mastadenovirus,1,0,0
+46925,human adenovirus 23,Adenoviridae,Mastadenovirus,1,0,0
+46926,human adenovirus 24,Adenoviridae,Mastadenovirus,1,0,0
+46927,human adenovirus 25,Adenoviridae,Mastadenovirus,1,0,0
+46928,human adenovirus 26,Adenoviridae,Mastadenovirus,1,0,0
+46929,human adenovirus 27,Adenoviridae,Mastadenovirus,1,0,0
+46930,human adenovirus 28,Adenoviridae,Mastadenovirus,1,0,0
+46931,human adenovirus 29,Adenoviridae,Mastadenovirus,1,0,0
+459785,human adenovirus 3+11p,Adenoviridae,Mastadenovirus,1,0,0
+260047,human adenovirus 3+7,Adenoviridae,Mastadenovirus,1,0,0
+46932,human adenovirus 30,Adenoviridae,Mastadenovirus,1,0,0
+10529,human adenovirus 31,Adenoviridae,Mastadenovirus,1,0,0
+46933,human adenovirus 32,Adenoviridae,Mastadenovirus,1,0,0
+46934,human adenovirus 33,Adenoviridae,Mastadenovirus,1,0,0
+10548,human adenovirus 34,Adenoviridae,Mastadenovirus,1,0,0
+10522,human adenovirus 35,Adenoviridae,Mastadenovirus,1,0,0
+46936,human adenovirus 36,Adenoviridae,Mastadenovirus,1,1,1
+46943,human adenovirus 38,Adenoviridae,Mastadenovirus,1,0,0
+46935,human adenovirus 39,Adenoviridae,Mastadenovirus,1,0,0
+28280,human adenovirus 4,Adenoviridae,Mastadenovirus,1,0,0
+28284,human adenovirus 40,Adenoviridae,Mastadenovirus,1,1,1
+10524,human adenovirus 41,Adenoviridae,Mastadenovirus,1,0,0
+46937,human adenovirus 42,Adenoviridae,Mastadenovirus,1,0,0
+46938,human adenovirus 43,Adenoviridae,Mastadenovirus,1,0,0
+46939,human adenovirus 44,Adenoviridae,Mastadenovirus,1,0,0
+46940,human adenovirus 45,Adenoviridae,Mastadenovirus,1,0,0
+46941,human adenovirus 46,Adenoviridae,Mastadenovirus,1,0,0
+46942,human adenovirus 47,Adenoviridae,Mastadenovirus,1,0,0
+39641,human adenovirus 48,Adenoviridae,Mastadenovirus,1,0,0
+218120,human adenovirus 49,Adenoviridae,Mastadenovirus,1,0,0
+28285,human adenovirus 5,Adenoviridae,Mastadenovirus,1,1,1
+107462,human adenovirus 50,Adenoviridae,Mastadenovirus,1,0,0
+245072,human adenovirus 51,Adenoviridae,Mastadenovirus,1,0,0
+556926,human adenovirus 53,Adenoviridae,Mastadenovirus,1,0,0
+651580,human adenovirus 54,Adenoviridae,Mastadenovirus,1,0,0
+714978,human adenovirus 55,Adenoviridae,Mastadenovirus,1,0,0
+880565,human adenovirus 56,Adenoviridae,Mastadenovirus,1,0,0
+980087,human adenovirus 58,Adenoviridae,Mastadenovirus,1,0,0
+1091198,human adenovirus 60a,Adenoviridae,Mastadenovirus,1,0,0
+1069441,human adenovirus 61,Adenoviridae,Mastadenovirus,1,0,0
+1091197,human adenovirus 62,Adenoviridae,Mastadenovirus,1,0,0
+1124795,human adenovirus 63,Adenoviridae,Mastadenovirus,1,0,0
+1145295,human adenovirus 64,Adenoviridae,Mastadenovirus,1,0,0
+1094363,human adenovirus 65,Adenoviridae,Mastadenovirus,1,0,0
+1337398,human adenovirus 66,Adenoviridae,Mastadenovirus,1,0,0
+1101371,human adenovirus 67,Adenoviridae,Mastadenovirus,1,0,0
+1096763,human adenovirus 68,Adenoviridae,Mastadenovirus,1,0,0
+1604283,human adenovirus 69,Adenoviridae,Mastadenovirus,1,0,0
+10519,human adenovirus 7,Adenoviridae,Mastadenovirus,1,0,0
+1643649,human adenovirus 71,Adenoviridae,Mastadenovirus,1,0,0
+1972755,human adenovirus 81,Adenoviridae,Mastadenovirus,1,0,0
+2461378,human adenovirus 86,Adenoviridae,Mastadenovirus,1,0,0
+45659,human adenovirus b3,Adenoviridae,Mastadenovirus,1,0,0
+28275,human adenovirus d10,Adenoviridae,Mastadenovirus,1,0,0
+46921,human adenovirus d13,Adenoviridae,Mastadenovirus,1,0,0
+52275,human adenovirus d37,Adenoviridae,Mastadenovirus,1,0,0
+31545,human adenovirus d8,Adenoviridae,Mastadenovirus,1,0,0
+10527,human adenovirus d9,Adenoviridae,Mastadenovirus,1,0,0
+129875,human mastadenovirus a,Adenoviridae,Mastadenovirus,1,1,1
+108098,human mastadenovirus b,Adenoviridae,Mastadenovirus,1,1,1
+129951,human mastadenovirus c,Adenoviridae,Mastadenovirus,1,1,1
+130310,human mastadenovirus d,Adenoviridae,Mastadenovirus,1,1,1
+130308,human mastadenovirus e,Adenoviridae,Mastadenovirus,1,1,1
+130309,human mastadenovirus f,Adenoviridae,Mastadenovirus,1,1,1
+536079,human mastadenovirus g,Adenoviridae,Mastadenovirus,1,1,1
+585060,simian adenovirus 26,Adenoviridae,Mastadenovirus,0,1,1
+585084,simian adenovirus 27.2,Adenoviridae,Mastadenovirus,0,0,0
+585085,simian adenovirus 28.1,Adenoviridae,Mastadenovirus,0,1,1
+585086,simian adenovirus 28.2,Adenoviridae,Mastadenovirus,0,0,0
+585063,simian adenovirus 29,Adenoviridae,Mastadenovirus,0,1,1
+585064,simian adenovirus 30,Adenoviridae,Mastadenovirus,0,1,1
+585087,simian adenovirus 31.1,Adenoviridae,Mastadenovirus,0,1,1
+585088,simian adenovirus 31.2,Adenoviridae,Mastadenovirus,0,1,1
+585066,simian adenovirus 32,Adenoviridae,Mastadenovirus,0,1,1
+585067,simian adenovirus 33,Adenoviridae,Mastadenovirus,0,1,1
+585068,simian adenovirus 34,Adenoviridae,Mastadenovirus,0,1,1
+585089,simian adenovirus 35.1,Adenoviridae,Mastadenovirus,0,1,1
+585090,simian adenovirus 35.2,Adenoviridae,Mastadenovirus,0,1,1
+585071,simian adenovirus 37,Adenoviridae,Mastadenovirus,0,1,1
+585072,simian adenovirus 38,Adenoviridae,Mastadenovirus,0,1,1
+585073,simian adenovirus 39,Adenoviridae,Mastadenovirus,0,1,1
+585093,simian adenovirus 40.1,Adenoviridae,Mastadenovirus,0,1,1
+585094,simian adenovirus 40.2,Adenoviridae,Mastadenovirus,0,1,1
+585095,simian adenovirus 41.1,Adenoviridae,Mastadenovirus,0,0,0
+585096,simian adenovirus 41.2,Adenoviridae,Mastadenovirus,0,0,0
+585098,simian adenovirus 42.2,Adenoviridae,Mastadenovirus,0,1,1
+585099,simian adenovirus 42.3,Adenoviridae,Mastadenovirus,0,1,1
+585077,simian adenovirus 43,Adenoviridae,Mastadenovirus,0,0,0
+585078,simian adenovirus 44,Adenoviridae,Mastadenovirus,0,1,1
+585079,simian adenovirus 45,Adenoviridae,Mastadenovirus,0,0,0
+585080,simian adenovirus 46,Adenoviridae,Mastadenovirus,0,0,0
+585081,simian adenovirus 47,Adenoviridae,Mastadenovirus,0,0,0
+687340,torque teno virus 1,Anelloviridae,Alphatorquevirus,1,1,1
+687349,torque teno virus 10,Anelloviridae,Alphatorquevirus,1,0,0
+687351,torque teno virus 12,Anelloviridae,Alphatorquevirus,1,0,0
+687354,torque teno virus 15,Anelloviridae,Alphatorquevirus,1,0,0
+687355,torque teno virus 16,Anelloviridae,Alphatorquevirus,1,0,0
+687356,torque teno virus 17,Anelloviridae,Alphatorquevirus,1,0,0
+687357,torque teno virus 18,Anelloviridae,Alphatorquevirus,1,0,0
+687358,torque teno virus 19,Anelloviridae,Alphatorquevirus,1,0,0
+687341,torque teno virus 2,Anelloviridae,Alphatorquevirus,1,1,1
+687364,torque teno virus 25,Anelloviridae,Alphatorquevirus,1,1,1
+687365,torque teno virus 26,Anelloviridae,Alphatorquevirus,1,1,1
+687366,torque teno virus 27,Anelloviridae,Alphatorquevirus,1,0,0
+687367,torque teno virus 28,Anelloviridae,Alphatorquevirus,1,0,0
+687342,torque teno virus 3,Anelloviridae,Alphatorquevirus,1,1,1
+687343,torque teno virus 4,Anelloviridae,Alphatorquevirus,1,1,1
+687345,torque teno virus 6,Anelloviridae,Alphatorquevirus,1,0,0
+687346,torque teno virus 7,Anelloviridae,Alphatorquevirus,1,0,0
+687369,torque teno mini virus 1,Anelloviridae,Betatorquevirus,1,0,0
+2065036,torque teno mini virus 10,Anelloviridae,Betatorquevirus,1,0,0
+1859149,torque teno mini virus 18,Anelloviridae,Betatorquevirus,1,0,0
+687370,torque teno mini virus 2,Anelloviridae,Betatorquevirus,1,0,0
+687371,torque teno mini virus 3,Anelloviridae,Betatorquevirus,1,0,0
+687372,torque teno mini virus 4,Anelloviridae,Betatorquevirus,1,1,1
+687373,torque teno mini virus 5,Anelloviridae,Betatorquevirus,1,0,0
+687374,torque teno mini virus 6,Anelloviridae,Betatorquevirus,1,0,0
+687375,torque teno mini virus 7,Anelloviridae,Betatorquevirus,1,0,0
+687376,torque teno mini virus 8,Anelloviridae,Betatorquevirus,1,0,0
+1535290,torque teno mini virus ala22,Anelloviridae,Betatorquevirus,1,0,0
+1535291,torque teno mini virus alh8,Anelloviridae,Betatorquevirus,1,0,0
+2057931,torque teno mini virus sha,Anelloviridae,Betatorquevirus,1,0,0
+2057932,torque teno mini virus shb,Anelloviridae,Betatorquevirus,1,0,0
+2057933,torque teno mini virus shc,Anelloviridae,Betatorquevirus,1,0,0
+93678,ttv-like mini virus,Anelloviridae,Betatorquevirus,1,1,1
+687379,torque teno midi virus 1,Anelloviridae,Gammatorquevirus,1,0,0
+2065051,torque teno midi virus 10,Anelloviridae,Gammatorquevirus,1,0,0
+2065052,torque teno midi virus 11,Anelloviridae,Gammatorquevirus,1,0,0
+2065053,torque teno midi virus 12,Anelloviridae,Gammatorquevirus,1,0,0
+2065054,torque teno midi virus 13,Anelloviridae,Gammatorquevirus,1,0,0
+2065055,torque teno midi virus 14,Anelloviridae,Gammatorquevirus,1,0,0
+2065056,torque teno midi virus 15,Anelloviridae,Gammatorquevirus,1,0,0
+687380,torque teno midi virus 2,Anelloviridae,Gammatorquevirus,1,0,0
+2065046,torque teno midi virus 5,Anelloviridae,Gammatorquevirus,1,0,0
+2065047,torque teno midi virus 6,Anelloviridae,Gammatorquevirus,1,0,0
+2065048,torque teno midi virus 7,Anelloviridae,Gammatorquevirus,1,0,0
+2065049,torque teno midi virus 8,Anelloviridae,Gammatorquevirus,1,0,0
+2065050,torque teno midi virus 9,Anelloviridae,Gammatorquevirus,1,0,0
+1002273,avian gyrovirus 2,Anelloviridae,Gyrovirus,0,1,1
+12618,chicken anemia virus,Anelloviridae,Gyrovirus,0,1,0
+1214955,gyrovirus 4,Anelloviridae,Gyrovirus,0,1,0
+1163715,gyrovirus gyv3,Anelloviridae,Gyrovirus,0,1,0
+1415627,gyrovirus tu243,Anelloviridae,Gyrovirus,0,0,0
+1415628,gyrovirus tu789,Anelloviridae,Gyrovirus,0,0,0
+2749445,anellovirus cya/2019,Anelloviridae,,0,0,0
+2749446,anellovirus cyb/2019,Anelloviridae,,0,0,0
+2749447,anellovirus cyc/2019,Anelloviridae,,0,0,0
+2778524,human anellovirus zj-ad 1,Anelloviridae,,1,0,0
+943084,micro torque teno virus,Anelloviridae,,0,0,0
+136966,sen virus,Anelloviridae,,0,0,0
+289366,small anellovirus 1,Anelloviridae,,1,0,0
+289367,small anellovirus 2,Anelloviridae,,1,0,0
+432261,torque teno midi virus,Anelloviridae,,1,1,0
+68887,torque teno virus,Anelloviridae,,1,1,0
+687347,torque teno virus 8,Anelloviridae,,1,0,0
+2853118,torque teno virus az1_2,Anelloviridae,,0,0,0
+2853119,torque teno virus az6_5,Anelloviridae,,0,0,0
+2853120,torque teno virus az7_4,Anelloviridae,,0,0,0
+2749452,tt virus cya/2019,Anelloviridae,,1,0,0
+2749453,tt virus cyb/2019,Anelloviridae,,1,0,0
+2749454,tt virus cyc/2019,Anelloviridae,,1,0,0
+1891727,alphapolyomavirus octihominis,Polyomaviridae,Alphapolyomavirus,1,0,0
+2734294,alphapolyomavirus quardecihominis,Polyomaviridae,Alphapolyomavirus,1,0,0
+1891726,alphapolyomavirus quintihominis,Polyomaviridae,Alphapolyomavirus,1,1,0
+1891728,alphapolyomavirus terdecihominis,Polyomaviridae,Alphapolyomavirus,1,0,0
+1303334,human polyomavirus 12,Polyomaviridae,Alphapolyomavirus,1,0,0
+943908,human polyomavirus 9,Polyomaviridae,Alphapolyomavirus,1,0,0
+1891762,betapolyomavirus hominis,Polyomaviridae,Betapolyomavirus,1,1,0
+1891767,betapolyomavirus macacae,Polyomaviridae,Betapolyomavirus,0,1,0
+1891765,betapolyomavirus quartihominis,Polyomaviridae,Betapolyomavirus,1,0,0
+1891763,betapolyomavirus secuhominis,Polyomaviridae,Betapolyomavirus,1,0,0
+1891764,betapolyomavirus tertihominis,Polyomaviridae,Betapolyomavirus,1,0,0
+423447,ki polyomavirus stockholm 350,Polyomaviridae,Betapolyomavirus,1,0,0
+423448,ki polyomavirus stockholm 380,Polyomaviridae,Betapolyomavirus,1,0,0
+423446,ki polyomavirus stockholm 60,Polyomaviridae,Betapolyomavirus,1,0,0
+1208309,deltapolyomavirus decihominis,Polyomaviridae,Deltapolyomavirus,1,0,0
+1891745,deltapolyomavirus undecihominis,Polyomaviridae,Deltapolyomavirus,1,0,0
+746830,human polyomavirus 6,Polyomaviridae,Deltapolyomavirus,1,0,0
+746831,human polyomavirus 7,Polyomaviridae,Deltapolyomavirus,1,0,0
+2506584,quebec polyomavirus,Polyomaviridae,Deltapolyomavirus,0,0,0
+1891754,epsilonpolyomavirus bovis,Polyomaviridae,Epsilonpolyomavirus,0,1,0
+12480,african green monkey polyomavirus,Polyomaviridae,,0,1,0
+1231709,mx polyomavirus,Polyomaviridae,,1,0,0
+1239439,avastrovirus 3,Astroviridae,Avastrovirus,0,1,0
+336960,avian nephritis virus 1,Astroviridae,Avastrovirus,0,1,0
+336961,avian nephritis virus 2,Astroviridae,Avastrovirus,0,1,0
+568715,astrovirus mlb1,Astroviridae,Mamastrovirus,1,0,0
+767521,astrovirus sg,Astroviridae,Mamastrovirus,0,0,0
+645687,astrovirus va1,Astroviridae,Mamastrovirus,1,0,0
+1518574,burkina faso astrovirus,Astroviridae,Mamastrovirus,0,0,0
+682382,hmo astrovirus a,Astroviridae,Mamastrovirus,0,0,0
+12456,human astrovirus 1,Astroviridae,Mamastrovirus,1,0,0
+12701,human astrovirus 2,Astroviridae,Mamastrovirus,1,0,0
+35740,human astrovirus 3,Astroviridae,Mamastrovirus,1,0,0
+35300,human astrovirus 4,Astroviridae,Mamastrovirus,1,0,0
+35741,human astrovirus 5,Astroviridae,Mamastrovirus,1,0,0
+37130,human astrovirus 6,Astroviridae,Mamastrovirus,1,0,0
+38950,human astrovirus 7,Astroviridae,Mamastrovirus,1,0,0
+43358,human astrovirus 8,Astroviridae,Mamastrovirus,1,0,0
+1570321,human astrovirus uk1,Astroviridae,Mamastrovirus,1,0,0
+1239565,mamastrovirus 1,Astroviridae,Mamastrovirus,1,1,0
+1239567,mamastrovirus 3,Astroviridae,Mamastrovirus,0,1,0
+1239568,mamastrovirus 4,Astroviridae,Mamastrovirus,0,1,0
+1239572,mamastrovirus 8,Astroviridae,Mamastrovirus,0,0,0
+683172,astrovirus mlb2,Astroviridae,,1,0,0
+1247114,astrovirus mlb3,Astroviridae,,1,0,0
+683174,astrovirus va3,Astroviridae,,1,0,0
+1247113,astrovirus va4,Astroviridae,,1,0,0
+1803390,bastrovirus 3,Astroviridae,,0,0,0
+1803393,bastrovirus 4,Astroviridae,,0,0,0
+1803394,bastrovirus 7,Astroviridae,,0,0,0
+1868658,human astrovirus,Astroviridae,,1,1,0
+333766,alphapapillomavirus 13,Papillomaviridae,Alphapapillomavirus,1,0,0
+333767,alphapapillomavirus 3,Papillomaviridae,Alphapapillomavirus,1,0,0
+337043,alphapapillomavirus 4,Papillomaviridae,Alphapapillomavirus,1,0,0
+337042,alphapapillomavirus 7,Papillomaviridae,Alphapapillomavirus,1,0,0
+333759,human papillomavirus 10,Papillomaviridae,Alphapapillomavirus,1,0,0
+338327,human papillomavirus 102,Papillomaviridae,Alphapapillomavirus,1,0,0
+338326,human papillomavirus 106,Papillomaviridae,Alphapapillomavirus,1,0,0
+10580,human papillomavirus 11,Papillomaviridae,Alphapapillomavirus,1,1,0
+720708,human papillomavirus 117,Papillomaviridae,Alphapapillomavirus,1,0,0
+673323,human papillomavirus 125,Papillomaviridae,Alphapapillomavirus,1,0,0
+10573,human papillomavirus 13,Papillomaviridae,Alphapapillomavirus,1,0,0
+333760,human papillomavirus 16,Papillomaviridae,Alphapapillomavirus,1,1,0
+2259332,human papillomavirus 160,Papillomaviridae,Alphapapillomavirus,1,0,0
+333761,human papillomavirus 18,Papillomaviridae,Alphapapillomavirus,1,1,0
+333752,human papillomavirus 27,Papillomaviridae,Alphapapillomavirus,1,0,0
+37111,human papillomavirus 28,Papillomaviridae,Alphapapillomavirus,1,0,0
+37112,human papillomavirus 29,Papillomaviridae,Alphapapillomavirus,1,0,0
+10611,human papillomavirus 30,Papillomaviridae,Alphapapillomavirus,1,0,0
+10585,human papillomavirus 31,Papillomaviridae,Alphapapillomavirus,1,0,0
+333763,human papillomavirus 32,Papillomaviridae,Alphapapillomavirus,1,0,0
+10586,human papillomavirus 33,Papillomaviridae,Alphapapillomavirus,1,0,0
+10587,human papillomavirus 35,Papillomaviridae,Alphapapillomavirus,1,0,0
+10588,human papillomavirus 39,Papillomaviridae,Alphapapillomavirus,1,0,0
+10615,human papillomavirus 40,Papillomaviridae,Alphapapillomavirus,1,0,0
+10590,human papillomavirus 42,Papillomaviridae,Alphapapillomavirus,1,0,0
+10591,human papillomavirus 43,Papillomaviridae,Alphapapillomavirus,1,0,0
+10592,human papillomavirus 44,Papillomaviridae,Alphapapillomavirus,1,0,0
+10593,human papillomavirus 45,Papillomaviridae,Alphapapillomavirus,1,0,0
+10595,human papillomavirus 51,Papillomaviridae,Alphapapillomavirus,1,0,0
+10618,human papillomavirus 52,Papillomaviridae,Alphapapillomavirus,1,0,0
+10596,human papillomavirus 56,Papillomaviridae,Alphapapillomavirus,1,0,0
+333753,human papillomavirus 57,Papillomaviridae,Alphapapillomavirus,1,0,0
+10598,human papillomavirus 58,Papillomaviridae,Alphapapillomavirus,1,0,0
+37115,human papillomavirus 59,Papillomaviridae,Alphapapillomavirus,1,0,0
+334210,human papillomavirus 62,Papillomaviridae,Alphapapillomavirus,1,0,0
+37119,human papillomavirus 66,Papillomaviridae,Alphapapillomavirus,1,0,0
+37120,human papillomavirus 67,Papillomaviridae,Alphapapillomavirus,1,0,0
+45240,human papillomavirus 68,Papillomaviridae,Alphapapillomavirus,1,0,0
+37121,human papillomavirus 69,Papillomaviridae,Alphapapillomavirus,1,0,0
+120686,human papillomavirus 71,Papillomaviridae,Alphapapillomavirus,1,0,0
+333770,human papillomavirus 72,Papillomaviridae,Alphapapillomavirus,1,0,0
+51033,human papillomavirus 73,Papillomaviridae,Alphapapillomavirus,1,0,0
+44028,human papillomavirus 74,Papillomaviridae,Alphapapillomavirus,1,0,0
+333771,human papillomavirus 81,Papillomaviridae,Alphapapillomavirus,1,0,0
+129724,human papillomavirus 82,Papillomaviridae,Alphapapillomavirus,1,0,0
+333772,human papillomavirus 83,Papillomaviridae,Alphapapillomavirus,1,0,0
+150546,human papillomavirus 84,Papillomaviridae,Alphapapillomavirus,1,0,0
+2848423,human papillomavirus 85,Papillomaviridae,Alphapapillomavirus,1,0,0
+171370,human papillomavirus 86,Papillomaviridae,Alphapapillomavirus,1,0,0
+120381,human papillomavirus 87,Papillomaviridae,Alphapapillomavirus,1,0,0
+202250,human papillomavirus 89,Papillomaviridae,Alphapapillomavirus,1,0,0
+202252,human papillomavirus 91,Papillomaviridae,Alphapapillomavirus,1,0,0
+260717,human papillomavirus 94,Papillomaviridae,Alphapapillomavirus,1,0,0
+338324,human papillomavirus 97,Papillomaviridae,Alphapapillomavirus,1,0,0
+1851123,human papillomavirus type 177,Papillomaviridae,Alphapapillomavirus,1,0,0
+333751,human papillomavirus type 2,Papillomaviridae,Alphapapillomavirus,1,0,0
+333762,human papillomavirus type 26,Papillomaviridae,Alphapapillomavirus,1,0,0
+333764,human papillomavirus type 34,Papillomaviridae,Alphapapillomavirus,1,0,0
+333765,human papillomavirus type 53,Papillomaviridae,Alphapapillomavirus,1,0,0
+37114,human papillomavirus type 55,Papillomaviridae,Alphapapillomavirus,1,0,0
+31552,human papillomavirus type 6,Papillomaviridae,Alphapapillomavirus,1,1,0
+37116,human papillomavirus type 61,Papillomaviridae,Alphapapillomavirus,1,0,0
+10620,human papillomavirus type 7,Papillomaviridae,Alphapapillomavirus,1,0,0
+39457,human papillomavirus type 70,Papillomaviridae,Alphapapillomavirus,1,0,0
+1297549,human papillomavirus type 78,Papillomaviridae,Alphapapillomavirus,1,0,0
+333769,human papillomavirus type 90,Papillomaviridae,Alphapapillomavirus,1,0,0
+1288116,human papillomavirus type xs2,Papillomaviridae,Alphapapillomavirus,1,0,0
+337051,betapapillomavirus 1,Papillomaviridae,Betapapillomavirus,1,1,0
+333924,betapapillomavirus 2,Papillomaviridae,Betapapillomavirus,1,0,0
+334208,betapapillomavirus 4,Papillomaviridae,Betapapillomavirus,1,0,0
+334209,betapapillomavirus 5,Papillomaviridae,Betapapillomavirus,1,0,0
+10599,human papillomavirus - 5b,Papillomaviridae,Betapapillomavirus,1,0,0
+587349,human papillomavirus 100,Papillomaviridae,Betapapillomavirus,1,0,0
+518628,human papillomavirus 104,Papillomaviridae,Betapapillomavirus,1,0,0
+587350,human papillomavirus 105,Papillomaviridae,Betapapillomavirus,1,0,0
+427343,human papillomavirus 107,Papillomaviridae,Betapapillomavirus,1,0,0
+518629,human papillomavirus 110,Papillomaviridae,Betapapillomavirus,1,0,0
+518630,human papillomavirus 111,Papillomaviridae,Betapapillomavirus,1,0,0
+587351,human papillomavirus 113,Papillomaviridae,Betapapillomavirus,1,0,0
+696746,human papillomavirus 115,Papillomaviridae,Betapapillomavirus,1,0,0
+927771,human papillomavirus 118,Papillomaviridae,Betapapillomavirus,1,0,0
+765052,human papillomavirus 120,Papillomaviridae,Betapapillomavirus,1,0,0
+765054,human papillomavirus 122,Papillomaviridae,Betapapillomavirus,1,0,0
+765056,human papillomavirus 124,Papillomaviridae,Betapapillomavirus,1,0,0
+1070416,human papillomavirus 143,Papillomaviridae,Betapapillomavirus,1,0,0
+1070418,human papillomavirus 145,Papillomaviridae,Betapapillomavirus,1,0,0
+743811,human papillomavirus 150,Papillomaviridae,Betapapillomavirus,1,0,0
+743812,human papillomavirus 151,Papillomaviridae,Betapapillomavirus,1,0,0
+990302,human papillomavirus 152,Papillomaviridae,Betapapillomavirus,1,0,0
+1209820,human papillomavirus 159,Papillomaviridae,Betapapillomavirus,1,0,0
+10607,human papillomavirus 17,Papillomaviridae,Betapapillomavirus,1,0,0
+1347832,human papillomavirus 174,Papillomaviridae,Betapapillomavirus,1,0,0
+1851125,human papillomavirus 182,Papillomaviridae,Betapapillomavirus,1,0,0
+1851220,human papillomavirus 195,Papillomaviridae,Betapapillomavirus,1,0,0
+1851221,human papillomavirus 196,Papillomaviridae,Betapapillomavirus,1,0,0
+31547,human papillomavirus 20,Papillomaviridae,Betapapillomavirus,1,0,0
+1961924,human papillomavirus 209,Papillomaviridae,Betapapillomavirus,1,0,0
+31548,human papillomavirus 21,Papillomaviridae,Betapapillomavirus,1,0,0
+37954,human papillomavirus 22,Papillomaviridae,Betapapillomavirus,1,0,0
+37955,human papillomavirus 23,Papillomaviridae,Betapapillomavirus,1,0,0
+37956,human papillomavirus 24,Papillomaviridae,Betapapillomavirus,1,0,0
+37957,human papillomavirus 36,Papillomaviridae,Betapapillomavirus,1,0,0
+37958,human papillomavirus 37,Papillomaviridae,Betapapillomavirus,1,0,0
+37959,human papillomavirus 38,Papillomaviridae,Betapapillomavirus,1,0,0
+10616,human papillomavirus 49,Papillomaviridae,Betapapillomavirus,1,0,0
+333923,human papillomavirus 5,Papillomaviridae,Betapapillomavirus,1,0,0
+10579,human papillomavirus 8,Papillomaviridae,Betapapillomavirus,1,0,0
+211787,human papillomavirus 92,Papillomaviridae,Betapapillomavirus,1,0,0
+247268,human papillomavirus 93,Papillomaviridae,Betapapillomavirus,1,0,0
+247269,human papillomavirus 96,Papillomaviridae,Betapapillomavirus,1,0,0
+587347,human papillomavirus 98,Papillomaviridae,Betapapillomavirus,1,0,0
+587348,human papillomavirus 99,Papillomaviridae,Betapapillomavirus,1,0,0
+79691,human papillomavirus rtrx7,Papillomaviridae,Betapapillomavirus,1,0,0
+1851127,human papillomavirus type 185,Papillomaviridae,Betapapillomavirus,1,0,0
+1175852,gammapapillomavirus 10,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513256,gammapapillomavirus 11,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513257,gammapapillomavirus 12,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513258,gammapapillomavirus 13,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513259,gammapapillomavirus 14,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513260,gammapapillomavirus 15,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513261,gammapapillomavirus 16,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513262,gammapapillomavirus 17,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513263,gammapapillomavirus 18,Papillomaviridae,Gammapapillomavirus,1,0,0
+1513264,gammapapillomavirus 19,Papillomaviridae,Gammapapillomavirus,1,0,0
+1961678,gammapapillomavirus 21,Papillomaviridae,Gammapapillomavirus,1,0,0
+1961679,gammapapillomavirus 22,Papillomaviridae,Gammapapillomavirus,1,0,0
+1961680,gammapapillomavirus 23,Papillomaviridae,Gammapapillomavirus,1,0,0
+1961681,gammapapillomavirus 24,Papillomaviridae,Gammapapillomavirus,1,0,0
+1961682,gammapapillomavirus 25,Papillomaviridae,Gammapapillomavirus,1,0,0
+1961683,gammapapillomavirus 26,Papillomaviridae,Gammapapillomavirus,1,0,0
+2169902,gammapapillomavirus 27,Papillomaviridae,Gammapapillomavirus,1,0,0
+333930,gammapapillomavirus 4,Papillomaviridae,Gammapapillomavirus,1,0,0
+333931,gammapapillomavirus 5,Papillomaviridae,Gammapapillomavirus,1,0,0
+1175848,gammapapillomavirus 6,Papillomaviridae,Gammapapillomavirus,1,0,0
+1175849,gammapapillomavirus 7,Papillomaviridae,Gammapapillomavirus,1,0,0
+1175850,gammapapillomavirus 8,Papillomaviridae,Gammapapillomavirus,1,0,0
+1175851,gammapapillomavirus 9,Papillomaviridae,Gammapapillomavirus,1,0,0
+338323,human papillomavirus 103,Papillomaviridae,Gammapapillomavirus,1,0,0
+565537,human papillomavirus 108,Papillomaviridae,Gammapapillomavirus,1,0,0
+915426,human papillomavirus 109,Papillomaviridae,Gammapapillomavirus,1,0,0
+915428,human papillomavirus 116,Papillomaviridae,Gammapapillomavirus,1,0,0
+765051,human papillomavirus 119,Papillomaviridae,Gammapapillomavirus,1,0,0
+915429,human papillomavirus 121,Papillomaviridae,Gammapapillomavirus,1,0,0
+765055,human papillomavirus 123,Papillomaviridae,Gammapapillomavirus,1,0,0
+1055684,human papillomavirus 126,Papillomaviridae,Gammapapillomavirus,1,0,0
+746832,human papillomavirus 127,Papillomaviridae,Gammapapillomavirus,1,0,0
+909329,human papillomavirus 130,Papillomaviridae,Gammapapillomavirus,1,0,0
+909331,human papillomavirus 132,Papillomaviridae,Gammapapillomavirus,1,0,0
+909332,human papillomavirus 133,Papillomaviridae,Gammapapillomavirus,1,0,0
+909333,human papillomavirus 134,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070408,human papillomavirus 135,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070409,human papillomavirus 136,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070411,human papillomavirus 138,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070412,human papillomavirus 139,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070413,human papillomavirus 140,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070414,human papillomavirus 141,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070415,human papillomavirus 142,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070419,human papillomavirus 146,Papillomaviridae,Gammapapillomavirus,1,0,0
+1070420,human papillomavirus 147,Papillomaviridae,Gammapapillomavirus,1,0,0
+942038,human papillomavirus 148,Papillomaviridae,Gammapapillomavirus,1,0,0
+909328,human papillomavirus 149,Papillomaviridae,Gammapapillomavirus,1,0,0
+1110710,human papillomavirus 153,Papillomaviridae,Gammapapillomavirus,1,0,0
+1195796,human papillomavirus 154,Papillomaviridae,Gammapapillomavirus,1,0,0
+1165934,human papillomavirus 155,Papillomaviridae,Gammapapillomavirus,1,0,0
+2259331,human papillomavirus 157,Papillomaviridae,Gammapapillomavirus,1,0,0
+2259343,human papillomavirus 158,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315263,human papillomavirus 162,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315262,human papillomavirus 163,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315261,human papillomavirus 164,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315266,human papillomavirus 165,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315259,human papillomavirus 166,Papillomaviridae,Gammapapillomavirus,1,0,0
+1420544,human papillomavirus 168,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315260,human papillomavirus 169,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315265,human papillomavirus 170,Papillomaviridae,Gammapapillomavirus,1,0,0
+1434986,human papillomavirus 171,Papillomaviridae,Gammapapillomavirus,1,0,0
+1434988,human papillomavirus 173,Papillomaviridae,Gammapapillomavirus,1,0,0
+1478160,human papillomavirus 178,Papillomaviridae,Gammapapillomavirus,1,0,0
+1472342,human papillomavirus 179,Papillomaviridae,Gammapapillomavirus,1,0,0
+1449827,human papillomavirus 180,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851124,human papillomavirus 181,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851128,human papillomavirus 186,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851214,human papillomavirus 189,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851216,human papillomavirus 191,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851217,human papillomavirus 192,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851218,human papillomavirus 193,Papillomaviridae,Gammapapillomavirus,1,0,0
+1542134,human papillomavirus 197,Papillomaviridae,Gammapapillomavirus,1,0,0
+1545700,human papillomavirus 199,Papillomaviridae,Gammapapillomavirus,1,0,0
+1682339,human papillomavirus 200,Papillomaviridae,Gammapapillomavirus,1,0,0
+1682341,human papillomavirus 202,Papillomaviridae,Gammapapillomavirus,1,0,0
+2259334,human papillomavirus 205,Papillomaviridae,Gammapapillomavirus,1,0,0
+10617,human papillomavirus 4,Papillomaviridae,Gammapapillomavirus,1,0,0
+28312,human papillomavirus 65,Papillomaviridae,Gammapapillomavirus,1,0,0
+1647924,human papillomavirus kc5,Papillomaviridae,Gammapapillomavirus,1,0,0
+1315264,human papillomavirus type 161,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851122,human papillomavirus type 176,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851126,human papillomavirus type 183,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851213,human papillomavirus type 188,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851215,human papillomavirus type 190,Papillomaviridae,Gammapapillomavirus,1,0,0
+1851219,human papillomavirus type 194,Papillomaviridae,Gammapapillomavirus,1,0,0
+2320739,human papillomavirus type 210,Papillomaviridae,Gammapapillomavirus,1,0,0
+40538,human papillomavirus type 48,Papillomaviridae,Gammapapillomavirus,1,0,0
+40539,human papillomavirus type 50,Papillomaviridae,Gammapapillomavirus,1,0,0
+334203,mupapillomavirus 1,Papillomaviridae,Mupapillomavirus,1,0,0
+334204,mupapillomavirus 2,Papillomaviridae,Mupapillomavirus,1,0,0
+1961783,mupapillomavirus 3,Papillomaviridae,Mupapillomavirus,1,0,0
+10566,human papillomavirus,Papillomaviridae,,1,0,0
+2853106,human papillomavirus az1_1,Papillomaviridae,,1,0,0
+2093789,human papillomavirus type 203,Papillomaviridae,,1,0,0
+2060135,human papillomavirus type 211,Papillomaviridae,,1,0,0
+2060136,human papillomavirus type 212,Papillomaviridae,,1,0,0
+2060137,human papillomavirus type 213,Papillomaviridae,,1,0,0
+2060138,human papillomavirus type 214,Papillomaviridae,,1,0,0
+2060139,human papillomavirus type 215,Papillomaviridae,,1,0,0
+2060140,human papillomavirus type 216,Papillomaviridae,,1,0,0
+2200956,human papillomavirus type 219,Papillomaviridae,,1,0,0
+2200957,human papillomavirus type 220,Papillomaviridae,,1,0,0
+2200958,human papillomavirus type 221,Papillomaviridae,,1,0,0
+2200959,human papillomavirus type 222,Papillomaviridae,,1,0,0
+652810,human papillomavirus type 85,Papillomaviridae,,1,0,0
+10589,human papillomavirus type 41,Papillomaviridae,Nupapillomavirus,1,0,0

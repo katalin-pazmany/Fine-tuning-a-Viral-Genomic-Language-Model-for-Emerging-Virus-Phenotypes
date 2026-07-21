@@ -1,0 +1,224 @@
+{
+  "H2H": {
+    "Majority-Class": {
+      "AUROC": null,
+      "AUPRC": null,
+      "MCC": 0.0,
+      "F1_macro": 0.4083,
+      "Brier": 0.31,
+      "Threshold": 0.5,
+      "Holdout_Flaviviridae": {
+        "AUROC": null,
+        "AUPRC": null,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": null,
+        "AUPRC": null,
+        "n_holdout": 61
+      }
+    },
+    "GC-Content + Length": {
+      "AUROC": 0.6199,
+      "AUPRC": 0.7599,
+      "MCC": 0.3172,
+      "F1_macro": 0.6519,
+      "Brier": 0.2382,
+      "Threshold": 0.4527,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.6667,
+        "AUPRC": 0.2624,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.722,
+        "AUPRC": 0.8343,
+        "n_holdout": 61
+      }
+    },
+    "k-mer Composition (k=4)": {
+      "AUROC": 0.9176,
+      "AUPRC": 0.9617,
+      "MCC": 0.6443,
+      "F1_macro": 0.8099,
+      "Brier": 0.1105,
+      "Threshold": 0.8851,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.5753,
+        "AUPRC": 0.2654,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.6224,
+        "AUPRC": 0.7704,
+        "n_holdout": 61
+      }
+    },
+    "Codon Usage": {
+      "AUROC": 0.9103,
+      "AUPRC": 0.9589,
+      "MCC": 0.642,
+      "F1_macro": 0.8203,
+      "Brier": 0.1141,
+      "Threshold": 0.6657,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.414,
+        "AUPRC": 0.1561,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.4382,
+        "AUPRC": 0.587,
+        "n_holdout": 61
+      }
+    }
+  },
+  "Zoonotic_relaxed": {
+    "Majority-Class": {
+      "AUROC": null,
+      "AUPRC": null,
+      "MCC": 0.0,
+      "F1_macro": 0.3883,
+      "Brier": 0.3652,
+      "Threshold": 0.5,
+      "Holdout_Flaviviridae": {
+        "AUROC": null,
+        "AUPRC": null,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": null,
+        "AUPRC": null,
+        "n_holdout": 61
+      }
+    },
+    "GC-Content + Length": {
+      "AUROC": 0.6589,
+      "AUPRC": 0.5562,
+      "MCC": 0.3455,
+      "F1_macro": 0.6727,
+      "Brier": 0.2315,
+      "Threshold": 0.5079,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.4,
+        "AUPRC": 0.9431,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.6934,
+        "AUPRC": 0.6843,
+        "n_holdout": 61
+      }
+    },
+    "k-mer Composition (k=4)": {
+      "AUROC": 0.8514,
+      "AUPRC": 0.7548,
+      "MCC": 0.5502,
+      "F1_macro": 0.765,
+      "Brier": 0.1539,
+      "Threshold": 0.2358,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.7286,
+        "AUPRC": 0.9833,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.6041,
+        "AUPRC": 0.482,
+        "n_holdout": 61
+      }
+    },
+    "Codon Usage": {
+      "AUROC": 0.8332,
+      "AUPRC": 0.7331,
+      "MCC": 0.5067,
+      "F1_macro": 0.7421,
+      "Brier": 0.1637,
+      "Threshold": 0.2661,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.3571,
+        "AUPRC": 0.9225,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.6768,
+        "AUPRC": 0.6502,
+        "n_holdout": 61
+      }
+    }
+  },
+  "Zoonotic_strict": {
+    "Majority-Class": {
+      "AUROC": null,
+      "AUPRC": null,
+      "MCC": 0.0,
+      "F1_macro": 0.3954,
+      "Brier": 0.3459,
+      "Threshold": 0.5,
+      "Holdout_Flaviviridae": {
+        "AUROC": null,
+        "AUPRC": null,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": null,
+        "AUPRC": null,
+        "n_holdout": 61
+      }
+    },
+    "GC-Content + Length": {
+      "AUROC": 0.6672,
+      "AUPRC": 0.552,
+      "MCC": 0.3721,
+      "F1_macro": 0.686,
+      "Brier": 0.2298,
+      "Threshold": 0.5115,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.4,
+        "AUPRC": 0.9431,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.6934,
+        "AUPRC": 0.6843,
+        "n_holdout": 61
+      }
+    },
+    "k-mer Composition (k=4)": {
+      "AUROC": 0.8584,
+      "AUPRC": 0.7513,
+      "MCC": 0.547,
+      "F1_macro": 0.7622,
+      "Brier": 0.154,
+      "Threshold": 0.1963,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.6714,
+        "AUPRC": 0.9766,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.6545,
+        "AUPRC": 0.6494,
+        "n_holdout": 61
+      }
+    },
+    "Codon Usage": {
+      "AUROC": 0.8487,
+      "AUPRC": 0.7186,
+      "MCC": 0.5165,
+      "F1_macro": 0.7494,
+      "Brier": 0.155,
+      "Threshold": 0.2548,
+      "Holdout_Flaviviridae": {
+        "AUROC": 0.2571,
+        "AUPRC": 0.9056,
+        "n_holdout": 37
+      },
+      "Holdout_Adenoviridae": {
+        "AUROC": 0.7059,
+        "AUPRC": 0.7035,
+        "n_holdout": 61
+      }
+    }
+  }
+}

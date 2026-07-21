@@ -1,0 +1,20 @@
+{
+  "human_to_human": {
+    "AUROC": 0.8657,
+    "AUPRC": 0.9303,
+    "MCC": 0.5417,
+    "F1_macro": 0.7611,
+    "F1_weighted": 0.7861,
+    "Brier": 0.174,
+    "Threshold": 0.9778
+  },
+  "zoonotic": {
+    "AUROC": 0.822,
+    "AUPRC": 0.6729,
+    "MCC": 0.529,
+    "F1_macro": 0.7607,
+    "F1_weighted": 0.7785,
+    "Brier": 0.2123,
+    "Threshold": 0.0067
+  }
+}

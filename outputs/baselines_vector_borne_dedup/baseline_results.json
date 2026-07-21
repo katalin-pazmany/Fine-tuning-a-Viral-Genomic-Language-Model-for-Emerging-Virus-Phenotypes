@@ -1,0 +1,50 @@
+{
+  "Majority-Class": {
+    "AUROC": null,
+    "AUPRC": null,
+    "MCC": 0.0,
+    "F1_macro": 0.476,
+    "Brier": 0.0915,
+    "Threshold": 0.5,
+    "Holdout_TickOnly": null
+  },
+  "GC-Content + Length": {
+    "AUROC": 0.6937,
+    "AUPRC": 0.1975,
+    "MCC": 0.2273,
+    "F1_macro": 0.5791,
+    "Brier": 0.2231,
+    "Threshold": 0.6004,
+    "Holdout_TickOnly": {
+      "AUROC": 0.5747,
+      "AUPRC": 0.1707,
+      "n_holdout": 448
+    }
+  },
+  "k-mer Composition (k=4)": {
+    "AUROC": 0.8313,
+    "AUPRC": 0.4104,
+    "MCC": 0.3601,
+    "F1_macro": 0.6303,
+    "Brier": 0.0719,
+    "Threshold": 0.0115,
+    "Holdout_TickOnly": {
+      "AUROC": 0.5905,
+      "AUPRC": 0.1011,
+      "n_holdout": 448
+    }
+  },
+  "Codon Usage": {
+    "AUROC": 0.8101,
+    "AUPRC": 0.3803,
+    "MCC": 0.3508,
+    "F1_macro": 0.6396,
+    "Brier": 0.071,
+    "Threshold": 0.03,
+    "Holdout_TickOnly": {
+      "AUROC": 0.596,
+      "AUPRC": 0.1343,
+      "n_holdout": 448
+    }
+  }
+}

@@ -1,0 +1,4 @@
+host_types,n_viruses,n_positive,n_errors,n_negative,error_rate,mixed_group
+"mosquito,tick",29,14,13,15,0.448,True
+tick,574,28,194,546,0.338,True
+mosquito,715,70,201,645,0.281,True

@@ -1,0 +1,168 @@
+{
+  "human_to_human": {
+    "Random (Baseline)": {
+      "AUROC": 0.475,
+      "AUPRC": 0.6792,
+      "MCC": -0.0506,
+      "F1_macro": 0.4746,
+      "F1_weighted": 0.5531,
+      "Brier": 0.4438,
+      "Threshold": 0.5
+    },
+    "Logistic Regression": {
+      "AUROC": 0.8123,
+      "AUPRC": 0.8971,
+      "MCC": 0.4764,
+      "F1_macro": 0.7275,
+      "F1_weighted": 0.755,
+      "Brier": 0.1964,
+      "Threshold": 0.813
+    },
+    "Random Forest": {
+      "AUROC": 0.8588,
+      "AUPRC": 0.9302,
+      "MCC": 0.5444,
+      "F1_macro": 0.7485,
+      "F1_weighted": 0.7686,
+      "Brier": 0.1529,
+      "Threshold": 0.64
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.8638,
+      "AUPRC": 0.9309,
+      "MCC": 0.5614,
+      "F1_macro": 0.7703,
+      "F1_weighted": 0.794,
+      "Brier": 0.1433,
+      "Threshold": 0.8281
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.8705,
+      "AUPRC": 0.9325,
+      "MCC": 0.5667,
+      "F1_macro": 0.7684,
+      "F1_weighted": 0.7902,
+      "Brier": 0.1323,
+      "Threshold": 0.75
+    }
+  },
+  "zoonotic": {
+    "Random (Baseline)": {
+      "AUROC": 0.4753,
+      "AUPRC": 0.3551,
+      "MCC": -0.05,
+      "F1_macro": 0.4748,
+      "F1_weighted": 0.5155,
+      "Brier": 0.4816,
+      "Threshold": 0.5
+    },
+    "Logistic Regression": {
+      "AUROC": 0.7696,
+      "AUPRC": 0.6194,
+      "MCC": 0.4097,
+      "F1_macro": 0.7019,
+      "F1_weighted": 0.7184,
+      "Brier": 0.2342,
+      "Threshold": 0.3668
+    },
+    "Random Forest": {
+      "AUROC": 0.8305,
+      "AUPRC": 0.7502,
+      "MCC": 0.5104,
+      "F1_macro": 0.7543,
+      "F1_weighted": 0.7699,
+      "Brier": 0.1708,
+      "Threshold": 0.475
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.8295,
+      "AUPRC": 0.7315,
+      "MCC": 0.5049,
+      "F1_macro": 0.7504,
+      "F1_weighted": 0.7652,
+      "Brier": 0.1639,
+      "Threshold": 0.3443
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.8457,
+      "AUPRC": 0.7603,
+      "MCC": 0.5326,
+      "F1_macro": 0.7612,
+      "F1_weighted": 0.7734,
+      "Brier": 0.1513,
+      "Threshold": 0.338
+    }
+  },
+  "holdout_h2h": {
+    "Logistic Regression": {
+      "AUROC": 0.9409,
+      "AUPRC": 0.7287
+    },
+    "Random Forest": {
+      "AUROC": 0.9704,
+      "AUPRC": 0.8
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.9247,
+      "AUPRC": 0.7045
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.9839,
+      "AUPRC": 0.9444
+    }
+  },
+  "holdout_zoonotic": {
+    "Logistic Regression": {
+      "AUROC": 0.1,
+      "AUPRC": 0.8905
+    },
+    "Random Forest": {
+      "AUROC": 0.3929,
+      "AUPRC": 0.9502
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.7,
+      "AUPRC": 0.9796
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.3,
+      "AUPRC": 0.9393
+    }
+  },
+  "holdout_h2h_adenoviridae": {
+    "Logistic Regression": {
+      "AUROC": 0.6339,
+      "AUPRC": 0.755
+    },
+    "Random Forest": {
+      "AUROC": 0.7483,
+      "AUPRC": 0.8102
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.786,
+      "AUPRC": 0.8673
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.8215,
+      "AUPRC": 0.9066
+    }
+  },
+  "holdout_zoonotic_adenoviridae": {
+    "Logistic Regression": {
+      "AUROC": 0.5641,
+      "AUPRC": 0.4641
+    },
+    "Random Forest": {
+      "AUROC": 0.6207,
+      "AUPRC": 0.5256
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.6396,
+      "AUPRC": 0.5125
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.6865,
+      "AUPRC": 0.5879
+    }
+  }
+}

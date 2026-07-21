@@ -1,0 +1,563 @@
+{
+  "human_to_human": {
+    "n": 1086,
+    "n_seen": 471,
+    "n_unseen": 615,
+    "Vir2vec / Logistic Regression": {
+      "cv_all": {
+        "AUROC": 0.8117,
+        "AUPRC": 0.8959,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.8217,
+        "AUPRC": 0.9459,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.7913,
+        "AUPRC": 0.8341,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6371,
+        "AUPRC": 0.7533,
+        "n": 615,
+        "pos": 374
+      }
+    },
+    "Vir2vec / Random Forest": {
+      "cv_all": {
+        "AUROC": 0.8497,
+        "AUPRC": 0.9265,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.8197,
+        "AUPRC": 0.9456,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.8498,
+        "AUPRC": 0.9057,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6121,
+        "AUPRC": 0.7324,
+        "n": 615,
+        "pos": 374
+      }
+    },
+    "Vir2vec / Gradient Boosting": {
+      "cv_all": {
+        "AUROC": 0.8553,
+        "AUPRC": 0.9287,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.8369,
+        "AUPRC": 0.9513,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.8512,
+        "AUPRC": 0.9,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.5967,
+        "AUPRC": 0.6957,
+        "n": 615,
+        "pos": 374
+      }
+    },
+    "Vir2vec / SVM (RBF)": {
+      "cv_all": {
+        "AUROC": 0.8772,
+        "AUPRC": 0.9401,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.8638,
+        "AUPRC": 0.9589,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.8732,
+        "AUPRC": 0.9175,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.5717,
+        "AUPRC": 0.7365,
+        "n": 615,
+        "pos": 374
+      }
+    },
+    "GC+Length": {
+      "cv_all": {
+        "AUROC": 0.623,
+        "AUPRC": 0.7614,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.6254,
+        "AUPRC": 0.8313,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.6504,
+        "AUPRC": 0.7186,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6564,
+        "AUPRC": 0.7173,
+        "n": 615,
+        "pos": 374
+      }
+    },
+    "k-mer(k=4)": {
+      "cv_all": {
+        "AUROC": 0.9166,
+        "AUPRC": 0.9601,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.911,
+        "AUPRC": 0.9741,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.9202,
+        "AUPRC": 0.9477,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7665,
+        "AUPRC": 0.803,
+        "n": 615,
+        "pos": 374
+      }
+    },
+    "Codon-usage": {
+      "cv_all": {
+        "AUROC": 0.9117,
+        "AUPRC": 0.9598,
+        "n": 1086,
+        "pos": 749
+      },
+      "cv_seen": {
+        "AUROC": 0.8881,
+        "AUPRC": 0.9683,
+        "n": 471,
+        "pos": 375
+      },
+      "cv_unseen": {
+        "AUROC": 0.9258,
+        "AUPRC": 0.9544,
+        "n": 615,
+        "pos": 374
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.8093,
+        "AUPRC": 0.8835,
+        "n": 615,
+        "pos": 374
+      }
+    }
+  },
+  "zoonotic_relaxed": {
+    "n": 1086,
+    "n_seen": 471,
+    "n_unseen": 615,
+    "Vir2vec / Logistic Regression": {
+      "cv_all": {
+        "AUROC": 0.7776,
+        "AUPRC": 0.6302,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.7973,
+        "AUPRC": 0.6832,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.7662,
+        "AUPRC": 0.5948,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6494,
+        "AUPRC": 0.4684,
+        "n": 615,
+        "pos": 220
+      }
+    },
+    "Vir2vec / Random Forest": {
+      "cv_all": {
+        "AUROC": 0.8215,
+        "AUPRC": 0.7448,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.8111,
+        "AUPRC": 0.7442,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.8373,
+        "AUPRC": 0.7507,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6562,
+        "AUPRC": 0.4962,
+        "n": 615,
+        "pos": 220
+      }
+    },
+    "Vir2vec / Gradient Boosting": {
+      "cv_all": {
+        "AUROC": 0.8266,
+        "AUPRC": 0.7263,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.8134,
+        "AUPRC": 0.7287,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.8445,
+        "AUPRC": 0.7295,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6239,
+        "AUPRC": 0.4634,
+        "n": 615,
+        "pos": 220
+      }
+    },
+    "Vir2vec / SVM (RBF)": {
+      "cv_all": {
+        "AUROC": 0.8436,
+        "AUPRC": 0.756,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.8324,
+        "AUPRC": 0.7791,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.8592,
+        "AUPRC": 0.7506,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6516,
+        "AUPRC": 0.5043,
+        "n": 615,
+        "pos": 220
+      }
+    },
+    "GC+Length": {
+      "cv_all": {
+        "AUROC": 0.6593,
+        "AUPRC": 0.5524,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.5982,
+        "AUPRC": 0.4962,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.716,
+        "AUPRC": 0.6296,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7178,
+        "AUPRC": 0.6317,
+        "n": 615,
+        "pos": 220
+      }
+    },
+    "k-mer(k=4)": {
+      "cv_all": {
+        "AUROC": 0.8485,
+        "AUPRC": 0.7506,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.8385,
+        "AUPRC": 0.7944,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.8535,
+        "AUPRC": 0.7249,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6939,
+        "AUPRC": 0.5916,
+        "n": 615,
+        "pos": 220
+      }
+    },
+    "Codon-usage": {
+      "cv_all": {
+        "AUROC": 0.8397,
+        "AUPRC": 0.7115,
+        "n": 1086,
+        "pos": 397
+      },
+      "cv_seen": {
+        "AUROC": 0.8197,
+        "AUPRC": 0.7543,
+        "n": 471,
+        "pos": 177
+      },
+      "cv_unseen": {
+        "AUROC": 0.8518,
+        "AUPRC": 0.689,
+        "n": 615,
+        "pos": 220
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6599,
+        "AUPRC": 0.5195,
+        "n": 615,
+        "pos": 220
+      }
+    }
+  },
+  "zoonotic_strict": {
+    "n": 1086,
+    "n_seen": 471,
+    "n_unseen": 615,
+    "Vir2vec / Logistic Regression": {
+      "cv_all": {
+        "AUROC": 0.8012,
+        "AUPRC": 0.6517,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.8126,
+        "AUPRC": 0.7197,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.7949,
+        "AUPRC": 0.596,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7051,
+        "AUPRC": 0.4931,
+        "n": 615,
+        "pos": 202
+      }
+    },
+    "Vir2vec / Random Forest": {
+      "cv_all": {
+        "AUROC": 0.8308,
+        "AUPRC": 0.7318,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.8179,
+        "AUPRC": 0.7523,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.8468,
+        "AUPRC": 0.7139,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7111,
+        "AUPRC": 0.5274,
+        "n": 615,
+        "pos": 202
+      }
+    },
+    "Vir2vec / Gradient Boosting": {
+      "cv_all": {
+        "AUROC": 0.8379,
+        "AUPRC": 0.7101,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.8265,
+        "AUPRC": 0.7298,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.8499,
+        "AUPRC": 0.6993,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.6067,
+        "AUPRC": 0.4229,
+        "n": 615,
+        "pos": 202
+      }
+    },
+    "Vir2vec / SVM (RBF)": {
+      "cv_all": {
+        "AUROC": 0.8554,
+        "AUPRC": 0.7552,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.8396,
+        "AUPRC": 0.7864,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.8742,
+        "AUPRC": 0.7421,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7014,
+        "AUPRC": 0.5198,
+        "n": 615,
+        "pos": 202
+      }
+    },
+    "GC+Length": {
+      "cv_all": {
+        "AUROC": 0.6673,
+        "AUPRC": 0.5541,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.6016,
+        "AUPRC": 0.5043,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.7271,
+        "AUPRC": 0.6376,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7215,
+        "AUPRC": 0.6246,
+        "n": 615,
+        "pos": 202
+      }
+    },
+    "k-mer(k=4)": {
+      "cv_all": {
+        "AUROC": 0.8698,
+        "AUPRC": 0.76,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.8502,
+        "AUPRC": 0.8108,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.8812,
+        "AUPRC": 0.728,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7177,
+        "AUPRC": 0.5718,
+        "n": 615,
+        "pos": 202
+      }
+    },
+    "Codon-usage": {
+      "cv_all": {
+        "AUROC": 0.8564,
+        "AUPRC": 0.7188,
+        "n": 1086,
+        "pos": 376
+      },
+      "cv_seen": {
+        "AUROC": 0.8212,
+        "AUPRC": 0.7411,
+        "n": 471,
+        "pos": 174
+      },
+      "cv_unseen": {
+        "AUROC": 0.8797,
+        "AUPRC": 0.7106,
+        "n": 615,
+        "pos": 202
+      },
+      "train_seen_test_unseen": {
+        "AUROC": 0.7,
+        "AUPRC": 0.5216,
+        "n": 615,
+        "pos": 202
+      }
+    }
+  }
+}

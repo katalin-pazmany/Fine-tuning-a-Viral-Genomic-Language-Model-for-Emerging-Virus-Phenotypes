@@ -1,0 +1,290 @@
+[
+  {
+    "family": "Adenoviridae",
+    "n": 106,
+    "h2h_true": 0.745,
+    "zoo_true": 0.302,
+    "h2h_pred": 0.672,
+    "zoo_pred": 0.376
+  },
+  {
+    "family": "Anelloviridae",
+    "n": 69,
+    "h2h_true": 0.797,
+    "zoo_true": 0.203,
+    "h2h_pred": 0.833,
+    "zoo_pred": 0.19
+  },
+  {
+    "family": "Arenaviridae",
+    "n": 14,
+    "h2h_true": 0.286,
+    "zoo_true": 0.857,
+    "h2h_pred": 0.21,
+    "zoo_pred": 0.757
+  },
+  {
+    "family": "Astroviridae",
+    "n": 29,
+    "h2h_true": 0.586,
+    "zoo_true": 0.241,
+    "h2h_pred": 0.587,
+    "zoo_pred": 0.285
+  },
+  {
+    "family": "Bornaviridae",
+    "n": 3,
+    "h2h_true": 0.0,
+    "zoo_true": 0.667,
+    "h2h_pred": 0.242,
+    "zoo_pred": 0.606
+  },
+  {
+    "family": "Caliciviridae",
+    "n": 113,
+    "h2h_true": 0.991,
+    "zoo_true": 0.088,
+    "h2h_pred": 0.903,
+    "zoo_pred": 0.159
+  },
+  {
+    "family": "Circoviridae",
+    "n": 27,
+    "h2h_true": 0.852,
+    "zoo_true": 0.111,
+    "h2h_pred": 0.733,
+    "zoo_pred": 0.202
+  },
+  {
+    "family": "Coronaviridae",
+    "n": 40,
+    "h2h_true": 0.3,
+    "zoo_true": 0.325,
+    "h2h_pred": 0.378,
+    "zoo_pred": 0.354
+  },
+  {
+    "family": "Dicistroviridae",
+    "n": 3,
+    "h2h_true": 0.0,
+    "zoo_true": 0.0,
+    "h2h_pred": 0.196,
+    "zoo_pred": 0.145
+  },
+  {
+    "family": "Filoviridae",
+    "n": 7,
+    "h2h_true": 0.571,
+    "zoo_true": 1.0,
+    "h2h_pred": 0.368,
+    "zoo_pred": 0.812
+  },
+  {
+    "family": "Flaviviridae",
+    "n": 39,
+    "h2h_true": 0.179,
+    "zoo_true": 0.949,
+    "h2h_pred": 0.299,
+    "zoo_pred": 0.801
+  },
+  {
+    "family": "Genomoviridae",
+    "n": 16,
+    "h2h_true": 0.375,
+    "zoo_true": 0.062,
+    "h2h_pred": 0.242,
+    "zoo_pred": 0.483
+  },
+  {
+    "family": "Hantaviridae",
+    "n": 12,
+    "h2h_true": 0.167,
+    "zoo_true": 0.917,
+    "h2h_pred": 0.167,
+    "zoo_pred": 0.785
+  },
+  {
+    "family": "Hepaciviridae",
+    "n": 13,
+    "h2h_true": 0.846,
+    "zoo_true": 0.385,
+    "h2h_pred": 0.815,
+    "zoo_pred": 0.416
+  },
+  {
+    "family": "Hepadnaviridae",
+    "n": 12,
+    "h2h_true": 1.0,
+    "zoo_true": 0.25,
+    "h2h_pred": 0.955,
+    "zoo_pred": 0.536
+  },
+  {
+    "family": "Hepeviridae",
+    "n": 6,
+    "h2h_true": 0.333,
+    "zoo_true": 1.0,
+    "h2h_pred": 0.497,
+    "zoo_pred": 0.595
+  },
+  {
+    "family": "Matonaviridae",
+    "n": 3,
+    "h2h_true": 1.0,
+    "zoo_true": 0.0,
+    "h2h_pred": 0.705,
+    "zoo_pred": 0.347
+  },
+  {
+    "family": "Nairoviridae",
+    "n": 7,
+    "h2h_true": 0.143,
+    "zoo_true": 0.857,
+    "h2h_pred": 0.157,
+    "zoo_pred": 0.769
+  },
+  {
+    "family": "Orthoherpesviridae",
+    "n": 14,
+    "h2h_true": 0.643,
+    "zoo_true": 0.929,
+    "h2h_pred": 0.429,
+    "zoo_pred": 0.736
+  },
+  {
+    "family": "Orthomyxoviridae",
+    "n": 23,
+    "h2h_true": 0.348,
+    "zoo_true": 0.957,
+    "h2h_pred": 0.31,
+    "zoo_pred": 0.817
+  },
+  {
+    "family": "Papillomaviridae",
+    "n": 219,
+    "h2h_true": 1.0,
+    "zoo_true": 0.023,
+    "h2h_pred": 0.922,
+    "zoo_pred": 0.108
+  },
+  {
+    "family": "Paramyxoviridae",
+    "n": 38,
+    "h2h_true": 0.684,
+    "zoo_true": 0.5,
+    "h2h_pred": 0.631,
+    "zoo_pred": 0.552
+  },
+  {
+    "family": "Parvoviridae",
+    "n": 28,
+    "h2h_true": 0.893,
+    "zoo_true": 0.429,
+    "h2h_pred": 0.648,
+    "zoo_pred": 0.472
+  },
+  {
+    "family": "Peribunyaviridae",
+    "n": 44,
+    "h2h_true": 0.0,
+    "zoo_true": 0.727,
+    "h2h_pred": 0.301,
+    "zoo_pred": 0.585
+  },
+  {
+    "family": "Phenuiviridae",
+    "n": 23,
+    "h2h_true": 0.043,
+    "zoo_true": 0.435,
+    "h2h_pred": 0.156,
+    "zoo_pred": 0.651
+  },
+  {
+    "family": "Picornaviridae",
+    "n": 280,
+    "h2h_true": 0.929,
+    "zoo_true": 0.175,
+    "h2h_pred": 0.908,
+    "zoo_pred": 0.186
+  },
+  {
+    "family": "Pneumoviridae",
+    "n": 6,
+    "h2h_true": 0.833,
+    "zoo_true": 0.667,
+    "h2h_pred": 0.818,
+    "zoo_pred": 0.517
+  },
+  {
+    "family": "Polyomaviridae",
+    "n": 22,
+    "h2h_true": 0.818,
+    "zoo_true": 0.227,
+    "h2h_pred": 0.731,
+    "zoo_pred": 0.279
+  },
+  {
+    "family": "Poxviridae",
+    "n": 20,
+    "h2h_true": 0.25,
+    "zoo_true": 0.85,
+    "h2h_pred": 0.383,
+    "zoo_pred": 0.626
+  },
+  {
+    "family": "Redondoviridae",
+    "n": 18,
+    "h2h_true": 1.0,
+    "zoo_true": 0.0,
+    "h2h_pred": 0.963,
+    "zoo_pred": 0.061
+  },
+  {
+    "family": "Retroviridae",
+    "n": 28,
+    "h2h_true": 0.429,
+    "zoo_true": 0.643,
+    "h2h_pred": 0.439,
+    "zoo_pred": 0.628
+  },
+  {
+    "family": "Rhabdoviridae",
+    "n": 18,
+    "h2h_true": 0.0,
+    "zoo_true": 0.889,
+    "h2h_pred": 0.16,
+    "zoo_pred": 0.739
+  },
+  {
+    "family": "Sedoreoviridae",
+    "n": 18,
+    "h2h_true": 0.222,
+    "zoo_true": 1.0,
+    "h2h_pred": 0.5,
+    "zoo_pred": 0.505
+  },
+  {
+    "family": "Smacoviridae",
+    "n": 10,
+    "h2h_true": 1.0,
+    "zoo_true": 0.0,
+    "h2h_pred": 0.579,
+    "zoo_pred": 0.223
+  },
+  {
+    "family": "Spinareoviridae",
+    "n": 7,
+    "h2h_true": 0.143,
+    "zoo_true": 1.0,
+    "h2h_pred": 0.283,
+    "zoo_pred": 0.608
+  },
+  {
+    "family": "Togaviridae",
+    "n": 30,
+    "h2h_true": 0.067,
+    "zoo_true": 0.8,
+    "h2h_pred": 0.262,
+    "zoo_pred": 0.689
+  }
+]

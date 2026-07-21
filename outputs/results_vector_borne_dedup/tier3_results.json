@@ -1,0 +1,11 @@
+{
+  "vector_borne": {
+    "AUROC": 0.7353,
+    "AUPRC": 0.2332,
+    "MCC": 0.2535,
+    "F1_macro": 0.5902,
+    "F1_weighted": 0.8096,
+    "Brier": 0.1004,
+    "Threshold": 0.0013
+  }
+}

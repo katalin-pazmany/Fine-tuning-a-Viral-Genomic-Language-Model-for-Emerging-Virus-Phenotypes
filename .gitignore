@@ -1,0 +1,57 @@
+# ---------------------------------------------------------------------
+# Large model weights.
+# Vir2vec is a public model: https://huggingface.co/pabloarozarenad/Vir2vec
+# (804 MB safetensors — far over GitHub's 100 MB per-file limit, and
+# re-downloadable in one line. See README.)
+# ---------------------------------------------------------------------
+models/
+
+# ---------------------------------------------------------------------
+# Raw / bulk sequence data — re-downloadable from NCBI via the scripts here.
+# ---------------------------------------------------------------------
+data/raw_matched/
+data/raw/
+data/data/
+data/processed/
+data/splits/
+data/all_sequences.fasta
+data/all_sequences_full.fasta
+data/culicoides_new_sequences/
+data/zover_new_sequences/
+
+# ---------------------------------------------------------------------
+# Large regenerable derived artefacts (rebuilt by the pipeline).
+# ---------------------------------------------------------------------
+outputs/refseq_embeddings.npz
+outputs/sanity_check_embeddings.npz
+outputs/_vir2vec_corpus/
+# CD-HIT representative FASTAs and raw cluster files (the small .clstr and
+# *_dedup_taxids.csv tables ARE kept — they are the useful records).
+outputs/dedup/*.fasta
+outputs/dedup/h2h_zoo
+outputs/dedup/vector_borne
+
+# ---------------------------------------------------------------------
+# Dissertation write-up — kept out of the shared repo for now.
+# ---------------------------------------------------------------------
+dissertation_docs/
+
+# ---------------------------------------------------------------------
+# Node / build artefacts
+# ---------------------------------------------------------------------
+network-viz/node_modules/
+network-viz/dist/
+network-viz/.vite/
+
+# ---------------------------------------------------------------------
+# Local tooling, caches, OS cruft
+# ---------------------------------------------------------------------
+.claude/
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+*.bak

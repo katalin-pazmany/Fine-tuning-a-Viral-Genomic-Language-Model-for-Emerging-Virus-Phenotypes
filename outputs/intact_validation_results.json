@@ -1,0 +1,10 @@
+{
+  "n_top": 137,
+  "n_bottom": 137,
+  "top_pct_with_interaction": 0.0292,
+  "bottom_pct_with_interaction": 0.0219,
+  "top_mean_count": 0.0949,
+  "bottom_mean_count": 0.3869,
+  "mannwhitney_u": 9453.0,
+  "p_value": 0.352211
+}

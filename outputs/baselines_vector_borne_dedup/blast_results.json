@@ -1,0 +1,15 @@
+{
+  "vector_borne": {
+    "AUROC": 0.7059,
+    "AUPRC": 0.285,
+    "MCC": 0.4366,
+    "F1_macro": 0.7177,
+    "n_no_hit": 485,
+    "Holdout_TickOnly": {
+      "AUROC": 0.5574,
+      "AUPRC": 0.0843,
+      "n_holdout": 448,
+      "n_no_hit": 397
+    }
+  }
+}

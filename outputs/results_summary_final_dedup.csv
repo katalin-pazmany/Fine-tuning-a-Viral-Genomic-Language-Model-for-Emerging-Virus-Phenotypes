@@ -1,0 +1,29 @@
+Phenotype,Labels,Tier,Model,Best in Tier,AUROC,AUPRC,MCC,F1_macro,Brier
+Human-to-Human,-,Tier 1 (frozen + shallow),SVM (RBF),Yes,0.8765,0.9363,0.5797,0.7781,0.1302
+Human-to-Human,-,Tier 1 (frozen + shallow),Gradient Boosting,,0.8496,0.9212,0.5173,0.739,0.1504
+Human-to-Human,-,Tier 1 (frozen + shallow),Random Forest,,0.8619,0.9315,0.5492,0.759,0.1523
+Human-to-Human,-,Tier 1 (frozen + shallow),Logistic Regression,,0.8175,0.8994,0.496,0.7351,0.1911
+Human-to-Human,-,Tier 1 (frozen + shallow),Random (Baseline),,0.475,0.6792,-0.0506,0.4746,0.4438
+Human-to-Human,-,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),Yes,0.7713,0.8866,0.3745,0.639,0.2063
+Human-to-Human,-,Tier 3 (LoRA),LoRA (r=8),Yes,0.8653,0.9277,0.5639,0.7781,0.1822
+Zoonotic,relaxed,Tier 1 (frozen + shallow),SVM (RBF),Yes,0.8455,0.7577,0.5279,0.7606,0.1514
+Zoonotic,relaxed,Tier 1 (frozen + shallow),Gradient Boosting,,0.8199,0.72,0.4936,0.7465,0.1686
+Zoonotic,relaxed,Tier 1 (frozen + shallow),Random Forest,,0.8264,0.743,0.4817,0.7278,0.1713
+Zoonotic,relaxed,Tier 1 (frozen + shallow),Logistic Regression,,0.7768,0.6317,0.4192,0.6929,0.2284
+Zoonotic,relaxed,Tier 1 (frozen + shallow),Random (Baseline),,0.4753,0.3551,-0.05,0.4748,0.4816
+Zoonotic,relaxed,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),Yes,0.7206,0.5922,0.3492,0.6735,0.2193
+Zoonotic,relaxed,Tier 3 (LoRA),LoRA (r=8),Yes,0.8011,0.6831,0.4514,0.7109,0.237
+Zoonotic,strict,Tier 1 (frozen + shallow),SVM (RBF),Yes,0.8575,0.7543,0.5333,0.7548,0.1438
+Zoonotic,strict,Tier 1 (frozen + shallow),Gradient Boosting,,0.8255,0.6951,0.5277,0.7589,0.1651
+Zoonotic,strict,Tier 1 (frozen + shallow),Random Forest,,0.8355,0.7327,0.485,0.735,0.1666
+Zoonotic,strict,Tier 1 (frozen + shallow),Logistic Regression,,0.7915,0.6249,0.4447,0.7073,0.2236
+Zoonotic,strict,Tier 1 (frozen + shallow),Random (Baseline),,0.4867,0.3405,-0.027,0.4862,0.4576
+Zoonotic,strict,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),Yes,0.7364,0.5902,0.3501,0.6623,0.1952
+Zoonotic,strict,Tier 3 (LoRA),LoRA (r=8),Yes,0.822,0.6729,0.529,0.7607,0.2123
+Vector-Borne,-,Tier 1 (frozen + shallow),SVM (RBF),Yes,0.8039,0.3241,0.2744,0.5641,0.0695
+Vector-Borne,-,Tier 1 (frozen + shallow),Gradient Boosting,,0.7998,0.3429,0.2858,0.5851,0.0747
+Vector-Borne,-,Tier 1 (frozen + shallow),Random Forest,,0.7817,0.3733,0.3007,0.6181,0.0757
+Vector-Borne,-,Tier 1 (frozen + shallow),Logistic Regression,,0.6843,0.1767,0.1808,0.4991,0.1702
+Vector-Borne,-,Tier 1 (frozen + shallow),Random (Baseline),,0.5,0.0875,-0.0,0.4994,0.1447
+Vector-Borne,-,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),Yes,0.5828,0.1396,0.1262,0.4775,0.091
+Vector-Borne,-,Tier 3 (LoRA),LoRA (r=8),Yes,0.7353,0.2332,0.2535,0.5902,0.1004

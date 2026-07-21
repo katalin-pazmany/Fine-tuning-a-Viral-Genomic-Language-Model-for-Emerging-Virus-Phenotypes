@@ -1,0 +1,10 @@
+{
+  "zoonotic": {
+    "AUROC": 0.7438,
+    "AUPRC": 0.7759,
+    "MCC": 0.4087,
+    "F1_macro": 0.7043,
+    "F1_weighted": 0.7146,
+    "Brier": 0.2243
+  }
+}

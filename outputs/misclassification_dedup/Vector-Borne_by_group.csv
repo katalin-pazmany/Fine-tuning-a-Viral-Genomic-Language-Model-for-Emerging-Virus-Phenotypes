@@ -1,0 +1,7 @@
+host_types,n_viruses,n_positive,n_errors,n_negative,error_rate,mixed_group
+"biting_midge,mosquito,tick",8,3,3,5,0.375,True
+tick,445,27,159,418,0.357,True
+"biting_midge,mosquito",15,3,5,12,0.333,True
+"mosquito,tick",16,9,5,7,0.312,True
+biting_midge,75,2,22,73,0.293,True
+mosquito,595,57,141,538,0.237,True

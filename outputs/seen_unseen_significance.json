@@ -1,0 +1,185 @@
+{
+  "human_to_human": {
+    "n_unseen": 615,
+    "pos_unseen": 374,
+    "vir2vec_model": "Logistic Regression",
+    "methods": {
+      "Vir2vec (Logistic Regression)": {
+        "AUROC": 0.6371,
+        "CI95": [
+          0.5945,
+          0.6786
+        ]
+      },
+      "k-mer(k=4)": {
+        "AUROC": 0.7665,
+        "CI95": [
+          0.7256,
+          0.8034
+        ]
+      },
+      "Codon-usage": {
+        "AUROC": 0.8093,
+        "CI95": [
+          0.7742,
+          0.8397
+        ]
+      },
+      "GC+Length": {
+        "AUROC": 0.6564,
+        "CI95": [
+          0.6091,
+          0.7022
+        ]
+      }
+    },
+    "vs_vir2vec": {
+      "k-mer(k=4)": {
+        "delta_AUROC": 0.1274,
+        "CI95": [
+          0.0779,
+          0.1762
+        ],
+        "p_value": 0.0
+      },
+      "Codon-usage": {
+        "delta_AUROC": 0.1703,
+        "CI95": [
+          0.1196,
+          0.2195
+        ],
+        "p_value": 0.0
+      },
+      "GC+Length": {
+        "delta_AUROC": 0.0185,
+        "CI95": [
+          -0.0397,
+          0.0743
+        ],
+        "p_value": 0.509
+      }
+    }
+  },
+  "zoonotic_relaxed": {
+    "n_unseen": 615,
+    "pos_unseen": 220,
+    "vir2vec_model": "Random Forest",
+    "methods": {
+      "Vir2vec (Random Forest)": {
+        "AUROC": 0.6562,
+        "CI95": [
+          0.6118,
+          0.6995
+        ]
+      },
+      "k-mer(k=4)": {
+        "AUROC": 0.6939,
+        "CI95": [
+          0.6474,
+          0.7355
+        ]
+      },
+      "Codon-usage": {
+        "AUROC": 0.6599,
+        "CI95": [
+          0.6113,
+          0.7043
+        ]
+      },
+      "GC+Length": {
+        "AUROC": 0.7178,
+        "CI95": [
+          0.6702,
+          0.7617
+        ]
+      }
+    },
+    "vs_vir2vec": {
+      "k-mer(k=4)": {
+        "delta_AUROC": 0.037,
+        "CI95": [
+          -0.0238,
+          0.0965
+        ],
+        "p_value": 0.218
+      },
+      "Codon-usage": {
+        "delta_AUROC": 0.0026,
+        "CI95": [
+          -0.0595,
+          0.0637
+        ],
+        "p_value": 0.936
+      },
+      "GC+Length": {
+        "delta_AUROC": 0.0619,
+        "CI95": [
+          0.0067,
+          0.118
+        ],
+        "p_value": 0.029
+      }
+    }
+  },
+  "zoonotic_strict": {
+    "n_unseen": 615,
+    "pos_unseen": 202,
+    "vir2vec_model": "Random Forest",
+    "methods": {
+      "Vir2vec (Random Forest)": {
+        "AUROC": 0.7111,
+        "CI95": [
+          0.6678,
+          0.7516
+        ]
+      },
+      "k-mer(k=4)": {
+        "AUROC": 0.7177,
+        "CI95": [
+          0.6725,
+          0.7581
+        ]
+      },
+      "Codon-usage": {
+        "AUROC": 0.7,
+        "CI95": [
+          0.653,
+          0.7423
+        ]
+      },
+      "GC+Length": {
+        "AUROC": 0.7215,
+        "CI95": [
+          0.6738,
+          0.7695
+        ]
+      }
+    },
+    "vs_vir2vec": {
+      "k-mer(k=4)": {
+        "delta_AUROC": 0.0066,
+        "CI95": [
+          -0.0518,
+          0.0637
+        ],
+        "p_value": 0.802
+      },
+      "Codon-usage": {
+        "delta_AUROC": -0.0115,
+        "CI95": [
+          -0.0708,
+          0.0458
+        ],
+        "p_value": 0.716
+      },
+      "GC+Length": {
+        "delta_AUROC": 0.0104,
+        "CI95": [
+          -0.0466,
+          0.065
+        ],
+        "p_value": 0.703
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "vector_borne": {
+    "Random (Baseline)": {
+      "AUROC": 0.5082,
+      "AUPRC": 0.0934,
+      "MCC": 0.0179,
+      "F1_macro": 0.5085,
+      "F1_weighted": 0.8425,
+      "Brier": 0.1511,
+      "Threshold": 0.5
+    },
+    "Logistic Regression": {
+      "AUROC": 0.7234,
+      "AUPRC": 0.2015,
+      "MCC": 0.2104,
+      "F1_macro": 0.4959,
+      "F1_weighted": 0.6851,
+      "Brier": 0.1726,
+      "Threshold": 0.0161
+    },
+    "Random Forest": {
+      "AUROC": 0.8024,
+      "AUPRC": 0.393,
+      "MCC": 0.314,
+      "F1_macro": 0.6256,
+      "F1_weighted": 0.8347,
+      "Brier": 0.0767,
+      "Threshold": 0.205
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.8181,
+      "AUPRC": 0.4054,
+      "MCC": 0.3166,
+      "F1_macro": 0.601,
+      "F1_weighted": 0.8012,
+      "Brier": 0.0744,
+      "Threshold": 0.0055
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.8287,
+      "AUPRC": 0.3467,
+      "MCC": 0.3339,
+      "F1_macro": 0.6068,
+      "F1_weighted": 0.8029,
+      "Brier": 0.0714,
+      "Threshold": 0.0831
+    }
+  },
+  "holdout_tick_only": {
+    "Logistic Regression": {
+      "AUROC": 0.5294,
+      "AUPRC": 0.0839
+    },
+    "Random Forest": {
+      "AUROC": 0.7134,
+      "AUPRC": 0.1346
+    },
+    "Gradient Boosting": {
+      "AUROC": 0.716,
+      "AUPRC": 0.2595
+    },
+    "SVM (RBF)": {
+      "AUROC": 0.6295,
+      "AUPRC": 0.0919
+    }
+  }
+}

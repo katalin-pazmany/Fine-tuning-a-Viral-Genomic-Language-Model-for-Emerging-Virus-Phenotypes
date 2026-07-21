@@ -1,0 +1,13 @@
+Phenotype,Labels,Tier,Model,AUROC,AUPRC,MCC,F1_macro,Brier
+Human-to-Human,-,Tier 1 (frozen + shallow),SVM (RBF),0.8824,0.944,0.5705,0.7843,0.1205
+Human-to-Human,-,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),0.759,0.8837,0.3309,0.6648,0.2138
+Human-to-Human,-,Tier 3 (LoRA),LoRA (r=8),0.8719,0.9352,0.5816,0.7907,0.1568
+Zoonotic,relaxed,Tier 1 (frozen + shallow),SVM (RBF),0.8318,0.7153,0.5156,0.7562,0.1488
+Zoonotic,relaxed,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),0.7449,0.6028,0.2929,0.6456,0.2119
+Zoonotic,relaxed,Tier 3 (LoRA),LoRA (r=8),0.8148,0.6895,0.4421,0.7178,0.216
+Zoonotic,strict,Tier 1 (frozen + shallow),SVM (RBF),0.8479,0.7097,0.521,0.7587,0.1408
+Zoonotic,strict,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),0.705,0.5497,0.3408,0.6703,0.191
+Zoonotic,strict,Tier 3 (LoRA),LoRA (r=8),0.8327,0.6891,0.4809,0.7404,0.1996
+Vector-Borne,-,Tier 1 (frozen + shallow),Gradient Boosting,0.8642,0.4663,0.4209,0.6791,0.0653
+Vector-Borne,-,Tier 2 (partial unfreeze),Full unfreeze (layers 6-7),0.603,0.1437,0.1657,0.5616,0.0835
+Vector-Borne,-,Tier 3 (LoRA),LoRA (r=8),0.6588,0.176,0.2191,0.5982,0.0908
