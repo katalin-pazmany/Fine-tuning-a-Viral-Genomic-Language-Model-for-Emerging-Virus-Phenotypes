@@ -1,0 +1,278 @@
+{
+  "birds": {
+    "n": 469,
+    "positive": 75,
+    "vir2vec_model": "SVM (RBF)",
+    "methods": {
+      "Vir2vec (SVM (RBF))": {
+        "AUROC": 0.787,
+        "AUPRC": 0.3508,
+        "CI95": [
+          0.7283,
+          0.8399
+        ]
+      },
+      "k-mer(k=4)": {
+        "AUROC": 0.7485,
+        "AUPRC": 0.3303,
+        "CI95": [
+          0.6797,
+          0.8089
+        ]
+      },
+      "Codon-usage": {
+        "AUROC": 0.7315,
+        "AUPRC": 0.3154,
+        "CI95": [
+          0.6644,
+          0.7946
+        ]
+      },
+      "GC+Length": {
+        "AUROC": 0.7204,
+        "AUPRC": 0.2764,
+        "CI95": [
+          0.6544,
+          0.7794
+        ]
+      }
+    },
+    "vs_baselines": {
+      "k-mer(k=4)": {
+        "delta_AUROC": 0.0379,
+        "CI95": [
+          -0.028,
+          0.1048
+        ],
+        "p_value": 0.251
+      },
+      "Codon-usage": {
+        "delta_AUROC": 0.0552,
+        "CI95": [
+          -0.0109,
+          0.1238
+        ],
+        "p_value": 0.104
+      },
+      "GC+Length": {
+        "delta_AUROC": 0.0665,
+        "CI95": [
+          0.0037,
+          0.1245
+        ],
+        "p_value": 0.041
+      }
+    },
+    "cv_by_exposure": {
+      "seen": {
+        "n": 98,
+        "positive": 23,
+        "Vir2vec (SVM (RBF))": 0.7275,
+        "k-mer(k=4)": 0.6603,
+        "Codon-usage": 0.6933,
+        "GC+Length": 0.687
+      },
+      "unseen": {
+        "n": 320,
+        "positive": 33,
+        "Vir2vec (SVM (RBF))": 0.8031,
+        "k-mer(k=4)": 0.8068,
+        "Codon-usage": 0.7153,
+        "GC+Length": 0.727
+      }
+    },
+    "train_seen_test_unseen": {
+      "n_train": 98,
+      "n_test": 320,
+      "train_positive": 23,
+      "Vir2vec (SVM (RBF))": 0.6376,
+      "k-mer(k=4)": 0.7463,
+      "Codon-usage": 0.7638,
+      "GC+Length": 0.721
+    }
+  },
+  "bats": {
+    "n": 469,
+    "positive": 93,
+    "vir2vec_model": "SVM (RBF)",
+    "methods": {
+      "Vir2vec (SVM (RBF))": {
+        "AUROC": 0.7674,
+        "AUPRC": 0.4358,
+        "CI95": [
+          0.7123,
+          0.8176
+        ]
+      },
+      "k-mer(k=4)": {
+        "AUROC": 0.7101,
+        "AUPRC": 0.3501,
+        "CI95": [
+          0.6537,
+          0.7653
+        ]
+      },
+      "Codon-usage": {
+        "AUROC": 0.6775,
+        "AUPRC": 0.3252,
+        "CI95": [
+          0.6191,
+          0.7326
+        ]
+      },
+      "GC+Length": {
+        "AUROC": 0.5912,
+        "AUPRC": 0.2235,
+        "CI95": [
+          0.5307,
+          0.6518
+        ]
+      }
+    },
+    "vs_baselines": {
+      "k-mer(k=4)": {
+        "delta_AUROC": 0.0574,
+        "CI95": [
+          -0.0049,
+          0.1173
+        ],
+        "p_value": 0.07
+      },
+      "Codon-usage": {
+        "delta_AUROC": 0.09,
+        "CI95": [
+          0.0175,
+          0.161
+        ],
+        "p_value": 0.011
+      },
+      "GC+Length": {
+        "delta_AUROC": 0.1767,
+        "CI95": [
+          0.1062,
+          0.2455
+        ],
+        "p_value": 0.0
+      }
+    },
+    "cv_by_exposure": {
+      "seen": {
+        "n": 98,
+        "positive": 44,
+        "Vir2vec (SVM (RBF))": 0.7563,
+        "k-mer(k=4)": 0.734,
+        "Codon-usage": 0.6397,
+        "GC+Length": 0.5471
+      },
+      "unseen": {
+        "n": 320,
+        "positive": 37,
+        "Vir2vec (SVM (RBF))": 0.7357,
+        "k-mer(k=4)": 0.7346,
+        "Codon-usage": 0.7374,
+        "GC+Length": 0.607
+      }
+    },
+    "train_seen_test_unseen": {
+      "n_train": 98,
+      "n_test": 320,
+      "train_positive": 44,
+      "Vir2vec (SVM (RBF))": 0.5955,
+      "k-mer(k=4)": 0.7194,
+      "Codon-usage": 0.7108,
+      "GC+Length": 0.3905
+    }
+  },
+  "rodents": {
+    "n": 469,
+    "positive": 146,
+    "vir2vec_model": "Random Forest",
+    "methods": {
+      "Vir2vec (Random Forest)": {
+        "AUROC": 0.7315,
+        "AUPRC": 0.5152,
+        "CI95": [
+          0.6832,
+          0.7807
+        ]
+      },
+      "k-mer(k=4)": {
+        "AUROC": 0.7089,
+        "AUPRC": 0.4846,
+        "CI95": [
+          0.6589,
+          0.7549
+        ]
+      },
+      "Codon-usage": {
+        "AUROC": 0.7177,
+        "AUPRC": 0.4653,
+        "CI95": [
+          0.6723,
+          0.7621
+        ]
+      },
+      "GC+Length": {
+        "AUROC": 0.5499,
+        "AUPRC": 0.3317,
+        "CI95": [
+          0.4924,
+          0.6055
+        ]
+      }
+    },
+    "vs_baselines": {
+      "k-mer(k=4)": {
+        "delta_AUROC": 0.0235,
+        "CI95": [
+          -0.0256,
+          0.0728
+        ],
+        "p_value": 0.369
+      },
+      "Codon-usage": {
+        "delta_AUROC": 0.0144,
+        "CI95": [
+          -0.0366,
+          0.0646
+        ],
+        "p_value": 0.591
+      },
+      "GC+Length": {
+        "delta_AUROC": 0.1819,
+        "CI95": [
+          0.1173,
+          0.245
+        ],
+        "p_value": 0.0
+      }
+    },
+    "cv_by_exposure": {
+      "seen": {
+        "n": 98,
+        "positive": 46,
+        "Vir2vec (Random Forest)": 0.624,
+        "k-mer(k=4)": 0.638,
+        "Codon-usage": 0.6948,
+        "GC+Length": 0.4941
+      },
+      "unseen": {
+        "n": 320,
+        "positive": 81,
+        "Vir2vec (Random Forest)": 0.7764,
+        "k-mer(k=4)": 0.7357,
+        "Codon-usage": 0.7503,
+        "GC+Length": 0.5183
+      }
+    },
+    "train_seen_test_unseen": {
+      "n_train": 98,
+      "n_test": 320,
+      "train_positive": 46,
+      "Vir2vec (Random Forest)": 0.6517,
+      "k-mer(k=4)": 0.6599,
+      "Codon-usage": 0.6866,
+      "GC+Length": 0.4093
+    }
+  }
+}

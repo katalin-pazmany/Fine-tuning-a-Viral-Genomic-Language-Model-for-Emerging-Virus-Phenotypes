@@ -1,0 +1,98 @@
+{
+  "birds": {
+    "n": 469,
+    "positive": 75,
+    "Vir2vec / Logistic Regression": {
+      "AUROC": 0.7138,
+      "AUPRC": 0.3053
+    },
+    "Vir2vec / Random Forest": {
+      "AUROC": 0.7858,
+      "AUPRC": 0.3736
+    },
+    "Vir2vec / Gradient Boosting": {
+      "AUROC": 0.7214,
+      "AUPRC": 0.3499
+    },
+    "Vir2vec / SVM (RBF)": {
+      "AUROC": 0.787,
+      "AUPRC": 0.3508
+    },
+    "GC+Length": {
+      "AUROC": 0.7204,
+      "AUPRC": 0.2764
+    },
+    "k-mer(k=4)": {
+      "AUROC": 0.7485,
+      "AUPRC": 0.3303
+    },
+    "Codon-usage": {
+      "AUROC": 0.7315,
+      "AUPRC": 0.3154
+    }
+  },
+  "bats": {
+    "n": 469,
+    "positive": 93,
+    "Vir2vec / Logistic Regression": {
+      "AUROC": 0.716,
+      "AUPRC": 0.385
+    },
+    "Vir2vec / Random Forest": {
+      "AUROC": 0.7423,
+      "AUPRC": 0.4256
+    },
+    "Vir2vec / Gradient Boosting": {
+      "AUROC": 0.6783,
+      "AUPRC": 0.3529
+    },
+    "Vir2vec / SVM (RBF)": {
+      "AUROC": 0.7674,
+      "AUPRC": 0.4358
+    },
+    "GC+Length": {
+      "AUROC": 0.5912,
+      "AUPRC": 0.2235
+    },
+    "k-mer(k=4)": {
+      "AUROC": 0.7101,
+      "AUPRC": 0.3501
+    },
+    "Codon-usage": {
+      "AUROC": 0.6775,
+      "AUPRC": 0.3252
+    }
+  },
+  "rodents": {
+    "n": 469,
+    "positive": 146,
+    "Vir2vec / Logistic Regression": {
+      "AUROC": 0.6616,
+      "AUPRC": 0.4669
+    },
+    "Vir2vec / Random Forest": {
+      "AUROC": 0.7315,
+      "AUPRC": 0.5152
+    },
+    "Vir2vec / Gradient Boosting": {
+      "AUROC": 0.695,
+      "AUPRC": 0.4822
+    },
+    "Vir2vec / SVM (RBF)": {
+      "AUROC": 0.7266,
+      "AUPRC": 0.5298
+    },
+    "GC+Length": {
+      "AUROC": 0.5499,
+      "AUPRC": 0.3317
+    },
+    "k-mer(k=4)": {
+      "AUROC": 0.7089,
+      "AUPRC": 0.4846
+    },
+    "Codon-usage": {
+      "AUROC": 0.7177,
+      "AUPRC": 0.4653
+    }
+  }
+}

@@ -1,0 +1,1155 @@
+virus_taxid,virus_name,virus_family,virus_genus,vector_groups,vector_borne_to_humans,model_predicted,correctly_classified
+1002273,Avian gyrovirus 2,Anelloviridae,Gyrovirus,tick,1,1,True
+1034791,Mosquito VEM Anellovirus SDBVL B,Anelloviridae,,mosquito,0,1,False
+1034792,Mosquito VEM Anellovirus SDRB A,Anelloviridae,Wawtorquevirus,mosquito,0,1,False
+1034793,Mosquito VEM Anellovirus SDRB B,Anelloviridae,,mosquito,0,1,False
+1610820,Nayun tick torquevirus,Anelloviridae,Thetatorquevirus,tick,0,0,True
+2025480,Tick associated torque teno virus,Anelloviridae,Petorquevirus,tick,0,1,False
+2951473,Tick-associated anellovirus 1,Anelloviridae,,tick,0,1,False
+2951474,Tick-associated anellovirus 10,Anelloviridae,,tick,0,0,True
+2951475,Tick-associated anellovirus 2,Anelloviridae,,tick,0,0,True
+2951476,Tick-associated anellovirus 3,Anelloviridae,,tick,0,0,True
+2951477,Tick-associated anellovirus 4,Anelloviridae,,tick,0,0,True
+2951478,Tick-associated anellovirus 5,Anelloviridae,,tick,0,0,True
+2951479,Tick-associated anellovirus 6,Anelloviridae,,tick,0,1,False
+2951480,Tick-associated anellovirus 7,Anelloviridae,,tick,0,1,False
+2951481,Tick-associated anellovirus 8,Anelloviridae,,tick,0,1,False
+2951482,Tick-associated anellovirus 9,Anelloviridae,,tick,0,1,False
+687386,Torque teno sus virus 1a,Anelloviridae,Iotatorquevirus,mosquito,0,1,False
+68887,Torque teno virus,Anelloviridae,,mosquito,1,0,False
+2847851,mosquito VEM Anellovirus SDBVL,Anelloviridae,Aleptorquevirus,mosquito,0,1,False
+1034771,uncultured Anellovirus,Anelloviridae,,mosquito,0,1,False
+3052303,Mammarenavirus choriomeningitidis,Arenaviridae,Mammarenavirus,tick,1,1,True
+3052328,Mammarenavirus tacaribeense,Arenaviridae,Mammarenavirus,tick,1,1,True
+3052329,Mammarenavirus tamiamiense,Arenaviridae,Mammarenavirus,tick,1,1,True
+2810711,Hedgehog arterivirus,Arteriviridae,,tick,0,0,True
+28344,Porcine reproductive and respiratory syndrome virus,Arteriviridae,Betaarterivirus,mosquito,0,1,False
+10497,African swine fever virus,Asfarviridae,Asfivirus,tick,0,1,False
+2304505,Culex Bastrovirus-like virus,Astroviridae,,mosquito,0,0,True
+2902639,Pyongtaek Culex bastrovirus,Astroviridae,,mosquito,0,0,True
+2740136,Solanum melongena bastro-like virus,Astroviridae,,tick,0,0,True
+3081665,Cambodia Culex birnavirus,Birnaviridae,,mosquito,0,1,False
+1230254,Culex Y virus,Birnaviridae,,mosquito,0,0,True
+3401101,Hebei birna-like virus 1,Birnaviridae,,tick,0,0,True
+2994983,Harg calici-like virus,Caliciviridae,,tick,0,0,True
+11976,Rabbit hemorrhagic disease virus,Caliciviridae,Lagovirus,tick,0,1,False
+2079604,Blacklegged tick chuvirus 2,Chuviridae,Nigecruvirus,tick,0,0,True
+3377596,Carajas chuvirus,Chuviridae,Chuvivirus,biting_midge,0,0,True
+2809007,Chuviridae sp.,Chuviridae,,biting_midge,0,0,True
+2304484,Culex mosquito virus 4,Chuviridae,Culicidavirus,mosquito,0,0,True
+2304485,Culex mosquito virus 5,Chuviridae,Culicidavirus,mosquito,0,1,False
+1608138,Wuhan tick virus 2,Chuviridae,Mivirus,tick,0,0,True
+1844928,Avian-like circovirus,Circoviridae,Circovirus,tick,0,0,True
+2486204,Bat associated circovirus,Circoviridae,Circovirus,mosquito,0,0,True
+2661633,Bororo circovirus,Circoviridae,Cyclovirus,mosquito,0,0,True
+3108755,Circovirus sp. gt3aAU,Circoviridae,Circovirus,tick,0,1,False
+2304514,Culex circovirus-like virus,Circoviridae,Circovirus,mosquito,0,1,False
+3416578,Culex pipiens circovirus,Circoviridae,Circovirus,mosquito,0,0,True
+2217875,Humpback whale blow-associated circo-like virus 2,Circoviridae,,tick,0,0,True
+1692255,Marine snail associated circular virus,Circoviridae,,tick,0,0,True
+2733038,Mojica circovirus,Circoviridae,,mosquito,0,0,True
+1414603,Pigeon circovirus,Circoviridae,Circovirus,tick,0,1,False
+85708,Porcine circovirus 2,Circoviridae,Circovirus,mosquito,1,1,True
+1868221,Porcine circovirus 3,Circoviridae,Circovirus,"mosquito,tick",0,1,False
+2863959,Sichuan mosquito circovirus 1,Circoviridae,Circovirus,mosquito,0,1,False
+2863960,Sichuan mosquito circovirus 2,Circoviridae,Circovirus,mosquito,0,0,True
+2951468,Sichuan tick-associated circovirus 1,Circoviridae,Circovirus,tick,0,0,True
+2951469,Sichuan tick-associated circovirus 2,Circoviridae,Circovirus,tick,0,0,True
+2951470,Sichuan tick-associated circovirus 3,Circoviridae,Circovirus,tick,0,0,True
+2951471,Sichuan tick-associated circovirus 4,Circoviridae,Circovirus,tick,0,1,False
+2951472,Sichuan tick-associated circovirus 5,Circoviridae,Circovirus,tick,0,0,True
+2914978,Tick associated circo-like virus,Circoviridae,,tick,0,0,True
+1983779,Tick circovirus,Circoviridae,Circovirus,tick,0,1,False
+2951483,Tick-associated circular virus-1,Circoviridae,,tick,0,1,False
+2951484,Tick-associated circular virus-2,Circoviridae,,tick,0,0,True
+2951485,Tick-associated circular virus-3,Circoviridae,,tick,0,0,True
+2951486,Tick-associated circular virus-4,Circoviridae,,tick,0,0,True
+2951487,Tick-associated circular virus-5,Circoviridae,,tick,0,0,True
+2951488,Tick-associated circular virus-6,Circoviridae,,tick,0,0,True
+2952039,XiangYun circovirus-like virus,Circoviridae,,mosquito,0,0,True
+3467576,Zaloxo virus 3,Circoviridae,,tick,0,0,True
+742825,uncultured circovirus,Circoviridae,Circovirus,mosquito,0,1,False
+2419667,Bat alphacoronavirus,Coronaviridae,Alphacoronavirus,tick,0,0,True
+1335626,Middle East respiratory syndrome-related coronavirus,Coronaviridae,Betacoronavirus,tick,1,0,False
+694009,Severe acute respiratory syndrome-related coronavirus,Coronaviridae,Betacoronavirus,mosquito,1,1,True
+562957,Tai Forest coronavirus,Coronaviridae,,mosquito,0,0,True
+1611039,Mosquito circovirus,Draupnirviridae,Valentivirus,mosquito,0,0,True
+2789883,Aedes aegypti To flavivirus-like,Flaviviridae,,mosquito,0,0,True
+390845,Aedes flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1046551,Aedes galloisi flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2877428,Aedes notoscriptus flavivirus,Flaviviridae,,mosquito,0,0,True
+3043611,Aguas Brancas virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+172148,Alkhumra hemorrhagic fever virus,Flaviviridae,Orthoflavivirus,tick,1,0,False
+2269360,Alongshan virus,Flaviviridae,,"mosquito,tick",1,1,True
+2053814,Anopheles flavivirus,Flaviviridae,,mosquito,0,0,True
+1890418,Anopheles hyrcanus flavivirus,Flaviviridae,,mosquito,0,0,True
+2861005,Aripo virus,Flaviviridae,,mosquito,0,1,False
+2689355,Atrato Flavi-like virus 1,Flaviviridae,,mosquito,0,0,True
+2859665,Atrato Flavi-like virus 2,Flaviviridae,,mosquito,0,1,False
+2859666,Atrato Flavi-like virus 3,Flaviviridae,,mosquito,0,1,False
+64290,Bagaza virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+1534467,Bainyik virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+3126522,Baishan forest tick virus,Flaviviridae,,tick,0,1,False
+1805494,Bamaga virus,Flaviviridae,,mosquito,0,0,True
+38837,Banzi virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+478577,Barkedji virus,Flaviviridae,,mosquito,0,0,True
+2606251,Barkedji-like virus,Flaviviridae,,mosquito,0,1,False
+2305258,Binjari virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+64295,Bouboui virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+301964,CY1014 virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+64305,Cacipacore virus,Flaviviridae,Orthoflavivirus,tick,1,1,True
+537023,Calbertado virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+31658,Cell fusing agent virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2663721,Chacorore flavivirus,Flaviviridae,,mosquito,0,0,True
+631267,Chaoyang virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+3064049,Cheeloo Jingmen-like virus,Flaviviridae,,tick,0,1,False
+2895586,Cimo flavivirus I,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895587,Cimo flavivirus II,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895588,Cimo flavivirus III,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895589,Cimo flavivirus IV,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895591,Cimo flavivirus V,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895592,Cimo flavivirus VI,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895594,Cimo flavivirus VIII,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2895596,Cimo flavivirus XI,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1890684,Cuacua virus,Flaviviridae,,mosquito,0,0,True
+2304510,Culex Flavi-like virus,Flaviviridae,,mosquito,0,1,False
+390844,Culex flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1048536,Culex theileri flavivirus RP-2011,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+2686042,Culex tritaeniorhynchus flavi-like virus,Flaviviridae,,mosquito,0,0,True
+3403577,Culex tritaeniorhynchus jingmenvirus 1,Flaviviridae,,mosquito,0,0,True
+1821222,Culiseta flavivirus,Flaviviridae,,mosquito,0,1,False
+1969398,Dairy Swamp virus,Flaviviridae,,mosquito,0,0,True
+985683,Donggang virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+1399582,Duck Tembusu virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+64296,Edge Hill virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+3403579,Far North Queensland jingmenvirus 1,Flaviviridae,,mosquito,0,0,True
+1653304,Fitzroy River virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+1955163,Flaviviridae sp.,Flaviviridae,,"biting_midge,mosquito,tick",0,1,False
+1562507,Flavivirus 1493VN,Flaviviridae,,mosquito,0,0,True
+1041933,Flavivirus AV-2011/Spain,Flaviviridae,,mosquito,0,0,True
+941340,Flavivirus Anopheles/PV-Am/ITA/2009,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+64307,Gadgets Gully virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+2602438,Guapiacu virus,Flaviviridae,,mosquito,0,1,False
+3154165,Guerrero tick flavivirus 1,Flaviviridae,,tick,0,1,False
+2980574,Hameenlinna flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1125677,Hanko virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1969399,Haslams Creek virus,Flaviviridae,,mosquito,0,0,True
+3401104,Hebei orthoflavivirus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+2712734,Hidden Valley virus,Flaviviridae,,mosquito,0,0,True
+64308,Iguape virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+1445557,Ilomantsi virus,Flaviviridae,,mosquito,0,0,True
+2980582,Inari jingmenvirus,Flaviviridae,,mosquito,0,0,True
+11072,Japanese encephalitis virus,Flaviviridae,Orthoflavivirus,"biting_midge,mosquito,tick",1,1,True
+2851137,Jaracatia flavivirus,Flaviviridae,,mosquito,0,0,True
+1172985,Jingmen tick virus,Flaviviridae,Jingmenvirus,"mosquito,tick",1,1,True
+2982807,Jingmenvirus sp.,Flaviviridae,Jingmenvirus,"mosquito,tick",0,1,False
+64310,Kadam virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+1456752,Kama virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+218849,Kamiti River virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2045186,Kampung Karu virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+64287,Karshi virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+1969397,Karumba virus,Flaviviridae,,mosquito,0,0,True
+64311,Kedougou virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+2970553,Kilpisjarvi flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+44024,Kokobera virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11077,Kunjin virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+649187,Lammi virus,Flaviviridae,,mosquito,0,1,False
+11085,Langat virus,Flaviviridae,Orthoflavivirus,tick,1,0,False
+2980586,Lestijarvi flavi-like virus,Flaviviridae,,mosquito,0,0,True
+2045185,Long Pine Key virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+11086,Louping ill virus,Flaviviridae,Orthoflavivirus,tick,1,1,True
+3467602,Lunay virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+1969400,Mac Peak virus,Flaviviridae,,mosquito,0,0,True
+2751816,Mansonia flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1105173,Marisma mosquito virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+35279,Meaban virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+3132239,Medvezhye Haematopota Flavi-like virus,Flaviviridae,,mosquito,0,0,True
+1963247,Menghai flavivirus,Flaviviridae,,mosquito,0,0,True
+1708574,Mercadeo virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+673515,Mosquito flavivirus,Flaviviridae,Orthoflavivirus,"biting_midge,mosquito",0,0,True
+2775126,Mpulungu flavivirus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+11079,Murray Valley encephalitis virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+667516,Nakiwogo virus,Flaviviridae,,mosquito,0,1,False
+1254420,Nanay virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+499854,New Mapoon virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+374448,Ngoye virus,Flaviviridae,Orthoflavivirus,tick,0,0,True
+1485186,Nhumirim virus,Flaviviridae,,mosquito,0,1,False
+1286143,Nienokoue virus,Flaviviridae,,mosquito,0,1,False
+64292,Ntaya virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+1244565,Ochlerotatus caspius flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2751815,Ochlerotatus scapularis flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+12542,Omsk hemorrhagic fever virus,Flaviviridae,Orthoflavivirus,"mosquito,tick",1,1,True
+3052465,Orthoflavivirus encephalitidis,Flaviviridae,Orthoflavivirus,tick,0,1,False
+3052466,Orthoflavivirus ilheusense,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+3045052,Orthoflavivirus sp.,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1302179,Palm Creek virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+1928710,Panmunjeom flavivirus,Flaviviridae,,mosquito,0,0,True
+1708654,Parramatta River virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2650668,Phlebotomus-associated flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+11083,Powassan virus,Flaviviridae,Orthoflavivirus,"mosquito,tick",1,1,True
+3345038,Psorophora ferox flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2751814,Psorophora flavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+643132,Quang Binh virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+64288,Royal Farm virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+3345039,Sabethes albiprivus iflavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+2491660,Sabethes flavivirus,Flaviviridae,,mosquito,0,0,True
+40012,Saumarez Reef virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+3467566,Serra pelada orthoflavivirus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+3058444,Sichuan tick virus,Flaviviridae,Jingmenvirus,tick,0,1,False
+64318,Spondweni virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11080,St. Louis encephalitis virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+44027,Stratford virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+577122,T'Ho virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+2895618,Tafomo virus,Flaviviridae,,mosquito,0,1,False
+2829081,Takachi virus,Flaviviridae,,tick,0,1,False
+64293,Tembusu virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11084,Tick-borne encephalitis virus,Flaviviridae,Orthoflavivirus,"mosquito,tick",1,1,True
+1534468,Torres virus,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+47300,Turkish sheep encephalitis virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+40004,Tyuleniy virus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+64297,Uganda S virus,Flaviviridae,Orthoflavivirus,mosquito,0,0,True
+64286,Usutu virus,Flaviviridae,Orthoflavivirus,"mosquito,tick",1,1,True
+164416,Wesselsbron virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11082,West Nile virus,Flaviviridae,Orthoflavivirus,"mosquito,tick",1,1,True
+2421440,West Nile virus 2,Flaviviridae,Orthoflavivirus,mosquito,0,1,False
+2952040,XiangYun flavivirus,Flaviviridae,,mosquito,0,1,False
+3043598,Xinyang flavivirus,Flaviviridae,Orthoflavivirus,tick,0,1,False
+1821227,Xishuangbanna aedes flavivirus,Flaviviridae,,mosquito,0,1,False
+2817036,Yamadai flavivirus,Flaviviridae,,mosquito,0,0,True
+2259111,Yamaguchi virus,Flaviviridae,,tick,0,0,True
+11089,Yellow fever virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+2972099,Zhangjiakou Flavi tick virus 1,Flaviviridae,,tick,0,1,False
+64320,Zika virus,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11053,dengue virus type 1,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11060,dengue virus type 2,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11069,dengue virus type 3,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+11070,dengue virus type 4,Flaviviridae,Orthoflavivirus,mosquito,1,1,True
+2848310,tick-borne encephalitis virus-European subtype,Flaviviridae,Orthoflavivirus,tick,0,1,False
+1985374,Cassava associated gemycircularvirus 1,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2940812,Flumine genomovirus 3,Genomoviridae,,mosquito,0,0,True
+1983771,Gemycircularvirus sp.,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2202565,Genomoviridae sp.,Genomoviridae,,mosquito,0,0,True
+2016461,Giant panda associated gemycircularvirus,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2911995,Molossus molossus associated gemykibivirus 5,Genomoviridae,Gemykibivirus,mosquito,0,0,True
+1034805,Mosquito VEM virus SDBVL G,Genomoviridae,Gemycircularvirus,mosquito,0,0,True
+2951489,Tick-associated gemycircularvirus 1,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2951490,Tick-associated gemycircularvirus 2,Genomoviridae,Gemycircularvirus,tick,0,1,False
+2951491,Tick-associated gemycircularvirus 3,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2951492,Tick-associated gemycircularvirus 4,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2951493,Tick-associated gemycircularvirus 5,Genomoviridae,Gemycircularvirus,tick,0,0,True
+2025477,Tick-associated genomovirus 1,Genomoviridae,Gemycircularvirus,tick,0,1,False
+2025478,Tick-associated genomovirus 2,Genomoviridae,Gemykolovirus,tick,0,1,False
+3052493,Orthohantavirus puumalaense,Hantaviridae,Orthohantavirus,mosquito,1,1,True
+2777462,Bandicoot hepacivirus,Hepaciviridae,Orthohepacivirus,tick,0,1,False
+1633878,Bovine hepacivirus,Hepaciviridae,Orthohepacivirus,tick,0,0,True
+3015527,Culex hepacivirus 1,Hepaciviridae,Orthohepacivirus,mosquito,0,0,True
+2696479,Jogalong virus,Hepaciviridae,Orthohepacivirus,mosquito,0,0,True
+3052226,Orthohepacivirus bovis,Hepaciviridae,Orthohepacivirus,tick,0,1,False
+2498143,Pegivirus sp.,Hepaciviridae,Pegivirus,tick,0,1,False
+10407,Hepatitis B virus,Hepadnaviridae,Orthohepadnavirus,mosquito,1,0,False
+2715178,Hepeviridae sp.,Hepeviridae,,tick,0,1,False
+2055261,Hepevirus sp.,Hepeviridae,,tick,0,0,True
+2951464,Sichuan tick hepe-like virus,Hepeviridae,,tick,0,1,False
+2018471,Armigeres iflavirus,Iflaviridae,Iflavirus,biting_midge,0,0,True
+3377597,Carajas iflavirus,Iflaviridae,Iflavirus,biting_midge,0,1,False
+1916690,Iflavirus sp.,Iflaviridae,Iflavirus,biting_midge,0,0,True
+3467559,Maraba iflavirus,Iflaviridae,Iflavirus,biting_midge,0,0,True
+3038384,Qingdao tick iflavirus,Iflaviridae,Iflavirus,tick,0,0,True
+3077378,Manitoba iridescent virus 1,Iridoviridae,,mosquito,0,0,True
+1697349,Scale drop disease virus,Iridoviridae,Megalocytivirus,mosquito,0,0,True
+34613,Ixodes ricinus,Ixodidae,Ixodes,tick,0,1,False
+1618254,Avon-Heathcote Estuary associated circular virus 3,Kanorauviridae,Shanivirus,tick,0,0,True
+3467558,Maraba alphamesonivirus,Mesoniviridae,Alphamesonivirus,biting_midge,0,0,True
+248058,Abu Hammad virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2849717,Aigai virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+3467837,Asian longhorned tick nairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2304647,Beiji nairovirus,Nairoviridae,Norwavirus,tick,0,1,False
+3078550,Beiji nariovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+1453404,Burana virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2996457,Cencurut virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+3391156,Crimean-Congo hemorrhagic fever virus clade III,Nairoviridae,Orthonairovirus,tick,0,0,True
+2972221,Dali Nairo tick virus 1,Nairoviridae,,tick,0,0,True
+3383105,Desert orthonairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2170057,Estero Real virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+1971396,Grotenhout virus,Nairoviridae,Norwavirus,tick,0,0,True
+2994984,Gubbo nairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+1608047,Huangpi Tick Virus 1,Nairoviridae,Orthonairovirus,tick,0,0,True
+3377089,Hunchun nairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+1453408,Issyk-Kul virus,Nairoviridae,Orthonairovirus,tick,1,1,True
+3248547,Iwanai Valley virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+2983972,Ji'an nairovirus,Nairoviridae,,tick,0,0,True
+1712570,Kasokero virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+498356,Kupe virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2972223,Linzhi Nairo tick virus 1,Nairoviridae,,tick,0,0,True
+2943855,Meihua Mountain virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2737675,Meram virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+194540,Nairobi sheep disease virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+1610817,Nayun tick nairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+3052364,Ocetevirus paratemnopterygis,Nairoviridae,Ocetevirus,mosquito,0,0,True
+2170061,Orthonairovirus artashatense,Nairoviridae,Orthonairovirus,tick,0,0,True
+3052510,Orthonairovirus bushkeyense,Nairoviridae,Orthonairovirus,tick,1,1,True
+3052511,Orthonairovirus chimense,Nairoviridae,Orthonairovirus,tick,0,0,True
+3052512,Orthonairovirus clomorense,Nairoviridae,Orthonairovirus,tick,0,0,True
+3052514,Orthonairovirus dugbeense,Nairoviridae,Orthonairovirus,tick,1,0,False
+3052518,Orthonairovirus haemorrhagiae,Nairoviridae,Orthonairovirus,tick,1,0,False
+3052520,Orthonairovirus huangpiense,Nairoviridae,Orthonairovirus,tick,0,0,True
+3052529,Orthonairovirus nairobiense,Nairoviridae,Orthonairovirus,tick,0,1,False
+3052534,Orthonairovirus sakhalinense,Nairoviridae,Orthonairovirus,tick,0,1,False
+3060506,Orthonairovirus yezoense,Nairoviridae,Orthonairovirus,tick,0,1,False
+1977074,Pacific coast tick nairovirus,Nairoviridae,Orthonairovirus,tick,0,1,False
+1453409,Paramushir virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+3467368,Plateau tick associated orthonairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+3433940,Plateau tick nairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2697641,Rondonia orthonairovirus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2951465,Sichuan tick nairovirus,Nairoviridae,Sitinavirus,tick,0,0,True
+2795181,Songling virus,Nairoviridae,Orthonairovirus,"mosquito,tick",0,1,False
+1526514,South Bay virus,Nairoviridae,Sabavirus,tick,0,0,True
+2811963,Sulina virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+1608083,Tacheng Tick Virus 1,Nairoviridae,Orthonairovirus,tick,0,1,False
+487050,Taggert virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+1453410,Tamdy virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+2972217,Tonghua Nairo tick virus 1,Nairoviridae,,tick,0,0,True
+1608094,Wenzhou Tick Virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+3366332,Wetland virus,Nairoviridae,Orthonairovirus,tick,0,0,True
+2972222,Xining Nairo tick virus 1,Nairoviridae,,tick,0,0,True
+3391820,Xue-Cheng virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+2972218,Yanbian Nairo tick virus 1,Nairoviridae,,tick,0,0,True
+2825847,Yezo virus,Nairoviridae,Orthonairovirus,tick,0,1,False
+2983978,Yichun nairovirus,Nairoviridae,,tick,0,0,True
+3394922,Yunnan nairo-like virus 54,Nairoviridae,,tick,0,0,True
+2972220,Yushu Nairo tick virus 1,Nairoviridae,,tick,0,1,False
+1954248,Circoviridae sp.,Nenyaviridae,Galvornvirus,mosquito,0,0,True
+2744402,Carano virus,Nodaviridae,,biting_midge,0,0,True
+3064052,Cheeloo noda-like virus 2,Nodaviridae,,tick,0,1,False
+3064053,Cheeloo noda-like virus 3,Nodaviridae,,tick,0,0,True
+3239312,Chihuahua culicoides nodavirus 1,Nodaviridae,,biting_midge,0,0,True
+3154161,Chihuahua tick nodavirus 1,Nodaviridae,,tick,0,0,True
+2304509,Culex Daeseongdong-like virus,Nodaviridae,,mosquito,0,0,True
+2304511,Culex Hubei-like virus,Nodaviridae,,mosquito,0,0,True
+2304481,Culex mosquito virus 1,Nodaviridae,,mosquito,0,0,True
+2972252,Luoyang Nodav tick virus 1,Nodaviridae,,tick,0,0,True
+690897,Mosquito nodavirus MNV-1,Nodaviridae,Betanodavirus,mosquito,0,0,True
+1807813,Newington virus,Nodaviridae,Alphanodavirus,mosquito,0,1,False
+1955166,Nodaviridae sp.,Nodaviridae,,"mosquito,tick",0,1,False
+3377602,Ouro verde nodavirus,Nodaviridae,,biting_midge,0,0,True
+2972254,Tianjin Nodav tick virus 1,Nodaviridae,,tick,0,0,True
+3076944,USA noda-like virus,Nodaviridae,,biting_midge,0,0,True
+2972253,Yanbian Nodav tick virus 1,Nodaviridae,,tick,0,0,True
+3154162,Chihuahua tick nyamivirus 1,Nyamiviridae,,tick,0,0,True
+2950736,Ixodes ricinus orinovirus-like virus 1,Nyamiviridae,Formivirus,tick,0,1,False
+644609,Nyavirus midwayense,Nyamiviridae,Nyavirus,tick,0,1,False
+644610,Nyavirus nyamaniniense,Nyamiviridae,Nyavirus,tick,0,0,True
+2776145,Sekira virus,Nyamiviridae,Nyavirus,tick,0,0,True
+1424280,Sierra Nevada virus,Nyamiviridae,Nyavirus,tick,0,1,False
+3701621,Cytomegalovirus papiine,Orthoherpesviridae,Cytomegalovirus,mosquito,0,0,True
+3701623,Simplexvirus macropodidalpha,Orthoherpesviridae,Simplexvirus,mosquito,0,0,True
+2805753,Aedes detritus orthomyxo-like virus,Orthomyxoviridae,,mosquito,0,1,False
+2892532,Aedes orthomyxo-like virus 2,Orthomyxoviridae,,mosquito,0,0,True
+1428582,Aransas Bay virus,Orthomyxoviridae,Thogotovirus,tick,0,0,True
+3015522,Armigeres orthomyxo-like virus 1,Orthomyxoviridae,,mosquito,0,0,True
+3239817,Bafoussam mosquito orthomyxovirus 1,Orthomyxoviridae,,mosquito,0,1,False
+3239818,Bafoussam mosquito orthomyxovirus 2,Orthomyxoviridae,,mosquito,0,0,True
+53017,Batken virus,Orthomyxoviridae,Thogotovirus,tick,0,1,False
+1618189,Bourbon virus,Orthomyxoviridae,Thogotovirus,tick,1,1,True
+2972262,Chuzhou Ortho tick virus 1,Orthomyxoviridae,,tick,0,1,False
+2851136,Coloiado orthomyxo-like virus,Orthomyxoviridae,,mosquito,0,0,True
+2805754,Culex modestus orthomyxo-like virus,Orthomyxoviridae,,mosquito,0,0,True
+2665414,Culex orthomyxo-like virus,Orthomyxoviridae,,mosquito,0,0,True
+3382194,Desert quaranjavirus,Orthomyxoviridae,Quaranjavirus,tick,0,0,True
+2875329,Granville quaranjavirus,Orthomyxoviridae,Quaranjavirus,tick,0,1,False
+2607737,Guadeloupe mosquito quaranja-like virus 1,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+2607738,Guadeloupe mosquito quaranja-like virus 2,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+2607739,Guadeloupe mosquito quaranja-like virus 3,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+3406653,Heilongjiang tick quaranjavirus,Orthomyxoviridae,Quaranjavirus,tick,0,1,False
+1027466,Jos virus,Orthomyxoviridae,Thogotovirus,tick,0,0,True
+2972260,Linzhi Ortho tick virus 1,Orthomyxoviridae,,tick,0,0,True
+2594109,Longchuan virus,Orthomyxoviridae,,mosquito,0,0,True
+2486715,Longchuang virus,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+2739773,Neke harbour virus,Orthomyxoviridae,,tick,0,0,True
+2807198,Ohshima virus,Orthomyxoviridae,,tick,0,0,True
+1955168,Orthomyxoviridae sp.,Orthomyxoviridae,,"biting_midge,mosquito,tick",0,0,True
+2137161,Oz virus,Orthomyxoviridae,Thogotovirus,tick,1,1,True
+2894005,Palmetto orthomyxo-like virus,Orthomyxoviridae,,mosquito,0,1,False
+2902617,Pyongtaek Culex Orthomyxovirus,Orthomyxoviridae,,mosquito,0,0,True
+2972261,Qingyang Ortho tick virus 1,Orthomyxoviridae,,tick,0,1,False
+688437,Quaranjavirus johnstonense,Orthomyxoviridae,Quaranjavirus,tick,0,1,False
+688436,Quaranjavirus quaranfilense,Orthomyxoviridae,Quaranjavirus,tick,0,1,False
+2809795,Quaranjavirus sp.,Orthomyxoviridae,Quaranjavirus,tick,0,0,True
+2697643,Rondonia thogotovirus,Orthomyxoviridae,Thogotovirus,tick,0,0,True
+1927799,Sinu virus,Orthomyxoviridae,Thogotovirus,mosquito,0,0,True
+3396564,Tajima tick virus,Orthomyxoviridae,,tick,0,0,True
+2654565,Thailand tick thogotovirus,Orthomyxoviridae,Thogotovirus,tick,0,1,False
+11318,Thogotovirus dhoriense,Orthomyxoviridae,Thogotovirus,tick,1,1,True
+11569,Thogotovirus thogotoense,Orthomyxoviridae,Thogotovirus,tick,1,1,True
+2992311,Tiliqua thogotovirus,Orthomyxoviridae,Thogotovirus,tick,0,1,False
+2972257,Tongren Ortho tick virus 1,Orthomyxoviridae,,tick,0,0,True
+1204161,Tyulek (Tjuloc) virus,Orthomyxoviridae,Quaranjavirus,tick,0,0,True
+1428581,Upolu virus,Orthomyxoviridae,Thogotovirus,tick,0,1,False
+2739774,Uumaja virus,Orthomyxoviridae,,tick,0,1,False
+1963253,Whidbey virus,Orthomyxoviridae,,mosquito,0,0,True
+1608128,Wuhan Mosquito Virus 3,Orthomyxoviridae,Quaranjavirus,mosquito,0,1,False
+1608129,Wuhan Mosquito Virus 4,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+1608130,Wuhan Mosquito Virus 5,Orthomyxoviridae,Quaranjavirus,mosquito,0,1,False
+1608131,Wuhan Mosquito Virus 6,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+1608132,Wuhan Mosquito Virus 7,Orthomyxoviridae,Quaranjavirus,mosquito,0,0,True
+2952025,XiangYun orthomyxo-like virus 1,Orthomyxoviridae,,mosquito,0,1,False
+2952026,XiangYun orthomyxo-like virus 2,Orthomyxoviridae,,mosquito,0,0,True
+2952027,XiangYun orthomyxo-like virus 3,Orthomyxoviridae,,mosquito,0,0,True
+2952028,XiangYun orthomyxo-like virus 4,Orthomyxoviridae,,mosquito,0,0,True
+2952029,XiangYun orthomyxo-like virus 5,Orthomyxoviridae,,mosquito,0,0,True
+2972264,Xiangxi Ortho tick virus 1,Orthomyxoviridae,,tick,0,0,True
+3433932,Xuecheng tick thogotovirus,Orthomyxoviridae,Thogotovirus,tick,0,1,False
+2972258,Yanbian Ortho tick virus 1,Orthomyxoviridae,,tick,0,0,True
+2972259,Yushu Ortho tick virus 1,Orthomyxoviridae,,tick,0,0,True
+2219899,Zambezi tick virus 1,Orthomyxoviridae,Quaranjavirus,tick,0,1,False
+2972255,Zhangzhou Ortho tick virus 1,Orthomyxoviridae,,tick,0,0,True
+2972263,Zhangzhou Ortho tick virus 2,Orthomyxoviridae,,tick,0,0,True
+3239317,Chihuahua culicoides totivirus 1,Orthototiviridae,Totivirus,biting_midge,0,0,True
+2699153,Yongshan totivirus,Orthototiviridae,,biting_midge,0,0,True
+2583416,Tick-associated papillomavirus lsx,Papillomaviridae,Dyoxipapillomavirus,tick,0,0,True
+1034800,uncultured Papillomavirus,Papillomaviridae,,mosquito,0,0,True
+2593991,peste-des-petits-ruminants virus,Paramyxoviridae,Morbillivirus,biting_midge,0,1,False
+2759331,Chaq-like virus,Partitiviridae,,biting_midge,0,0,True
+3239313,Chihuahua culicoides partitivirus 1,Partitiviridae,,biting_midge,0,0,True
+3239314,Chihuahua culicoides partitivirus 2,Partitiviridae,,biting_midge,0,0,True
+1955170,Partitiviridae sp.,Partitiviridae,,biting_midge,0,0,True
+3076945,USA partiti-like virus,Partitiviridae,,biting_midge,0,0,True
+272636,Adeno-associated virus,Parvoviridae,Dependoparvovirus,tick,1,1,True
+194675,Aedes albopictus C6/36 cell densovirus,Parvoviridae,Brevipenbrevirus,mosquito,0,1,False
+35338,Aedes albopictus densovirus,Parvoviridae,Brevipenbrevirus,mosquito,0,0,True
+1513199,Aedes albopictus densovirus 2,Parvoviridae,Brevipenbrevirus,mosquito,0,1,False
+1914448,Aedes albopictus densovirus 5,Parvoviridae,Brevipenbrevirus,mosquito,0,0,True
+28314,Aleutian mink disease parvovirus,Parvoviridae,Amdoparvovirus,tick,0,0,True
+2050976,Ambidensovirus sp.,Parvoviridae,Protoambidensovirus,mosquito,0,1,False
+2689332,Atrato Denso-like virus,Parvoviridae,,mosquito,0,0,True
+2689333,Atrato Denso-like virus 1,Parvoviridae,,mosquito,0,0,True
+3077360,Bee densovirus 6,Parvoviridae,,mosquito,0,0,True
+1883111,Bocaparvovirus sp.,Parvoviridae,Bocaparvovirus,tick,0,0,True
+3399804,Boketu tick virus 1,Parvoviridae,,tick,0,0,True
+2094261,Bombus cryptarum densovirus,Parvoviridae,,mosquito,0,0,True
+1096141,Bovine hokovirus 2,Parvoviridae,Tetraparvovirus,tick,0,0,True
+10784,Bovine parvovirus,Parvoviridae,Bocaparvovirus,tick,0,1,False
+3070203,Broome densovirus,Parvoviridae,Muscodensovirus,mosquito,0,0,True
+3043486,Buriti densovirus,Parvoviridae,,mosquito,0,0,True
+3118306,Burswood densovirus,Parvoviridae,Scindoambidensovirus,mosquito,0,0,True
+10788,Canine parvovirus,Parvoviridae,Protoparvovirus,tick,0,1,False
+185638,Culex pipiens densovirus,Parvoviridae,Protoambidensovirus,mosquito,0,0,True
+3416579,Culex pipiens densovirus 2,Parvoviridae,,mosquito,0,0,True
+3345198,Culex quinquefasciatus associated densovirus,Parvoviridae,Protoambidensovirus,mosquito,0,0,True
+2030127,Densovirinae sp.,Parvoviridae,Protoambidensovirus,"mosquito,tick",0,0,True
+2713454,Dog feces bidnaparvovirus,Parvoviridae,,tick,0,0,True
+2027355,Lone star tick densovirus 1,Parvoviridae,,tick,0,0,True
+1607696,Mosquito densovirus HB-3,Parvoviridae,Brevipenbrevirus,mosquito,0,1,False
+3701622,Orthopteran miniambidensovirus,Parvoviridae,Miniambidensovirus,mosquito,0,0,True
+2839030,Ovine copiparvovirus,Parvoviridae,Copiparvovirus,tick,0,1,False
+3348409,Ovine parvovirus,Parvoviridae,,tick,0,0,True
+1940570,Parvoviridae sp.,Parvoviridae,,tick,0,1,False
+1126383,Porcine parvovirus 2,Parvoviridae,Tetraparvovirus,mosquito,0,0,True
+1126384,Porcine parvovirus 3,Parvoviridae,Tetraparvovirus,mosquito,0,1,False
+707546,Porcine parvovirus 4,Parvoviridae,Copiparvovirus,tick,0,1,False
+1820046,Porcine parvovirus 7,Parvoviridae,Chaphamavirus,tick,0,1,False
+3042448,Psittaciform parvoviridae sp.,Parvoviridae,,tick,0,0,True
+2555547,Roe deer copiparvovirus,Parvoviridae,Copiparvovirus,tick,0,0,True
+1217821,Sibine fusca densovirus,Parvoviridae,Iteradensovirus,tick,0,1,False
+1864484,bovine bocaparvovirus 2,Parvoviridae,Bocaparvovirus,tick,0,1,False
+172296,bovine parvovirus 2,Parvoviridae,Copiparvovirus,tick,0,1,False
+748192,uncultured densovirus,Parvoviridae,,mosquito,0,1,False
+2303487,Abras virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2036702,Achiote virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+11582,Aino virus,Peribunyaviridae,Orthobunyavirus,"biting_midge,mosquito",0,0,True
+70566,Akabane virus,Peribunyaviridae,Orthobunyavirus,"biting_midge,mosquito",0,1,False
+1552846,Alajuela virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1642852,Anadyr virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+35307,Anopheles A virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35308,Anopheles B virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+3416581,Atherstone virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2609058,Baakal virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2748238,Barranqueras virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+80942,Batai virus,Peribunyaviridae,Orthobunyavirus,"mosquito,tick",0,0,True
+1819302,Belmont virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2748206,Bertioga virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+273358,Birao virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+611708,Boraceia virus,Peribunyaviridae,Orthobunyavirus,mosquito,1,1,True
+2849744,Botambi virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+273349,Bozo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+348014,Bruconha virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+1628184,Bunyaviridae environmental sample,Peribunyaviridae,,mosquito,0,1,False
+2748203,Bushbush virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+159140,Buttonwillow virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+2572766,Caimito virus,Peribunyaviridae,Pacuvirus,biting_midge,0,1,False
+1552845,Calchaqui virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+178787,California encephalitis serogroup virus LEIV,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35305,California encephalitis virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+365047,Calovo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+192196,Caraparu virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+3050965,Caraparu-like virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2895600,Cimo peribunyavirus I,Peribunyaviridae,,mosquito,0,0,True
+2895602,Cimo peribunyavirus III,Peribunyaviridae,,mosquito,0,0,True
+2972293,Dandong tick virus 1,Peribunyaviridae,,tick,0,0,True
+3381433,Desert peribunya-like virus,Peribunyaviridae,,tick,0,0,True
+3416580,Deva virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+159142,Douglas virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+1501396,Ebinur lake virus,Peribunyaviridae,Orthobunyavirus,"mosquito,tick",1,0,False
+1821545,Enseada virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35313,Gamboa virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1764076,Gan Gan virus,Peribunyaviridae,Orthobunyavirus,mosquito,1,0,False
+11574,Germiston virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3438446,Gryffinivirus sp.,Peribunyaviridae,Gryffinivirus,mosquito,0,0,True
+1678234,Guama virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2748208,Guaratuba virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+348010,Gumbo Limbo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2972286,Guyuan tick virus 1,Peribunyaviridae,,tick,0,0,True
+3451421,Haemaphysalis longicornis associated bunya-like virus 1,Peribunyaviridae,,tick,0,1,False
+3451422,Haemaphysalis longicornis associated bunya-like virus 2,Peribunyaviridae,,tick,0,0,True
+3451423,Haemaphysalis longicornis associated bunya-like virus 3,Peribunyaviridae,,tick,0,0,True
+3451424,Haemaphysalis longicornis associated bunya-like virus 4,Peribunyaviridae,,tick,0,0,True
+3451425,Haemaphysalis longicornis associated bunya-like virus 5,Peribunyaviridae,,tick,0,0,True
+3451426,Haemaphysalis longicornis associated bunya-like virus 6,Peribunyaviridae,,tick,0,0,True
+3696584,Haemaphysalis longicornis associated bunya-like virus 7,Peribunyaviridae,,tick,0,0,True
+2972288,Haerbin tick virus 2,Peribunyaviridae,,tick,0,1,False
+2884278,Hedwig virus,Peribunyaviridae,Gryffinivirus,mosquito,0,0,True
+2972291,Heihe tick virus 1,Peribunyaviridae,,tick,0,0,True
+3052241,Herbevirus herberti,Peribunyaviridae,Herbevirus,mosquito,0,0,True
+2036703,Infirmatus virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+45269,Inkoo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+348026,Itaqui virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1752929,Ixodes scapularis bunyavirus,Peribunyaviridae,,tick,0,1,False
+35511,Jamestown Canyon virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+198421,Jamestown Canyon-like virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35513,Jerry Slough virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2972283,Jinan tick virus 1,Peribunyaviridae,,tick,0,0,True
+2748196,Ketapang virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35514,Keystone virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1531283,Khasan virus,Peribunyaviridae,,tick,0,0,True
+507486,Khatanga virus,Peribunyaviridae,Orthobunyavirus,mosquito,1,0,False
+1819306,Kowanyama virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1814226,Kuriyama virus,Peribunyaviridae,,tick,0,0,True
+11577,La Crosse virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2847820,Laguna Larga virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2609059,Lakamha virus,Peribunyaviridae,Lakivirus,mosquito,0,0,True
+2748212,Las Maloyas virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+999729,Leanyer virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,0,True
+2656737,Lednice virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1819303,Little Sussex virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+442712,M'Poko virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+11575,Maguari virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+1763623,Mahogany hammock virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1590835,Mapputta virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35515,Melao virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2748236,Mirim-like virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2748231,Moriche virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2972289,Nanchang tick virus 1,Peribunyaviridae,,tick,0,1,False
+2972285,Nanning tick virus 3,Peribunyaviridae,,tick,0,1,False
+348009,Nepuyo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+273357,Ngari virus,Peribunyaviridae,Orthobunyavirus,tick,1,0,False
+442713,Nola virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+80937,Northway virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+35316,Nyando virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2748254,Okola virus,Peribunyaviridae,Orthobunyavirus,mosquito,1,1,True
+118655,Oropouche virus,Peribunyaviridae,Orthobunyavirus,"biting_midge,mosquito",0,1,False
+1933178,Orthobunyavirus akabaneense,Peribunyaviridae,Orthobunyavirus,"biting_midge,mosquito",0,1,False
+3431265,Orthobunyavirus barritaense,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3052376,Orthobunyavirus botambiense,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3052378,Orthobunyavirus brazoriaense,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3052384,Orthobunyavirus bwambaense,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+3707041,Orthobunyavirus ilhesaense,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+3052405,Orthobunyavirus kernense,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+3052427,Orthobunyavirus olifantsvleiense,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3052440,Orthobunyavirus shuniense,Peribunyaviridae,Orthobunyavirus,"biting_midge,mosquito",1,0,False
+3052441,Orthobunyavirus simbuense,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2219997,Orthobunyavirus sp.,Peribunyaviridae,Orthobunyavirus,"biting_midge,mosquito,tick",0,1,False
+3052444,Orthobunyavirus tacaiumaense,Peribunyaviridae,Orthobunyavirus,mosquito,1,1,True
+3052445,Orthobunyavirus tahynaense,Peribunyaviridae,Orthobunyavirus,mosquito,1,1,True
+3060500,Orthobunyavirus tangaense,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3052456,Orthobunyavirus wyeomyiae,Peribunyaviridae,Orthobunyavirus,mosquito,1,1,True
+181003,Oya virus,Peribunyaviridae,Orthobunyavirus,biting_midge,1,1,True
+2748244,Pacora virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2748237,Pahayokee virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1819304,Parker's Farm virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+35318,Patois virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+159151,Peaton virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,0,True
+543721,Phasi Charoen virus 1,Peribunyaviridae,,mosquito,0,0,True
+3433938,Plateau tick peribunyavirus,Peribunyaviridae,,tick,0,0,True
+2848037,Pongola virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+273360,Potosi virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2036955,Pueblo Viejo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1608059,Qingnian mosquito virus,Peribunyaviridae,,mosquito,0,0,True
+2748240,Resistencia virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+159138,Sabo virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,0,True
+45767,San Angelo virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2748232,San Juan virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+159141,Sathuperi virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+1133363,Schmallenberg virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+45768,Serra do Navio virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+159150,Shamonda virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+2303490,Shark River virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+273359,Shokwe virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+11580,Snowshoe hare virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1619662,Soft tick bunyavirus,Peribunyaviridae,,tick,0,0,True
+45270,Tahyna virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+3048655,Tai orthobunyavirus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2748249,Tanga virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2922982,Taniyama virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+1623310,Tataguine virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2748250,Termeil virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+66264,Tinaroo virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,1,False
+273343,Tlacotalpan virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2972292,Tonghua tick virus 1,Peribunyaviridae,,tick,0,0,True
+2972295,Tongren Perib tick virus 2,Peribunyaviridae,,tick,0,0,True
+2972290,Tongren tick virus 1,Peribunyaviridae,,tick,0,1,False
+35516,Trivittatus virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1678230,Trubanaman virus,Peribunyaviridae,Orthobunyavirus,mosquito,1,1,True
+35320,Turlock virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+552554,Umbre virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+2748252,Wanowrie virus,Peribunyaviridae,,tick,1,0,False
+500324,Weldona virus,Peribunyaviridae,Orthobunyavirus,biting_midge,0,0,True
+1678231,Witwatersrand virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+1608142,Xinzhou Mosquito Virus,Peribunyaviridae,,mosquito,0,0,True
+159137,Yaba-7 virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,1,False
+1819307,Yacaaba virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+2972294,Yushu tick virus 1,Peribunyaviridae,,tick,0,1,False
+2972287,Zhangye tick virus 1,Peribunyaviridae,,tick,0,0,True
+2972284,Zhangzhou tick virus 1,Peribunyaviridae,,tick,0,0,True
+1608147,Zhee Mosquito virus,Peribunyaviridae,,mosquito,0,0,True
+2748234,wongal virus,Peribunyaviridae,Orthobunyavirus,mosquito,0,0,True
+1746058,Bole tick virus 4,Pestiviridae,Boletivirus,tick,0,0,True
+358764,Border disease virus,Pestiviridae,Orthopestivirus,tick,0,1,False
+11099,Bovine viral diarrhea virus 1,Pestiviridae,Orthopestivirus,"biting_midge,mosquito",1,1,True
+3061651,Dermacentor pesti-like virus,Pestiviridae,Orthopestivirus,tick,0,1,False
+2950731,Dermacentor reticulatus pestivirus-like virus 1,Pestiviridae,Orthopestivirus,tick,0,1,False
+2713211,Dongyang pangolin virus,Pestiviridae,Orthopestivirus,tick,0,1,False
+31657,Pestivirus sp.,Pestiviridae,Orthopestivirus,tick,0,0,True
+2704634,Trinbago virus,Pestiviridae,Orthopestivirus,tick,0,1,False
+2744401,Carapha virus,Phasmaviridae,,biting_midge,0,1,False
+2809670,Phasmaviridae sp.,Phasmaviridae,,biting_midge,0,0,True
+2800873,Adagum virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+3056570,Aedes phasivirus,Phenuiviridae,,mosquito,0,0,True
+3118734,Albatross Island virus,Phenuiviridae,Bandavirus,tick,0,1,False
+2977130,Alxa tick phlebovirus,Phenuiviridae,Phlebovirus,tick,0,0,True
+2847048,American dog tick virus,Phenuiviridae,Uukuvirus,tick,0,1,False
+3055746,Anopheles phasivirus 1,Phenuiviridae,Phasivirus,mosquito,0,0,True
+3055747,Anopheles phasivirus 2,Phenuiviridae,Phasivirus,mosquito,0,0,True
+2689369,Atrato Gouko-like virus 1,Phenuiviridae,,mosquito,0,0,True
+3239341,Bafoussam mosquito bunyavirus 1,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+3239344,Bafoussam mosquito bunyavirus 2,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+3393475,Balambala tick phenuivirus,Phenuiviridae,,tick,0,0,True
+2748958,Bandavirus dabieense,Phenuiviridae,Bandavirus,tick,1,1,True
+2972301,Bangxi Phenu tick virus 1,Phenuiviridae,,tick,0,1,False
+1213620,Bhanja virus,Phenuiviridae,Bandavirus,tick,0,0,True
+1526522,Blacklegged tick phlebovirus 2,Phenuiviridae,Phlebovirus,tick,0,1,False
+2767007,Bogoria virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1608040,Bole Tick Virus 1,Phenuiviridae,Uukuvirus,tick,0,1,False
+2755150,Broome phasivirus 1,Phenuiviridae,Phasivirus,mosquito,0,0,True
+3466800,Brown dog tick phlebovirus,Phenuiviridae,Phlebovirus,tick,0,0,True
+2704635,Brown dog tick phlebovirus 1,Phenuiviridae,Uukuvirus,tick,0,1,False
+2704636,Brown dog tick phlebovirus 2,Phenuiviridae,Uukuvirus,tick,0,1,False
+487102,Catch-me-cave virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+1608043,Changping Tick Virus 1,Phenuiviridae,Uukuvirus,tick,0,0,True
+3064058,Cheeloo uukuvirus,Phenuiviridae,Uukuvirus,tick,0,1,False
+1010666,Chize virus,Phenuiviridae,Uukuvirus,tick,0,1,False
+2895604,Cimo phenuivirus II,Phenuiviridae,,mosquito,0,0,True
+2895607,Cimo phenuivirus V,Phenuiviridae,,mosquito,0,0,True
+2895608,Cimo phenuivirus VI,Phenuiviridae,,mosquito,0,1,False
+3055749,Culex goukovirus 1,Phenuiviridae,Goukovirus,mosquito,0,0,True
+3056571,Culex goukovirus 2,Phenuiviridae,,mosquito,0,0,True
+3056572,Culex goukovirus 3,Phenuiviridae,,mosquito,0,0,True
+3055745,Culex hudovirus,Phenuiviridae,Hudovirus,mosquito,0,0,True
+3056569,Culex phenuivirus 1,Phenuiviridae,,mosquito,0,0,True
+3055751,Culex pheuivirus 3,Phenuiviridae,,mosquito,0,0,True
+2686043,Culex pseudovishnui bunya-like virus,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+3055744,Culex tenui-like virus,Phenuiviridae,,mosquito,0,0,True
+1457166,Cumuto virus,Phenuiviridae,Goukovirus,mosquito,0,0,True
+1608046,Dabieshan tick virus,Phenuiviridae,Uukuvirus,tick,0,1,False
+2972304,Dali Phenu tick virus 1,Phenuiviridae,,tick,0,1,False
+2950733,Dermacentor reticulatus uukuvirus,Phenuiviridae,Uukuvirus,tick,0,0,True
+3061653,Dermacentor uukuvirus,Phenuiviridae,Uukuvirus,tick,0,1,False
+2980601,Enontekio phenui-like virus 1,Phenuiviridae,,mosquito,0,0,True
+2980602,Enontekio phenui-like virus 2,Phenuiviridae,,mosquito,0,0,True
+2980603,Enontekio phenui-like virus 3,Phenuiviridae,,mosquito,0,0,True
+2980604,Enontekio phenui-like virus 4,Phenuiviridae,,mosquito,0,0,True
+2980605,Enontekio phenui-like virus 5,Phenuiviridae,,mosquito,0,0,True
+2860948,Etutanne virus 2,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+2860949,Etutanne virus 3,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+2034330,Fairhair virus,Phenuiviridae,Ixovirus,tick,0,0,True
+3104761,Fangshan bunya-like virus,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+2755159,Fitzroy Crossing tenui-like virus 1,Phenuiviridae,Horwuvirus,mosquito,0,0,True
+2661635,Furrundu phlebovirus,Phenuiviridae,Phlebovirus,mosquito,0,0,True
+1489102,Gissar virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2809440,Goukovirus sp.,Phenuiviridae,Goukovirus,biting_midge,0,0,True
+603003,Gouleako virus,Phenuiviridae,Goukovirus,mosquito,0,0,True
+487098,Grand Arbaud virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+1763596,Guertu virus,Phenuiviridae,Bandavirus,tick,0,0,True
+2980575,Hameenlinna phasivirus,Phenuiviridae,Phasivirus,mosquito,0,0,True
+2980610,Hanko phenui-like virus 1,Phenuiviridae,,mosquito,0,0,True
+2980611,Hanko phenui-like virus 2,Phenuiviridae,,mosquito,0,0,True
+2980612,Hanko phenui-like virus 3,Phenuiviridae,,mosquito,0,0,True
+1216928,Heartland virus,Phenuiviridae,Bandavirus,tick,0,0,True
+3401106,Hebei Phenui-like virus,Phenuiviridae,,tick,0,0,True
+3467851,Hexagonus ixovirus,Phenuiviridae,Ixovirus,tick,0,1,False
+1001303,Huaiyangshan virus,Phenuiviridae,Bandavirus,tick,1,1,True
+2816850,Iftin tick virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2980613,Ilomantsi phenui-like virus,Phenuiviridae,,mosquito,0,0,True
+3052261,Ixovirus ixodis,Phenuiviridae,Ixovirus,tick,0,0,True
+2810278,Ixovirus sp. 1 LU-2021,Phenuiviridae,Ixovirus,tick,0,0,True
+3467808,Jurua cumuto-like virus,Phenuiviridae,,mosquito,0,0,True
+3467796,Jurua goukovirus,Phenuiviridae,Goukovirus,mosquito,0,0,True
+3467795,Jurua mobuvirus,Phenuiviridae,Mobuvirus,mosquito,0,1,False
+3467807,Jurua narangue-like virus,Phenuiviridae,,mosquito,0,0,True
+1851087,Kabuto mountain virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+1564120,Kaisodi virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2980606,Kalajoki phenui-like virus 1,Phenuiviridae,,mosquito,0,0,True
+2980607,Kalajoki phenui-like virus 2,Phenuiviridae,,mosquito,0,0,True
+3377005,Kinna virus,Phenuiviridae,Bandavirus,tick,0,0,True
+2847813,Kismaayo virus,Phenuiviridae,Bandavirus,tick,0,0,True
+2800878,Krasnodar virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+3078422,Lameiro phenuivirus,Phenuiviridae,,mosquito,0,1,False
+1564119,Lanjan virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+2809515,Laulavirus sp.,Phenuiviridae,Laulavirus,tick,0,0,True
+2027354,Laurel Lake virus,Phenuiviridae,Laulavirus,tick,0,0,True
+1917976,Lesvos virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1608056,Lihan tick virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2789410,Limansky tick phlebovirus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1219465,Lone Star virus,Phenuiviridae,Bandavirus,tick,0,1,False
+1204160,Manawa virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+3056573,Mansonia goukovirus,Phenuiviridae,,mosquito,0,0,True
+2816849,Mbalambala tick virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2809575,Mobuvirus sp.,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+2983973,Mudanjiang phlebovirus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1569922,Mukawa virus,Phenuiviridae,Phlebovirus,tick,0,1,False
+2972298,Nanning Phenu tick virus 1,Phenuiviridae,,tick,0,0,True
+2689367,Narangue virus,Phenuiviridae,Mobuvirus,mosquito,0,1,False
+2569589,Ntepes virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1913640,Odaw virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+2583479,Okutama tick virus,Phenuiviridae,Uukuvirus,tick,0,1,False
+1981097,Okutama tick virus 34,Phenuiviridae,Phlebovirus,tick,0,0,True
+2789411,Onega tick phlebovirus,Phenuiviridae,Ixovirus,tick,0,0,True
+1977075,Pacific coast tick phlebovirus,Phenuiviridae,Uukuvirus,tick,0,1,False
+2980608,Palkane phenui-like virus 1,Phenuiviridae,,mosquito,0,0,True
+2980609,Palkane phenui-like virus 2,Phenuiviridae,,mosquito,0,0,True
+1213621,Palma virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+2755152,Parry's Creek phasivirus 1,Phenuiviridae,Phasivirus,mosquito,0,0,True
+3052631,Phasivirus phasiense,Phenuiviridae,Phasivirus,mosquito,0,0,True
+2809669,Phasivirus sp.,Phenuiviridae,Phasivirus,mosquito,0,0,True
+3052633,Phasivirus wutaiense,Phenuiviridae,Phasivirus,mosquito,0,0,True
+1642042,Phlebovirus Antigone,Phenuiviridae,Phlebovirus,tick,0,0,True
+2555890,Phlebovirus Strandja-BG2012-GII-strainCS,Phenuiviridae,Phlebovirus,tick,0,0,True
+2555893,Phlebovirus Strandja-BG2012-GIII-strainCR,Phenuiviridae,Phlebovirus,tick,0,0,True
+2555896,Phlebovirus Strandja-BG2012-GV,Phenuiviridae,Phlebovirus,tick,0,1,False
+3052664,Phlebovirus mukawaense,Phenuiviridae,Phlebovirus,tick,0,0,True
+206378,Phlebovirus sp.,Phenuiviridae,Phlebovirus,tick,0,0,True
+1833915,Phlebovirus sp. 20A,Phenuiviridae,Phlebovirus,tick,0,0,True
+1833928,Phlebovirus sp. 26A,Phenuiviridae,Phlebovirus,tick,0,0,True
+2015063,Phlebovirus sp. G1-S,Phenuiviridae,Phlebovirus,tick,0,0,True
+2015057,Phlebovirus sp. P-L,Phenuiviridae,Phlebovirus,tick,0,0,True
+2015054,Phlebovirus sp. SL1-L,Phenuiviridae,Phlebovirus,tick,0,0,True
+2015056,Phlebovirus sp. SL3-L,Phenuiviridae,Phlebovirus,tick,0,0,True
+2661634,Pixe phlebovirus,Phenuiviridae,Phlebovirus,mosquito,0,0,True
+3433935,Plateau tick ixovirus,Phenuiviridae,Ixovirus,tick,0,1,False
+3433941,Plateau tick phlebovirus,Phenuiviridae,Phlebovirus,tick,0,0,True
+3433937,Plateau tick uukuvirus,Phenuiviridae,Uukuvirus,tick,0,1,False
+487097,Precarious point virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2800880,Protichka virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+3038386,Qingdao tick uukuvirus,Phenuiviridae,Uukuvirus,tick,0,0,True
+1010669,RML-105355 virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2569610,Rhipicephalus associated phlebovirus 1,Phenuiviridae,Phlebovirus,tick,0,0,True
+11588,Rift Valley fever virus,Phenuiviridae,Phlebovirus,mosquito,0,1,False
+1531287,Rukutama virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2789412,Sara tick phlebovirus,Phenuiviridae,Ixovirus,tick,0,1,False
+2895616,Sefomo virus,Phenuiviridae,Goukovirus,mosquito,0,0,True
+1003835,Severe fever with thrombocytopenia syndrome virus,Phenuiviridae,Bandavirus,tick,0,1,False
+1564122,Shibuyunji virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1608077,Shuangao Insect Virus 3,Phenuiviridae,Mobuvirus,mosquito,0,0,True
+2951466,Sichuan tick phlebovirus,Phenuiviridae,Phlebovirus,tick,0,0,True
+1564099,Silverwater virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+1608084,Tacheng Tick Virus 2,Phenuiviridae,Uukuvirus,tick,0,1,False
+3046367,Tacheng tick virus,Phenuiviridae,,tick,0,0,True
+2020880,Tick phlebovirus,Phenuiviridae,Uukuvirus,tick,0,1,False
+2201043,Tick phlebovirus Anatolia 1,Phenuiviridae,Phlebovirus,tick,0,0,True
+2972299,Tongren Phenu tick virus 1,Phenuiviridae,,tick,0,0,True
+2874031,Toyo virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+1933191,Uukuniemi phlebovirus,Phenuiviridae,Uukuvirus,tick,0,0,True
+11591,Uukuniemi virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+3052799,Uukuvirus hoplandense,Phenuiviridae,Uukuvirus,tick,0,1,False
+2972303,Xining Phenu tick virus 1,Phenuiviridae,,tick,0,0,True
+2560015,Xinjiang tick phlebovirus,Phenuiviridae,Uukuvirus,tick,0,1,False
+2972300,Yanbian Phenu tick virus 1,Phenuiviridae,,tick,0,1,False
+1608145,Yongjia Tick Virus 1,Phenuiviridae,Uukuvirus,tick,0,1,False
+3394926,Yunnan phenu-like virus 95,Phenuiviridae,,tick,0,1,False
+2748235,Zaliv Terpeniya virus,Phenuiviridae,Uukuvirus,tick,0,0,True
+2800884,Zelenogradsk virus,Phenuiviridae,Phlebovirus,tick,0,0,True
+2972302,Zhangjiakou Phenu tick virus 1,Phenuiviridae,,tick,0,1,False
+1526521,blacklegged tick virus 1,Phenuiviridae,Ixovirus,tick,0,1,False
+1844920,blacklegged tick virus 3,Phenuiviridae,Ixovirus,tick,0,1,False
+2972306,Beijing Picor tick virus 1,Picornaviridae,,tick,0,0,True
+2855390,Chiquitos picornavirus,Picornaviridae,,mosquito,0,0,True
+12072,Coxsackievirus B3,Picornaviridae,Enterovirus,mosquito,1,1,True
+3451443,Haemaphysalis longicornis associated picorna-like virus,Picornaviridae,,tick,0,0,True
+2980576,Hanko picorna-like virus,Picornaviridae,,mosquito,0,0,True
+201466,Human enterovirus sp. ex Amblyomma americanum,Picornaviridae,Enterovirus,tick,0,0,True
+195055,Human parechovirus 3,Picornaviridae,Parechovirus,mosquito,1,1,True
+2651930,Ista virus,Picornaviridae,,mosquito,0,0,True
+2950737,Ixodes ricinus picorna-like virus 1,Picornaviridae,,tick,0,0,True
+2972305,Jinan Picor tick virus 1,Picornaviridae,,tick,0,0,True
+2651931,Jotan virus,Picornaviridae,,mosquito,0,0,True
+72149,Kobuvirus aichi,Picornaviridae,Kobuvirus,tick,1,0,False
+3683038,New Brunswick picoRNA-like virus,Picornaviridae,,mosquito,0,1,False
+2980397,Nor picorna-like virus,Picornaviridae,,mosquito,0,0,True
+1803956,Parechovirus A,Picornaviridae,Parechovirus,mosquito,1,0,False
+1530251,Picornaviridae sp.,Picornaviridae,,"mosquito,tick",0,0,True
+2902641,Pyongtaek Culex picornavirus,Picornaviridae,,mosquito,0,0,True
+1484573,Sikhote-Alin virus,Picornaviridae,Cardiovirus,tick,0,0,True
+2952018,XiangYun picorna-like virus 1,Picornaviridae,,mosquito,0,0,True
+2952019,XiangYun picorna-like virus 2,Picornaviridae,,mosquito,0,0,True
+2952020,XiangYun picorna-like virus 3,Picornaviridae,,mosquito,0,0,True
+2952021,XiangYun picorna-like virus 4,Picornaviridae,,mosquito,0,0,True
+2952022,XiangYun picorna-like virus 5,Picornaviridae,,mosquito,0,0,True
+2952023,XiangYun picorna-like virus 6,Picornaviridae,,mosquito,0,0,True
+2952024,XiangYun picorna-like virus 7,Picornaviridae,,mosquito,0,0,True
+12063,parechovirus A1,Picornaviridae,Parechovirus,mosquito,1,1,True
+3014795,Picornavirus ishikawaense,Polycipiviridae,,mosquito,0,0,True
+1634381,Sheep polyomavirus 1,Polyomaviridae,,tick,0,1,False
+3467577,Zaloxo virus 4,Polyomaviridae,Alphapolyomavirus,tick,0,1,False
+129727,Bovine papular stomatitis virus,Poxviridae,Parapoxvirus,tick,1,0,False
+2591803,Brazilian porcupinepox virus,Poxviridae,,tick,0,0,True
+10261,Fowlpox virus,Poxviridae,Avipoxvirus,mosquito,0,0,True
+59509,Lumpy skin disease virus,Poxviridae,Capripoxvirus,tick,0,0,True
+3051319,Oriental turtle dovepox virus,Poxviridae,,mosquito,0,0,True
+129726,Pseudocowpox virus,Poxviridae,Parapoxvirus,tick,1,1,True
+10271,Rabbit fibroma virus,Poxviridae,Leporipoxvirus,mosquito,0,0,True
+1076255,Yokapox virus,Poxviridae,Centapoxvirus,mosquito,0,0,True
+1034803,uncultured Poxvirus,Poxviridae,,mosquito,0,0,True
+11788,Abelson murine leukemia virus,Retroviridae,Gammaretrovirus,mosquito,0,1,False
+3345144,Anopheles darlingi retro-like virus 1,Retroviridae,,mosquito,0,0,True
+3345145,Anopheles darlingi retro-like virus 2,Retroviridae,,mosquito,0,0,True
+11864,Avian leukosis virus,Retroviridae,Alpharetrovirus,mosquito,0,1,False
+196403,Baboon endogenous virus,Retroviridae,Gammaretrovirus,mosquito,0,0,True
+11901,Bovine leukemia virus,Retroviridae,Deltaretrovirus,biting_midge,1,0,False
+2913605,Enzootic nasal tumor virus 2,Retroviridae,Betaretrovirus,tick,0,0,True
+11827,Human endogenous retrovirus,Retroviridae,,mosquito,1,0,False
+2996478,Aedes japonicus rhabdovirus 1,Rhabdoviridae,,mosquito,0,0,True
+2789884,Aedes rhabdo-like virus,Rhabdoviridae,,mosquito,0,0,True
+3015520,Aedes rhabdovirus 1,Rhabdoviridae,,mosquito,0,0,True
+1972682,Almendravirus,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+1972683,Almendravirus arboretum,Rhabdoviridae,Almendravirus,mosquito,0,1,False
+1972684,Almendravirus balsa,Rhabdoviridae,Almendravirus,mosquito,0,1,False
+1972687,Almendravirus chico,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+1972685,Almendravirus cootbay,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+2734366,Almendravirus menghai,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+3416584,Almendravirus sp. 'chester',Rhabdoviridae,Almendravirus,mosquito,0,0,True
+3426274,Alpharicinrhavirus bancrofti,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2843859,Alpharicinrhavirus bole,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2959765,Alpharicinrhavirus sp.,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2977131,Alxa tick rhabdovirus,Rhabdoviridae,Lostrhavirus,tick,0,0,True
+2079610,American dog tick rhabdovirus-2,Rhabdoviridae,,tick,0,0,True
+3015525,Armigeres rhabdo-like virus 2,Rhabdoviridae,,mosquito,0,0,True
+3064181,Armigeres subalbatus rhabdovirus,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+1272961,Aruac virus,Rhabdoviridae,Arurhavirus,mosquito,0,0,True
+2689334,Atrato Rhabdo-like virus 2,Rhabdoviridae,,mosquito,0,0,True
+2689335,Atrato Rhabdo-like virus 3,Rhabdoviridae,Primrhavirus,mosquito,0,0,True
+3239343,Bafoussam mosquito rhabdovirus,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+932699,Bahia Grande virus,Rhabdoviridae,Barhavirus,mosquito,0,0,True
+864693,Bangoran virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+1819301,Beatrice Hill virus,Rhabdoviridae,Tibrovirus,biting_midge,0,1,False
+1407072,Beaumont virus,Rhabdoviridae,,mosquito,0,0,True
+2079605,Blacklegged tick rhabdovirus 1,Rhabdoviridae,Betaricinrhavirus,tick,0,1,False
+2704630,Blanchseco virus,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+864698,Boteke virus,Rhabdoviridae,Sunrhavirus,mosquito,0,0,True
+11303,Bovine ephemeral fever virus,Rhabdoviridae,Ephemerovirus,"biting_midge,mosquito",0,0,True
+3081666,Cambodia Anopheles rhabdovirus,Rhabdoviridae,,mosquito,0,0,True
+3154163,Chihuahua tick rhabdovirus 1,Rhabdoviridae,,tick,0,0,True
+2116536,Chimay rhabdovirus,Rhabdoviridae,Betaricinrhavirus,tick,0,1,False
+2895609,Cimo rhabdovirus I,Rhabdoviridae,,mosquito,0,0,True
+2895613,Cimo rhabdovirus V,Rhabdoviridae,,mosquito,0,0,True
+1272962,Connecticut virus,Rhabdoviridae,Sawgrhavirus,tick,0,0,True
+3078402,Corixo rhabdovirus 1,Rhabdoviridae,,mosquito,0,0,True
+3078403,Corixo rhabdovirus 2,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+2851140,Coxipo dielmovirus,Rhabdoviridae,,mosquito,0,0,True
+2805771,Culex perexiguus rhabdovirus,Rhabdoviridae,,mosquito,0,1,False
+2684265,Culex pseudovishnui rhabdo-like virus,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+3015530,Culex quinquefasciatus rhabdo-like virus 1,Rhabdoviridae,,mosquito,0,0,True
+2010277,Culex rhabdo-like virus,Rhabdoviridae,Ohlsrhavirus,mosquito,0,1,False
+3015532,Culex rhabdo-like virus 2,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2849718,Culex rhabdo-like virus Los Angeles,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2304515,Culex rhabdovirus,Rhabdoviridae,,mosquito,0,0,True
+936308,Culex tritaeniorhynchus rhabdovirus,Rhabdoviridae,Merhavirus,mosquito,0,1,False
+3467557,Curionopolis stangrhavirus 2,Rhabdoviridae,,mosquito,0,0,True
+490110,Curionopolis virus,Rhabdoviridae,Curiovirus,biting_midge,0,0,True
+2741539,Cururu rhabdovirus,Rhabdoviridae,,mosquito,0,0,True
+2950732,Dermacentor reticulatus rhabdovirus 1,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2315722,Dillard's Draw virus,Rhabdoviridae,Sunrhavirus,mosquito,0,1,False
+2079606,Dog Tick rhabdovirus-1,Rhabdoviridae,,tick,0,0,True
+2980629,Enontekio ohlsrhavirus,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2980618,Enontekio rhabdovirus,Rhabdoviridae,,mosquito,0,0,True
+3397829,Ephemerovirus sp. 'akisim',Rhabdoviridae,Ephemerovirus,mosquito,0,0,True
+2805769,Evros rhabdovirus 1,Rhabdoviridae,,mosquito,0,0,True
+2805770,Evros rhabdovirus 2,Rhabdoviridae,,mosquito,0,0,True
+2892543,Formosus virus,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+318849,Fukuoka virus,Rhabdoviridae,Ledantevirus,biting_midge,0,1,False
+2977134,Fuyun tick rhabdovirus,Rhabdoviridae,Gammaricinrhavirus,tick,0,0,True
+1272942,Gray Lodge virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+2661637,Guampa vesiculovirus,Rhabdoviridae,Vesiculovirus,mosquito,0,0,True
+2972323,Guyuan Rhabd tick virus 1,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+1972612,Hapavirus flanders,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+1972626,Hapavirus wongabel,Rhabdoviridae,Hapavirus,biting_midge,0,0,True
+1569259,Harrison Dam virus,Rhabdoviridae,Sunrhavirus,mosquito,0,0,True
+200401,Hart Park virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+2980578,Hattula rhabdovirus,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+2021721,Holmes Jungle virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+2972329,Huanggang Rhabd tick virus 2,Rhabdoviridae,Ephemerovirus,tick,0,0,True
+1608049,Huangpi Tick Virus 3,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+3393476,Hyalomma marginatum rhabdovirus,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2725580,IRE/CTVM19-associated rhabdovirus,Rhabdoviridae,,tick,0,0,True
+2980584,Inari rhabdovirus,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+3043492,Inhamum rhabdovirus,Rhabdoviridae,,mosquito,0,0,True
+490111,Itacaiunas virus,Rhabdoviridae,Curiovirus,biting_midge,0,0,True
+1272943,Joinjakaka virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+200402,Kamese virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+1428456,Kolente virus,Rhabdoviridae,Ledantevirus,tick,0,1,False
+318836,Kotonkan virus,Rhabdoviridae,Ephemerovirus,biting_midge,0,0,True
+1272945,Kwatta virus,Rhabdoviridae,Sunrhavirus,mosquito,0,0,True
+1272946,La Joya virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+3060160,Ledantevirus longquan,Rhabdoviridae,Ledantevirus,mosquito,0,0,True
+3685803,Leksozero Aedes Stangrhavirus,Rhabdoviridae,Stangrhavirus,mosquito,0,0,True
+3241517,Lingshui tick rhabdovirus,Rhabdoviridae,,tick,0,0,True
+1756186,Lone star tick rhabdovirus,Rhabdoviridae,Lostrhavirus,tick,0,0,True
+1459044,Long Island tick rhabdovirus,Rhabdoviridae,Sawgrhavirus,tick,0,0,True
+2877507,Longquan Niviventer coninga ledantevirus 1,Rhabdoviridae,Ledantevirus,tick,0,1,False
+1229186,Malakal virus,Rhabdoviridae,Ephemerovirus,mosquito,0,0,True
+3072959,Manitoba rhabdovirus 1,Rhabdoviridae,,mosquito,0,0,True
+3077377,Manitoba rhabdovirus 2,Rhabdoviridae,,mosquito,0,0,True
+3072960,Manitoba rhabdovirus 3,Rhabdoviridae,,mosquito,0,0,True
+1272949,Manitoba virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+3467561,Maraba ohlsrhavirus 1,Rhabdoviridae,Ohlsrhavirus,biting_midge,0,0,True
+3467562,Maraba ohlsrhavirus 2,Rhabdoviridae,Ohlsrhavirus,biting_midge,0,0,True
+1919071,Menghai virus,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+2960741,Merhavirus sp.,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+1803034,Merida virus,Rhabdoviridae,Merhavirus,mosquito,0,0,True
+1969830,Merida-like virus KE-2017a,Rhabdoviridae,,mosquito,0,0,True
+1890685,Mopeia rhabdovirus,Rhabdoviridae,,mosquito,0,1,False
+200403,Mosqueiro virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+200404,Mossuril virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+698672,Moussa virus,Rhabdoviridae,Mousrhavirus,mosquito,0,1,False
+2972327,Mudanjiang Rhabd tick virus 1,Rhabdoviridae,Betaricinrhavirus,tick,0,0,True
+932700,Muir Springs virus,Rhabdoviridae,Barhavirus,mosquito,0,0,True
+2972321,Nanning Rhabd tick virus 1,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2079603,New Kent County virus,Rhabdoviridae,Ephemerovirus,tick,0,1,False
+1272952,New Minto virus,Rhabdoviridae,Sawgrhavirus,tick,0,0,True
+380442,Nkolbisson virus,Rhabdoviridae,Ledantevirus,mosquito,0,0,True
+1406950,North Creek virus,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+318852,Oak-Vale virus,Rhabdoviridae,Sunrhavirus,mosquito,0,1,False
+380160,Obodhiang virus,Rhabdoviridae,Ephemerovirus,mosquito,0,0,True
+1271872,Ochlerotatus caspius rhabdovirus 1,Rhabdoviridae,,mosquito,0,0,True
+1271873,Ochlerotatus caspius rhabdovirus 2,Rhabdoviridae,,mosquito,0,0,True
+2040592,Ohlsdorf virus,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2734392,Ohlsrhavirus culex,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2734393,Ohlsrhavirus northcreek,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2734394,Ohlsrhavirus ohlsdorf,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2734395,Ohlsrhavirus riverside,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2734396,Ohlsrhavirus tongilchon,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+1620895,Ord River virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+318845,Parry Creek virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+2980398,Pelarsalen rhabdo-like virus,Rhabdoviridae,,mosquito,0,0,True
+1272940,Porton virus,Rhabdoviridae,Hapavirus,mosquito,0,0,True
+1272955,Puchong virus,Rhabdoviridae,Ephemerovirus,mosquito,0,1,False
+1479613,Puerto Almendras virus,Rhabdoviridae,Almendravirus,mosquito,0,1,False
+1628186,Rhabdoviridae environmental sample,Rhabdoviridae,,mosquito,0,0,True
+1955137,Rhabdoviridae sp.,Rhabdoviridae,,"biting_midge,mosquito,tick",0,0,True
+2599624,Rhabdovirus sp.,Rhabdoviridae,,mosquito,0,0,True
+2569609,Rhipicephalus associated rhabdo-like virus,Rhabdoviridae,,tick,0,0,True
+1803263,Riverside virus 1,Rhabdoviridae,Ohlsrhavirus,mosquito,0,1,False
+380435,Rochambeau virus,Rhabdoviridae,Curiovirus,mosquito,0,0,True
+2697642,Rondonia rhabdovirus,Rhabdoviridae,,tick,0,0,True
+1620896,Sawgrass virus,Rhabdoviridae,Sawgrhavirus,tick,0,0,True
+2951068,Shanxi Arboretum virus,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+2951069,Shanxi Armigeres subalbatus rhabdovirus,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+1272958,Sweetwater Branch virus,Rhabdoviridae,Tibrovirus,biting_midge,0,0,True
+1608085,Tacheng Tick Virus 3,Rhabdoviridae,,tick,0,0,True
+1608089,Tacheng Tick Virus 7,Rhabdoviridae,Gammaricinrhavirus,tick,0,0,True
+2983974,Tahe rhabdovirus 1,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2983975,Tahe rhabdovirus 2,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2983976,Tahe rhabdovirus 3,Rhabdoviridae,,tick,0,0,True
+1608090,Taishun Tick Virus,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+318844,Tibrogargan virus,Rhabdoviridae,Tibrovirus,biting_midge,0,1,False
+1758878,Tongilchon virus 1,Rhabdoviridae,Ohlsrhavirus,mosquito,0,0,True
+2972331,Tongliao Rhabd tick virus 1,Rhabdoviridae,,tick,0,0,True
+2972325,Tongren Rhabd tick virus 1,Rhabdoviridae,Betaricinrhavirus,tick,0,0,True
+2972336,Tongren Rhabd tick virus 2,Rhabdoviridae,Ledantevirus,tick,0,0,True
+2972337,Tongren Rhabd tick virus 3,Rhabdoviridae,,tick,0,0,True
+11277,Vesicular stomatitis Indiana virus,Rhabdoviridae,Vesiculovirus,biting_midge,0,0,True
+1972567,Vesiculovirus bogdanovac,Rhabdoviridae,Vesiculovirus,mosquito,0,0,True
+1972568,Vesiculovirus jurona,Rhabdoviridae,Vesiculovirus,mosquito,1,1,True
+1972570,Vesiculovirus malpais,Rhabdoviridae,Vesiculovirus,mosquito,0,0,True
+1972569,Vesiculovirus perinet,Rhabdoviridae,Vesiculovirus,mosquito,0,1,False
+1569258,Walkabout Creek virus,Rhabdoviridae,Sunrhavirus,biting_midge,0,0,True
+3241518,Wenchang ephemerovirus,Rhabdoviridae,Ephemerovirus,tick,0,0,True
+1608134,Wuhan Mosquito Virus 9,Rhabdoviridae,Stangrhavirus,mosquito,0,0,True
+2972338,Wuhu Rhabd tick virus 1,Rhabdoviridae,,tick,0,0,True
+2805772,Xanthi rhabdovirus,Rhabdoviridae,,mosquito,0,0,True
+2886224,Xiangshan rhabdo-like virus 1,Rhabdoviridae,Almendravirus,mosquito,0,0,True
+1272959,Xiburema virus,Rhabdoviridae,Arurhavirus,mosquito,0,1,False
+2560016,Xinjiang tick rhabdovirus,Rhabdoviridae,Lostrhavirus,tick,0,0,True
+3416183,Xuecheng tick lostrhavirus,Rhabdoviridae,Lostrhavirus,tick,0,1,False
+2972330,Yanbian Rhabd tick virus 2,Rhabdoviridae,,tick,0,0,True
+2972326,Yanbian Rhabd tick virus 3,Rhabdoviridae,Betaricinrhavirus,tick,0,0,True
+1272960,Yata virus,Rhabdoviridae,Ephemerovirus,mosquito,0,1,False
+3396455,Yiliekede tick virus 2,Rhabdoviridae,,tick,0,0,True
+1608146,Yongjia Tick Virus 2,Rhabdoviridae,Ledantevirus,tick,0,0,True
+2972332,Yushu Rhabd tick virus 2,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+1620507,Zahedan rhabdovirus,Rhabdoviridae,Zarhavirus,tick,0,1,False
+2972333,Zhangjiakou Rhabd tick virus 1,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2972335,Zhangjiakou Rhabd tick virus 2,Rhabdoviridae,,tick,0,0,True
+2972340,Zhangye Rhabd tick virus 1,Rhabdoviridae,Alpharicinrhavirus,tick,0,0,True
+2899249,Aedes orbi-like virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1484570,Aniva virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+2026603,Anopheles annulipes orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+2026602,Anopheles hinesorum orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1484571,Baku virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+77763,Banna virus,Sedoreoviridae,Seadornavirus,"biting_midge,mosquito,tick",1,0,False
+3129116,Banna-like virus,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+40051,Bluetongue virus,Sedoreoviridae,Orbivirus,"biting_midge,mosquito",0,1,False
+35327,Bluetongue virus 1,Sedoreoviridae,Orbivirus,biting_midge,0,1,False
+94966,Bluetongue virus 12,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+45029,Bluetongue virus 16,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+35332,Bluetongue virus 20,Sedoreoviridae,Orbivirus,biting_midge,0,1,False
+94967,Bluetongue virus 4,Sedoreoviridae,Orbivirus,biting_midge,0,1,False
+45032,Bluetongue virus 9,Sedoreoviridae,Orbivirus,biting_midge,0,1,False
+108089,CSIRO Village virus,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+544571,California mosquito pool virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+40052,Changuinola virus,Sedoreoviridae,Orbivirus,mosquito,1,0,False
+40065,Chenuda virus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+1679172,Chobar Gorge virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+77204,Chuzan virus,Sedoreoviridae,Orbivirus,"biting_midge,mosquito",0,0,True
+267783,Coltivirus strain BJ95-75,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+40053,Corriparta virus,Sedoreoviridae,Orbivirus,mosquito,1,1,True
+40054,Epizootic hemorrhagic disease virus,Sedoreoviridae,Orbivirus,"biting_midge,mosquito",0,0,True
+33720,Epizootic hemorrhagic disease virus 1,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+201490,Equine encephalosis virus,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+40056,Eubenangee virus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+204269,Great Island virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+2998222,Guangdong tick orbivirus,Sedoreoviridae,Orbivirus,tick,0,1,False
+908872,Itupiranga virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+2547358,Japanaut virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+104580,Kadipiro virus,Sedoreoviridae,Seadornavirus,mosquito,1,0,False
+40064,Kemerovo virus,Sedoreoviridae,Orbivirus,tick,1,1,True
+3424593,Kevo orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1435294,Koyama Hill virus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+246280,Liao ning virus,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+1766829,Mangshi virus,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+108088,Marrakai virus,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+908873,Matucare virus,Sedoreoviridae,Orbivirus,tick,0,0,True
+464979,Middle Point orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1565590,Minnal virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1408137,Mobuck virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+2985555,Mono Lake orbivirus,Sedoreoviridae,Orbivirus,tick,0,1,False
+2841875,Mudumu virus,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+1597962,Muko virus,Sedoreoviridae,Orbivirus,tick,1,1,True
+526523,Nugget virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+1471048,Okhotskiy virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+2498144,Orbivirus sp.,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1170506,Pata virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+2851139,Purunga orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+3072949,Ramu Anopheles Seadornavirus,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+2663720,Rasqueado orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+595217,Sandy Bay Virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+1289939,Sathuvachari virus,Sedoreoviridae,Orbivirus,biting_midge,0,0,True
+3241300,Seadornavirus liaoningense,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+2809846,Seadornavirus sp.,Sedoreoviridae,Seadornavirus,mosquito,0,0,True
+104581,St Croix River virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+559180,Stretch Lagoon orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+1428763,Tibet orbivirus,Sedoreoviridae,Orbivirus,"biting_midge,mosquito",0,0,True
+1170505,Tilligerry virus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+881914,Tribec virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+40060,Umatilla virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+1565591,Vellore virus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+40067,Wad Medani virus,Sedoreoviridae,Orbivirus,tick,0,1,False
+40061,Wallal virus,Sedoreoviridae,Orbivirus,"biting_midge,mosquito",0,0,True
+2895619,Wanken orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,0,True
+40062,Warrego virus,Sedoreoviridae,Orbivirus,"biting_midge,mosquito",0,0,True
+47465,Wongorr virus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+2560014,Xinjiang tick orbivirus,Sedoreoviridae,Orbivirus,tick,0,0,True
+306276,Yunnan orbivirus,Sedoreoviridae,Orbivirus,mosquito,0,1,False
+3467571,Zaloxo virus 1,Sedoreoviridae,Orbivirus,tick,0,0,True
+3239315,Chihuahua culicoides solemo-like virus 1,Solemoviridae,,biting_midge,0,0,True
+2715208,Solemoviridae sp.,Solemoviridae,,biting_midge,0,0,True
+3446378,Aedes albopictus reovirus,Spinareoviridae,Dinovernavirus,mosquito,0,0,True
+1769781,Anopheles cypovirus,Spinareoviridae,Cypovirus,mosquito,0,0,True
+2250219,Chiqui virus,Spinareoviridae,,mosquito,0,0,True
+46839,Colorado tick fever virus,Spinareoviridae,Coltivirus,tick,0,0,True
+2809312,Coltivirus sp.,Spinareoviridae,Coltivirus,tick,0,0,True
+349066,Culex restuans cypovirus,Spinareoviridae,Cypovirus,mosquito,0,0,True
+341721,Dinovernavirus aedis,Spinareoviridae,Dinovernavirus,mosquito,0,0,True
+62352,Eyach virus,Spinareoviridae,Coltivirus,tick,0,0,True
+1567404,Fako virus,Spinareoviridae,Dinovernavirus,mosquito,0,0,True
+2867436,Gierle tick virus,Spinareoviridae,Coltivirus,tick,0,0,True
+2872738,Jeddah tick coltivirus,Spinareoviridae,Coltivirus,tick,0,0,True
+2290890,Kundal virus,Spinareoviridae,Coltivirus,tick,0,0,True
+2713212,Lishui pangolin virus,Spinareoviridae,,tick,0,0,True
+2014339,Tarumizu tick virus,Spinareoviridae,Coltivirus,tick,0,0,True
+311554,Uranotaenia sapphirina cypovirus,Spinareoviridae,Cypovirus,mosquito,0,0,True
+2816848,Bangali torovirus,Tobaniviridae,Torovirus,tick,0,0,True
+177895,71D1252 virus,Togaviridae,Alphavirus,mosquito,0,0,True
+177898,78V3531 virus,Togaviridae,Alphavirus,mosquito,0,0,True
+2601858,Agua Salud alphavirus,Togaviridae,Alphavirus,mosquito,0,0,True
+3426305,Alphavirus madariaga,Togaviridae,Alphavirus,mosquito,0,1,False
+3459223,Andasibe virus,Togaviridae,Alphavirus,mosquito,0,0,True
+3459225,Arkonam virus,Togaviridae,Alphavirus,mosquito,0,0,True
+11020,Barmah Forest virus,Togaviridae,Alphavirus,"biting_midge,mosquito",1,1,True
+59305,Bebaru virus,Togaviridae,Alphavirus,mosquito,1,1,True
+3459227,Bobia virus,Togaviridae,Alphavirus,mosquito,0,0,True
+2499242,Caaingua virus,Togaviridae,Alphavirus,mosquito,0,1,False
+60879,Cabassou virus,Togaviridae,Alphavirus,mosquito,0,1,False
+37124,Chikungunya virus,Togaviridae,Alphavirus,mosquito,1,1,True
+11021,Eastern equine encephalitis virus,Togaviridae,Alphavirus,mosquito,1,1,True
+1231903,Eilat virus,Togaviridae,Alphavirus,mosquito,0,1,False
+2083198,Everglades virus,Togaviridae,Alphavirus,mosquito,1,0,False
+11024,Highlands J virus,Togaviridae,Alphavirus,mosquito,1,1,True
+3467800,Jurua alphavirus,Togaviridae,Alphavirus,mosquito,0,1,False
+3459234,Kununurra virus,Togaviridae,Alphavirus,mosquito,0,0,True
+48542,Kyzylagach virus,Togaviridae,Alphavirus,mosquito,1,1,True
+3459235,Lake Clarendon virus,Togaviridae,Alphavirus,tick,0,0,True
+3459236,Llano Seco virus,Togaviridae,Alphavirus,mosquito,0,0,True
+1440170,Madariaga virus,Togaviridae,Alphavirus,mosquito,1,1,True
+59301,Mayaro virus,Togaviridae,Alphavirus,mosquito,1,0,False
+11023,Middelburg virus,Togaviridae,Alphavirus,"mosquito,tick",1,1,True
+3459237,Mitchell River virus,Togaviridae,Alphavirus,biting_midge,0,1,False
+60875,Mucambo virus,Togaviridae,Alphavirus,mosquito,1,0,False
+2072351,Mwinilunga alphavirus,Togaviridae,Alphavirus,mosquito,0,1,False
+59302,Ndumu virus,Togaviridae,Alphavirus,mosquito,1,1,True
+2169701,Onyong-nyong virus,Togaviridae,Alphavirus,mosquito,1,1,True
+3459241,Palestina virus,Togaviridae,Alphavirus,mosquito,0,0,True
+2904963,Pirahy virus,Togaviridae,Alphavirus,mosquito,0,1,False
+60876,Pixuna virus,Togaviridae,Alphavirus,mosquito,1,1,True
+332097,Rio Negro virus,Togaviridae,Alphavirus,mosquito,1,1,True
+11029,Ross River virus,Togaviridae,Alphavirus,mosquito,1,1,True
+59303,Sagiyama virus,Togaviridae,Alphavirus,mosquito,1,0,False
+11033,Semliki Forest virus,Togaviridae,Alphavirus,mosquito,1,1,True
+11034,Sindbis virus,Togaviridae,Alphavirus,"biting_midge,mosquito,tick",1,1,True
+1930825,Tai Forest alphavirus,Togaviridae,Alphavirus,mosquito,0,1,False
+59304,Una virus,Togaviridae,Alphavirus,mosquito,0,1,False
+11036,Venezuelan equine encephalitis virus,Togaviridae,Alphavirus,mosquito,1,1,True
+3459247,Virgin River virus,Togaviridae,Alphavirus,mosquito,0,0,True
+11039,Western equine encephalitis virus,Togaviridae,Alphavirus,mosquito,1,1,True
+48543,Whataroa virus,Togaviridae,Alphavirus,mosquito,1,1,True
+2679909,Yada yada virus,Togaviridae,Alphavirus,mosquito,0,0,True
+3459248,Yaquina Head virus,Togaviridae,Alphavirus,tick,0,1,False
+3239316,Chihuahua culicoides tombusvirus 1,Tombusviridae,Tombusvirus,biting_midge,0,0,True
+3377603,Ouro verde tombus-like virus 1,Tombusviridae,,biting_midge,0,0,True
+2689356,Atrato Reo-like virus,Unassigned,,mosquito,0,0,True
+2755151,Broome reo-like virus 1,Unassigned,,mosquito,0,0,True
+2976198,Canaosa virus,Unassigned,,biting_midge,0,1,False
+2744400,Carajing virus,Unassigned,,biting_midge,0,0,True
+3377598,Carajing-like virus 1,Unassigned,,biting_midge,0,0,True
+3377599,Carajing-like virus 2,Unassigned,,biting_midge,0,0,True
+3239318,Chihuahua culicoides virus 1,Unassigned,,biting_midge,0,0,True
+1427476,Cimodo virus,Unassigned,,mosquito,0,0,True
+3367773,Elliovirales sp.,Unassigned,,biting_midge,0,0,True
+3077879,Elmago virus,Unassigned,,biting_midge,0,0,True
+1955198,Fort Crockett virus,Unassigned,,biting_midge,0,0,True
+2109376,High Island virus,Unassigned,,mosquito,0,0,True
+3377601,Maraba negevirus,Unassigned,Negevirus,biting_midge,0,0,True
+2108521,Ninarumi virus,Unassigned,,mosquito,0,1,False
+2585267,Reoviridae sp.,Unassigned,,"biting_midge,mosquito,tick",0,0,True
+2771463,Serbia reo-like virus 1,Unassigned,,mosquito,0,1,False
+2651939,Valmbacken virus,Unassigned,,mosquito,0,1,False
+2867438,Zoersel tick virus,Unassigned,,tick,0,0,True
+1034795,uncultured Herpesvirus,Unassigned,,mosquito,0,0,True
