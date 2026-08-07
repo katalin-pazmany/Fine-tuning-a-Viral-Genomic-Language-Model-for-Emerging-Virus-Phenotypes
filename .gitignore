@@ -55,3 +55,7 @@ __pycache__/
 .ipynb_checkpoints/
 logs/
 *.bak
+
+# local backups from the Barkla full-embeddings pull
+outputs/*_partial_backup.npz
+outputs/*.bak.csv
