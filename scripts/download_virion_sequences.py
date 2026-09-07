@@ -19,7 +19,7 @@ import pandas as pd
 from pathlib import Path
 from Bio import Entrez, SeqIO
 
-Entrez.email = "sgkpazma@liverpool.ac.uk"   
+Entrez.email = "your_email@example.com"   
 
 BASE_DIR  = Path(__file__).parent
 MISSING_CSV = BASE_DIR / "data" / "virion_missing_taxids.csv"

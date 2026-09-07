@@ -4,7 +4,7 @@ from pathlib import Path
 from Bio import Entrez
 import xml.etree.ElementTree as ET
 
-Entrez.email = "k.pazmany@liverpool.ac.uk"
+Entrez.email = "your_email@example.com"
 
 cache = pd.read_csv("outputs/accession_taxid_cache.csv")
 cache_accs = set(cache["accession"])
